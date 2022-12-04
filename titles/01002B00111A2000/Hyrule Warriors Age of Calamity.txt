@@ -1,0 +1,7 @@
+FPS Codes By iCris4
+Resolution Hacks by Hazerou
+
+Notes;
+- When using 60 FPS, Game Speed will Slow Down as FPS Drops, Also some Cutscenes Runs Faster.
+
+Further upscaling the Resolution above 810p will only cause a Graphical Glitch.
