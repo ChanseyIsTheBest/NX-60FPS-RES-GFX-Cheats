@@ -1,0 +1,31 @@
+Included in the text file;
+
+[RRS]
+[MSAA]
+[AA]
+[Shadow]
+[SSAO]
+[Bloom]
+[Motion Blur]
+[MIN/MAX/Default GFX Quality]
+
+Note;
+
+The [GFX Quality] Are For;
+
+[MSAA]
+[AA]
+[Shadow]
+[SSAO]
+[Bloom]
+
+=====
+
+[RRS] is Render Resolution Scale.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+
+Some GFX Codes has no Function/Effect to the Game.
+
+By @Hazerou

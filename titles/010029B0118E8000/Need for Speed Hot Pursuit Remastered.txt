@@ -1,0 +1,10 @@
+For use with 60 FPS Patch by @masagrator here;
+https://gbatemp.net/threads/need-for-speed-hot-pursuit-remastered-60-fps-mod.583815/
+
+Codes by @Hazerou
+
+- Goal of this Codes is to fix the Online Multiplayer Mode Issue.
+
+If you want to play Offline : Activate the 60 FPS Cheat.
+
+If you want to play Online : Activate the 30 FPS Cheat.

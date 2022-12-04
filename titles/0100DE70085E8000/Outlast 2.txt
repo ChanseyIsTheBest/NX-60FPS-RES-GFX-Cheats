@@ -1,0 +1,3 @@
+By Hazerou
+
+- On NSwitch Max OC using 60 FPS, The FPS will drop straight to 30 if it can't handle 60 FPS.
