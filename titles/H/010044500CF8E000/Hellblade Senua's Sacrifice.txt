@@ -1,0 +1,40 @@
+Included in the text file;
+
+[RRS]
+[Film Grain]
+[CHROM AB]
+[Lens Flare]
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[MSAA]
+[AA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+[Motion Blur]
+[MIN/MAX/Default GFX Quality]
+
+Note;
+
+The [GFX Quality] Are For;
+
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[MSAA]
+[AA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+
+=====
+
+[RRS] is Render Resolution Scale. For some reason, Dynamic Resolution Function & Min/Max Screen Percentage doesn't exist in the memory. So we can only reach 100% 720p. But RRS should persists the resolution as long as the cheat is active.
+
+Some GFX Codes has no Function/Effect to the Game.
+By @Hazerou
