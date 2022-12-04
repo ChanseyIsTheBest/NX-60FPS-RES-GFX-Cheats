@@ -9,10 +9,15 @@ If your cheat is here and you don't like that please let me know so I can take a
 
 Recommended cheats and overclocking software for usage
 https://github.com/retronx-team/sys-clk
+
 https://github.com/KazushiMe/Switch-OC-Suite
+
 https://github.com/WerWolv/Tesla-Menu
+
 https://github.com/masagrator/Status-Monitor-Overlay
+
 https://github.com/proferabg/EdiZon-Overlay
+
 https://github.com/masagrator/NX-FPS
 
 
