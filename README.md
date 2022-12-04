@@ -3,11 +3,11 @@ A database of 60FPS cheats, resolution cheats, and general graphics cheats for N
 
 These cheats are designed for hardware usage and may not work on emulators.
 
-Credit for the creator of each cheat is contained within.
-
-If your cheat is here and you don't like that please let me know so I can take action.
+Credit for the creator of each cheat is contained within. If your cheat is here and you don't like that please let me know so I can take action.
 
 If any cheats won't work please let me know my creating an issue in Github.
+
+To download cheats click Code -> Download ZIP and extract the TitleID folders to your SD card under atmosphere/contents
 
 Request for cheats, ask for help and chill out here: https://discord.gg/VndKxFg7EE
 
