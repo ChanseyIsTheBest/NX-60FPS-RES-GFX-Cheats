@@ -1,0 +1,14 @@
+Included in the text file;
+
+Resolution Hacks By @Hazerou
+
+Notes;
+
+1.) FPS will drop straight to 30 and Game Speed will slow down whenever Switch can't handle 60 FPS.
+
+2.) Resolution Hacks will not work properly if you have a Resolution / Disable Dynamic Resolution Patch/Mod.
+
+3.) Do not activate both Handheld and Docked Resolution Hacks at the same time.
+
+FPS Codes by @theboy181 based from his YUZU Mod which can be found here;
+https://yuzu-emu.org/wiki/switch-mods/

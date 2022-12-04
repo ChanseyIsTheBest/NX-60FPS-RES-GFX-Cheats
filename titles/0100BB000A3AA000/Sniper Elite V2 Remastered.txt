@@ -1,0 +1,3 @@
+By Hazerou
+
+FPS will drop straight to 30 whenever Switch can't handle 60 FPS. But luckily the game has D Res so I also made a Resolution Hacks but there's some random Graphical Glitches when using it especially the lower Resolutions.

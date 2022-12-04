@@ -1,0 +1,41 @@
+Included in the text file;
+
+[RRS]
+[Sky Lighting Quality]
+[MSAA]
+[AA]
+[Shadow]
+[SSAO]
+[Bloom]
+
+Note;
+
+The [GFX Quality] Are For;
+
+[MSAA]
+[AA]
+[Shadow]
+[SSAO]
+[Bloom]
+
+=====
+
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+
+Some GFX Codes has no Function/Effect to the Game.
+
+GFX Codes might not work if you are using Graphics Mods.
+
+Crash may occur if you activate the GFX Codes while in the Main Menu.
+
+Update#1;
+
+Corrected the [RRS]
+
+Handheld RRS 100% : 540p => 612p
+Docked RRS 100% : 720p => 920p
+
+By @Hazerou

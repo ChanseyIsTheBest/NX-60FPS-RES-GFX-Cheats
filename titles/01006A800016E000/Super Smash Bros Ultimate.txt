@@ -1,0 +1,5 @@
+By Hazerou
+
+The UI Speed is indeed noticeably slower when the game is locked at 30 FPS. But the Game Speed is Normal during actual gameplay. 
+
+https://www.youtube.com/watch?v=YiPHIyfUjcA

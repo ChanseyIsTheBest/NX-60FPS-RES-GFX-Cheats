@@ -1,0 +1,3 @@
+By Hazerou
+
+Camera is buggy when using 30 FPS.

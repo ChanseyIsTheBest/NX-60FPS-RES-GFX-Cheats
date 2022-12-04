@@ -1,0 +1,37 @@
+Included in the text file;
+
+[RRS]
+[CHROM AB]
+[AA]
+[Shadow]
+[SSAO]
+[Bloom]
+[MIN/MAX/Default GFX Quality]
+
+Note;
+
+The [GFX Quality] Are For;
+
+[AA]
+[Shadow]
+[SSAO]
+[Bloom]
+
+=====
+
+[RRS] is Render Resolution Scale.
+Dynamic Resolution Function was already OFF by default. But I put the Maximal & Minimal Screen Percentage values same alongside RRS.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+
+Some GFX Codes has no Function/Effect to the Game.
+
+Update#1;
+
+Fixed the wrong address for Minimal Screen Percentage.
+
+Update#2;
+
+Added [CHROM AB] Chromatic Aberration.
+By @Hazerou

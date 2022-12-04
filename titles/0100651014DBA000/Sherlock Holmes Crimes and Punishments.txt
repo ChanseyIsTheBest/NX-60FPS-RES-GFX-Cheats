@@ -1,0 +1,13 @@
+Included in the text file;
+
+[480p Locked]
+[540p Locked]
+[648p Locked]
+[720p Locked]
+[810p Locked]
+[900p Locked]
+[1080p Locked]
+[Disable Resolution Lock(Re-enable D RES)]
+
+You already know which one to use for Handheld or for Docked Mode.
+By @Hazerou
