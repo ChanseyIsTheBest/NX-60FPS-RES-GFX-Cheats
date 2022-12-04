@@ -7,11 +7,18 @@ assignees: ''
 
 ---
 
-1. Do not open issues requesting cheats, asking for assistance with using cheats - ask for help here - https://discord.gg/VndKxFg7EE
-2. Do not open issues for emulator issues as cheats are designed for original hardware usage only
-2. Only report issues with the database which includes the following
+Only open an issue in the NX-60FPS-RES-GFX-Cheats repository for the following:
+
 - Incorrect TitleIDs for games
 - Incorrect BuildIDs for games
 - Incorrect file structure
 - Cheats that are not correctly formatted
-- Cheats that do not work (First, ensure cheats are loaded correctly and selectable by Edizon and are enabled - if no cheats load at all, that is an issue with your setup we can only help on the Discord - https://discord.gg/VndKxFg7EE)
+- Broken 60FPS and resolution cheats (not GFX) IF YOU ARE 100% certain they are broken and it's not user error - ensure cheats have loaded in Edizon first
+
+
+DO NOT open issues for the following:
+
+- Requesting cheats 
+- Asking for assistance with using cheats
+
+Please join the community on Discord at https://discord.gg/VndKxFg7EE for assistance with the above. Alternatively seek help on the GBAtemp forums.
