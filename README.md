@@ -20,6 +20,8 @@ The latest versions of the following tools are recommended to get the most out o
 
 #### Overclocking:
 
+**You are responsible for your usage of these cheats and any overclock you decide to apply.**
+
 [**sys-clk**](https://github.com/retronx-team/sys-clk) homebrew overclocking/underclocking system module and frontend
 
 Alternatively the fork of sys-clk supplied with [**Switch-OC-Suite**](https://github.com/KazushiMe/Switch-OC-Suite)
@@ -51,6 +53,18 @@ Come and join us on discord for cheat requests, cheat updates, assistance, to co
 The issues section is only for reporting issues with the cheat database, for example incorrect TitleIDs or BuildIDs.
 
 Do not open issues requesting cheats, asking for assistance with using cheats etc. Join our discord server listed above for that, or seek help on GBAtemp.
+
+## Contributing cheats
+
+The best ways to contribute your own cheats are either in the discord server linked above or by submitting a pull request that uses the following directory structure:
+
+`titles/TitleID/Game Name.txt`
+
+`titles/TitleID/cheats/BuildID.txt`
+
+Include your credit and any additional notes you wish to include in the `Game Name.txt`
+
+See any other cheats in this repository for examples.
 
 ## Credits
 
