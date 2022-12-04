@@ -1,7 +1,0 @@
-By Hazerou
-
-- A Heavy Game to run 60 FPS even at MAX OC Handheld Mode (Not to be confused with Handheld Clocks).
-
-How to fix weird Frame Pacing when you activate the Cheat;
-
-* Just Pause the Game by pressing PLUS then continue playing.
