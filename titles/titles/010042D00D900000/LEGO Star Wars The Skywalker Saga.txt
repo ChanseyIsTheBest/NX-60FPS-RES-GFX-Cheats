@@ -1,0 +1,6 @@
+by Hazerou, CloudMcFox#1580 
+Notes;
+
+1.) Most Cutscenes are running at 30 FPS.
+
+2.) There's a Resolution Flickering when using [Minimize Resolution (Disables D Res)]. Though it's not noticable if you won't stay idle so it's all good.
