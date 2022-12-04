@@ -1,4 +1,7 @@
-# NX-60FPS-RES-GFX-Cheats
+# NX-60FPS-RES-GFX-Cheats [W.I.P]
+
+![fpsdemo1](https://user-images.githubusercontent.com/119771197/205493192-ad157f47-7060-4fa7-9af6-12b9027361a8.gif)
+
 A database of 60FPS cheats, resolution cheats, and general graphics cheats for Nintendo Switch games.
 
 These cheats are designed for hardware usage and may not work on emulators.
