@@ -1,8 +1,0 @@
-by Hazerou, retole
-Included in the text file;
-
-Overall Resolution Cheats from [360p] up to [1080p].
-
-Note for Emulator Users requesting;
-
-We can't go even higher like 2K or 4K because the View port is still messed up even if we set Fullscreen=True.

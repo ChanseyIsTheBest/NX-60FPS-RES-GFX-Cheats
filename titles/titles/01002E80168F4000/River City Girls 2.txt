@@ -1,4 +1,0 @@
-by Hazerou
-Note: Game might freeze after activating the Cheat. Just wait.
-And I didn't add [Default True 30 FPS] because if you use it to revert back, the Game will Freeze.
-Oh and now OC the CPU More because it's made it more Intensive. (Game utilizes just 1 CPU Core...)
