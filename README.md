@@ -48,7 +48,7 @@ Come and join us on discord for cheat requests, updates, assistance and just to 
 
 The issues section is only for reporting issues with the cheat database, for example incorrect TitleIDs or BuildIDs.
 
-Do not open issues requesting cheats, asking for assistance with using cheats etc. Join our discord server listed above for that, or seek help on gbatemp.
+Do not open issues requesting cheats, asking for assistance with using cheats etc. Join our discord server listed above for that, or seek help on GBAtemp.
 
 ## Credits
 
