@@ -1,0 +1,9 @@
+By @Hazerou
+
+Note;
+
+When using 60 FPS, Game Speed will slow down whenever FPS Drops.
+
+Resolution Hacks will not work straight away after activating it. You need to move around a little to change effect. And unfortunately it only works in Handheld Mode because it's not working properly in Docked Mode.
+
+Thanks to @lucky for providing a guide to find the FPS Code.
