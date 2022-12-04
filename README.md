@@ -32,7 +32,7 @@ The [**SaltyNX sysmodule**](https://github.com/masagrator/SaltyNX) along with [*
 
 #### Cheat software:
 
-[**EdiZon-SE homebrew**](https://github.com/tomvita/EdiZon-SE) and this special version of [**EdiZon Overlay**](EdiZon-Overlay)
+[**EdiZon-SE homebrew**](https://github.com/tomvita/EdiZon-SE) and this special version of [**EdiZon Overlay**](https://github.com/proferabg/EdiZon-Overlay)
 
 #### Other:
 
