@@ -1,0 +1,11 @@
+Better use lower Resolution to achieve Stable 60 FPS.
+
+60 FPS Known Issues;
+
+1.) Game Speed will slow down whenever FPS drops.
+
+2.) Enemies roaming around moves super slow, Though their animation speed is normal.
+
+3.) Gravity is lighter.
+
+By Hazerou

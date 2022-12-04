@@ -1,0 +1,10 @@
+
+[Game Speed Toggle] Button Combos;
+
+
+Normal Speed (x1) = L + Dpad UP
+SlowMo Speed (x0.5) = L + Dpad LEFT
+Faster Speed (x2) = L + Dpad RIGHT
+
+Note : [Game Speed Toggle] will not work Properly if [(Hold L3) Game Speed x2] is active.
+By @Hazerou

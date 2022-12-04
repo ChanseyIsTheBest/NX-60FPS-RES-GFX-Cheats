@@ -1,0 +1,4 @@
+By Masagrator
+handheld_charging_cpu=1224
+handheld_charging_gpu=768
+handheld_charging_mem=1600

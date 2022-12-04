@@ -1,0 +1,6 @@
+By Masagrator
+Recommended OC settings:
+
+handheld_charging_cpu=1224
+handheld_charging_gpu=768
+handheld_charging_mem=1600
