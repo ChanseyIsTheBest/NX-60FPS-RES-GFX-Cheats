@@ -1,0 +1,7 @@
+Using 60 FPS in 30 FPS Locked areas will double the Game Speed.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+
+Some GFX Codes has no Function/Effect to the Game.
+By @Hazerou

@@ -1,0 +1,2 @@
+Can't achieve stable 60 FPS because of GPU bottleneck.
+By @Hazerou

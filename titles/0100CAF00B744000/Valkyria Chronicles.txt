@@ -1,0 +1,2 @@
+By @Hazerou
+- When using 60 FPS, UI and some effects may run faster. And Game Speed will slow down whenever FPS Drops.
