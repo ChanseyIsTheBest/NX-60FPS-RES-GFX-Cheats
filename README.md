@@ -42,9 +42,9 @@ The [**SaltyNX sysmodule**](https://github.com/masagrator/SaltyNX) along with [*
 
 ## Community and contact
 
-Come and join us on discord for cheat requests, updates, assistance and just to hang out!
+Come and join us on discord for cheat requests, cheat updates, assistance, to contribute cheats or just to hang out!
 
-**Invite:** https://discord.gg/VndKxFg7EE
+**Invite link:** https://discord.gg/VndKxFg7EE
 
 ## Issues
 
