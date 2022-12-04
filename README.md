@@ -26,8 +26,6 @@ Alternatively the fork of sys-clk supplied with [**Switch-OC-Suite**](https://gi
 
 The [**Tesla sysmodule**](https://github.com/WerWolv/nx-ovlloader) and [**Overlay menu**](https://github.com/WerWolv/Tesla-Menu)
 
-https://github.com/WerWolv/nx-ovlloader and https://github.com/WerWolv/Tesla-Menu
-
 #### FPS, clock speed, temperature monitoring and more:
 
 The [**SaltyNX sysmodule**](https://github.com/masagrator/SaltyNX) along with [**Status Monitor Overlay**](https://github.com/masagrator/Status-Monitor-Overlay) and the [**NX-FPS plugin**](https://github.com/masagrator/NX-FPS)
