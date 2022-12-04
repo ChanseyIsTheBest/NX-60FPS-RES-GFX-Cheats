@@ -8,6 +8,7 @@ Credit for the creator of each cheat is contained within.
 If your cheat is here and you don't like that please let me know so I can take action.
 
 Recommended cheats and overclocking software for usage
+
 https://github.com/retronx-team/sys-clk
 
 https://github.com/KazushiMe/Switch-OC-Suite
