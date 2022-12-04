@@ -1,0 +1,3 @@
+By Hazerou
+
+- FPS Cap is limited to 45.

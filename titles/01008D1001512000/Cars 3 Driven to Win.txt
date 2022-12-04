@@ -1,0 +1,5 @@
+By Hazerou 
+
+FPS will drop straight to 30 whenever it can't handle 60 FPS even at MAX OC + Handheld Mode.
+
+https://www.youtube.com/watch?v=FCIOTYbtUhk
