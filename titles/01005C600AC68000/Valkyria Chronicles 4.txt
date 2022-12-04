@@ -1,0 +1,4 @@
+by Hazerou
+FPS will drop to 30 and Game Speed will slow down when Switch can't handle 60 FPS. OC GPU if Possible.
+
+Couldn't find the Resolution Code. All I found is the viewport and it doesn't even affect improved the performance.
