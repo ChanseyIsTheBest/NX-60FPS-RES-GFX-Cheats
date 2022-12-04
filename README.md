@@ -7,6 +7,8 @@ Credit for the creator of each cheat is contained within.
 
 If your cheat is here and you don't like that please let me know so I can take action.
 
+Request for cheats, ask for help and chill out here: https://discord.gg/VndKxFg7EE
+
 Recommended cheats and overclocking software for usage
 
 https://github.com/retronx-team/sys-clk
