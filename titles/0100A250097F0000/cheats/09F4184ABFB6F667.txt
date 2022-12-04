@@ -1,5 +1,3 @@
-v1.30
-
 [Default Handheld/Docked RRS 100% (720p/1080p)]
 580F0000 05B86FD8
 780F0000 00000064
