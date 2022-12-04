@@ -1,0 +1,6 @@
+By Hazerou
+
+[FPS Toggle] Button Combos;
+R STICK + LEFT = [30 FPS For Use When Exploring]
+R STICK + RIGHT = [30 FPS For Use In Battle]
+R STICK + UP = [60 FPS]

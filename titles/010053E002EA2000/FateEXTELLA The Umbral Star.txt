@@ -1,0 +1,5 @@
+By Hazerou
+
+- There are still Framedrops using 60 FPS at Max Overclocks 1785/921/1600.
+
+https://www.youtube.com/watch?v=eo7RQYsWVG0

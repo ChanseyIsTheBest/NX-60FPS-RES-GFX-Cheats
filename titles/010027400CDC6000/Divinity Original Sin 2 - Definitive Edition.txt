@@ -1,0 +1,3 @@
+By Hazerou
+
+FPS will drop to 30 if it can't handle 60 FPS.
