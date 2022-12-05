@@ -34,7 +34,7 @@ for title in os.listdir("titles"):
     
     versionsLinked = [f"[{version[0]}](titles/{title}/cheats/{version[1]}.txt)" for version in versions]
 
-    table += f"| {i} | {name} | [{title}](titles/{title}) | {', '.join(cheatsLinked)} | {', '.join(versionsLinked)} | \n"
+    table += f"| {i} | [{name}](titles/{title}/{name}.txt) | [{title}](titles/{title}) | {', '.join(cheatsLinked)} | {', '.join(versionsLinked)} | \n"
     i += 1
     numCheats += len(cheats)
 
