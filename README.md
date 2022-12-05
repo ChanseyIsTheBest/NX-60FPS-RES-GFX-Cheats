@@ -20,6 +20,10 @@ The latest versions of the following tools are recommended to get the most out o
 
 [**Atmosphère**](https://github.com/Atmosphere-NX/Atmosphere)
 
+#### Cheat downloads:
+
+[**AIO-Switch-Updater**](https://github.com/HamletDuFromage/aio-switch-updater) to download cheats from this database directly on your Switch
+
 #### Overclocking:
 
 **You are responsible for your usage of these cheats and any overclock you decide to apply.**
@@ -72,6 +76,8 @@ See any other cheats in this repository for examples.
 
 This project is born from the work of **Hazerou** (https://gbatemp.net/threads/60-fps-cheats-for-nswitch.592464/) and the many great cheat makers who have contributed and continue to contribute cheats.
 
-Special thanks to **AnimatedSwine37** (https://twitter.com/AnimatedSwine37) for creating the auto updating Games.md!
+Special thanks to [**AnimatedSwine37**](https://twitter.com/AnimatedSwine37) for creating the auto updating Games.md!
+
+Special thanks to [**HamletDuFromage**](https://github.com/HamletDuFromage) for adding this database to [**AIO-Switch-Updater**](https://github.com/HamletDuFromage/aio-switch-updater)
 
 All cheat authors are credited inside the `TitleID/Game Name.txt` files!
