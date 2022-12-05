@@ -1,0 +1,3 @@
+By CloudMcFox
+
+60 FPS in dock mode isn't stable even with full OC (at max as HOS allows, haven't tried with KazushiMe OC mods), playing in dock mode with this cheat is painful on every single corner for some reason, you can get the best experience playing on handheld mode with full OC, OR playing on TV setting the console profile to handheld with Masagrator's plugin ReverseNX (needs SaltyNX). Unlike Fortnite & Apex that even on handheld mode have problems to reach 60 FPS, handheld OC mode offers full performance on this game.

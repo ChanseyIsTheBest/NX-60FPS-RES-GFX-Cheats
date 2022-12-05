@@ -1,0 +1,43 @@
+By Hazerou
+
+Included in the text file;
+
+
+[RRS]
+[Motion Blur]
+[Film Grain]
+[CHROM AB]
+[Lens Flare]
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[MSAA]
+[AA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+[MIN/MAX/Default GFX Quality]
+
+Note;
+
+The [GFX Quality] Are For;
+
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[MSAA]
+[AA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+
+=====
+
+[RRS] is Render Resolution Scale and unfortunately I can't find the Dynamic Resolution Function and the MIN/MAX Screen Percentage.
+So the RRS only affects the Max Resolution up to 100% only.
+
+Some GFX Codes has no Function/Effect to the Game.

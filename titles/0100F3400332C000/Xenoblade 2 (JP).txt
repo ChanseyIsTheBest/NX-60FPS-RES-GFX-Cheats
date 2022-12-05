@@ -1,0 +1,34 @@
+By Hazerou, masagrator
+
+60 FPS codes are based from Masagrator's here;
+https://github.com/masagrator/NXGraphicsPatches/blob/experimental/Xenoblade%20Chronicles%202/Xenoblade260FPS-alpha/0100E95004038000/cheats/D007651BC7C6A51E.txt
+
+60 FPS known issues;
+
+1.) Game Speed will slow down whenever FPS Drops.
+
+2.) Might not work properly if you have a Patch/Mod installed.
+
+The Cutscenes Speed Fix drops the FPS to 30 to fix the Game from Speeding up whenever Cutscenes occur.
+
+Included in the text file;
+
+[Handheld RRS 70% (376p)]
+[Handheld RRS 88.88% (480p)]
+[Default Handheld RRS 100% (544p)]
+[Handheld RRS 113.33% (616p)]
+[Handheld RRS 133.33% (720p)]
+[Default Docked RRS 100% (720p)]
+[Disable RRS Lock (Re-Enable D.R.S.)]
+
+
+Notes; 
+
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+
+2.) [RRS] may not work or may not be accurate if there's a Mod/Patch used such as Resolution/Graphics Mod etc.
+
+3.) Going above 720p Crashes the game.
