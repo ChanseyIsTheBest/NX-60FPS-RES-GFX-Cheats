@@ -9,7 +9,7 @@ allVersions = json.load(response)
 table = """# Games List
 A list of all games with cheats.
 
-Currently contains {numCheats} cheats for {numTitles} titles.
+Currently contains {numCheats} cheat files for {numTitles} titles.
 
 | No | NAME | TITLE ID | BUILD ID | VERSION |
 | --- | --- | --- | --- | --- |
