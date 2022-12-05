@@ -27,7 +27,7 @@ for title in os.listdir("titles"):
         name = "Unknown"
     cheatsLinked = [f"[{cheat}](titles/{title}/cheats/{cheat}.txt)" for cheat in cheats]
     if(not title in allVersions):
-        print(f"Missing version information for {title}")
+        # print(f"Missing version information for {title}")
         versions = []
     else:
         versions = [version for version in allVersions[title].items() if version[1] in cheats]
