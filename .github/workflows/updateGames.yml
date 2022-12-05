@@ -1,0 +1,26 @@
+name: Update Games List
+on:
+  push
+jobs:
+  generate-games:
+    runs-on: ubuntu-latest
+    outputs:
+      gamesUpdated: ${{ steps.generate.outputs.gamesUpdated }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Generate Games List
+        id: generate
+        run: | 
+          output=$(python generateGamesList.py)
+          echo "GAMES_UPDATED=$output" >> $GITHUB_ENV
+      - name: Commit and push changes
+        if: env.GAMES_UPDATED == 'true'
+        uses: devops-infra/action-commit-push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          amend: true
+          force: true
+          no_edit: true
