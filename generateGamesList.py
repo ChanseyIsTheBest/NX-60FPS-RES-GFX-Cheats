@@ -1,5 +1,5 @@
 import os
-import urllib.request
+import urllib.request, urllib.parse
 import json
 
 response = urllib.request.urlopen(
@@ -34,7 +34,8 @@ for title in os.listdir("titles"):
     
     versionsLinked = [f"[{version[0]}](titles/{title}/cheats/{version[1]}.txt)" for version in versions]
 
-    table += f"| {i} | [{name}](titles/{title}/{name}.txt) | [{title}](titles/{title}) | {', '.join(cheatsLinked)} | {', '.join(versionsLinked)} | \n"
+    nameLink = urllib.parse.quote(f"titles/{title}/{name}.txt")
+    table += f"| {i} | [{name}]({nameLink}) | [{title}](titles/{title}) | {', '.join(cheatsLinked)} | {', '.join(versionsLinked)} | \n"
     i += 1
     numCheats += len(cheats)
 
