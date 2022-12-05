@@ -24,11 +24,11 @@ The latest versions of the following tools are recommended to get the most out o
 
 #### Cheat downloads:
 
-[**AIO-Switch-Updater**](https://github.com/HamletDuFromage/aio-switch-updater) to download cheats from this database directly on your Switch
+[**AIO-Switch-Updater**](https://github.com/HamletDuFromage/aio-switch-updater) to download cheats from this database directly on your Switch either as a batch download for all detected installed titles or as individual cheats for detected installed titles
 
 #### Overclocking:
 
-**You are responsible for your usage of these cheats and any overclock you decide to apply.**
+**You are responsible for your own usage of these cheats and any overclock settings you choose to apply!**
 
 [**sys-clk**](https://github.com/retronx-team/sys-clk) homebrew overclocking/underclocking system module and frontend
 
