@@ -1,12 +1,18 @@
 import os
+import urllib.request
+import json
+
+response = urllib.request.urlopen(
+    'https://raw.githubusercontent.com/HamletDuFromage/switch-cheats-db/master/versions.json')
+allVersions = json.load(response)
 
 table = """# Games List
 A list of all games with cheats.
 
 Currently contains {numCheats} cheats for {numTitles} titles.
 
-| No | NAME | TITLE ID | BUILD ID |
-| --- | --- | --- | --- |
+| No | NAME | TITLE ID | BUILD ID | VERSION |
+| --- | --- | --- | --- | --- |
 """
 
 i = 1
@@ -20,7 +26,15 @@ for title in os.listdir("titles"):
     else:
         name = "Unknown"
     cheatsLinked = [f"[{cheat}](titles/{title}/cheats/{cheat}.txt)" for cheat in cheats]
-    table += f"| {i} | {name} | [{title}](titles/{title}) | {', '.join(cheatsLinked)} |\n"
+    if(not title in allVersions):
+        print(f"Missing version information for {title}")
+        versions = []
+    else:
+        versions = [version for version in allVersions[title].items() if version[1] in cheats]
+    
+    versionsLinked = [f"[{version[0]}](titles/{title}/{version[1]}.txt)" for version in versions]
+
+    table += f"| {i} | {name} | [{title}](titles/{title}) | {', '.join(cheatsLinked)} | {', '.join(versionsLinked)} | \n"
     i += 1
     numCheats += len(cheats)
 
