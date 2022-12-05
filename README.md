@@ -10,6 +10,8 @@ These cheats are designed for usage on real Nintendo Switch hardware running cus
 
 To mass download cheats click Code -> Download ZIP and extract the TitleID folders to your SD card under `atmosphere/contents`
 
+You can search for games that have cheats by using the [**Games.md**](https://github.com/karmicpumpkin/NX-60FPS-RES-GFX-Cheats/blob/main/GAMES.md)
+
 ## Recommended tools
 
 The latest versions of the following tools are recommended to get the most out of these cheats. Without overclocking most of the cheats will not work to their proper potential and in many cases handheld profiles should be forced to allow for more performance headroom.
@@ -69,5 +71,7 @@ See any other cheats in this repository for examples.
 ## Credits
 
 This project is born from the work of **Hazerou** (https://gbatemp.net/threads/60-fps-cheats-for-nswitch.592464/) and the many great cheat makers who have contributed and continue to contribute cheats.
+
+Special thanks to **AnimatedSwine37** (https://twitter.com/AnimatedSwine37) for creating the auto updating Games.md!
 
 All cheat authors are credited inside the `TitleID/Game Name.txt` files!
