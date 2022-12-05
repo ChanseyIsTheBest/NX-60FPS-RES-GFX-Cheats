@@ -1,6 +1,21 @@
 By Hazerou
 
 [FPS Toggle] Button Combos;
+
+Press R Stick + Left Dpad = 30 FPS
+Press R Stick + Right Dpad = 60 FPS
+
+
+FPS Cheats only works in Battles because 60 FPS is not a good experience during exploration mode (Handheld Mode + Max OC).
+
+Also when using 60 FPS, Game Speed will slow down when FPS drops.
+
+
+--------------
+
+Older versions:
+
+[FPS Toggle] Button Combos;
 R STICK + LEFT = [30 FPS For Use When Exploring]
 R STICK + RIGHT = [30 FPS For Use In Battle]
 R STICK + UP = [60 FPS]

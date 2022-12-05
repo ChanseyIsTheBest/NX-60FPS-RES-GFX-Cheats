@@ -1,0 +1,38 @@
+By Hazerou, theboy181
+
+60 FPS known Issues;
+
+1.) 2D Elements and some Effects seems to run faster.
+
+2.) FPS will drop straight to 30 if Switch can't handle 60 FPS.
+=====
+ 
+Included in the text file;
+
+
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Handheld RRS 75% (544p)]
+[Handheld RRS 85% (616p)]
+[Default Handheld RRS 100% (720p)]
+[Docked RRS 66.66% (712p)]
+[Docked RRS 75% (816p)]
+[Docked RRS 83.33% (896p)]
+[Docked RRS 90% (976p)]
+[Default Docked RRS 100% (1080p)]
+[Disable RRS Lock (Re-Enable D.R.S.)]
+
+
+Notes; 
+
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+
+2.) [RRS] may not work or may not be accurate if there's a Mod/Patch used such as Resolution/Graphics Mod etc.
+
+=====
+
+Update#1;
+- 60 FPS is now v2 to also cut down the FPS to 30 during Conversation Scenes due to Black Screen occuring after scenes' end. 

@@ -1,17 +1,26 @@
 By Hazerou
 
-- Cutscenes are locked at 30 FPS.
-
-I haven't tested it in other Region of the game but maybe it will work. Just make sure it's the same v1.11
+Non Pre-Rendered Cutscenes now also runs at 60 FPS.
 
 Included in the text file;
 
 [Enable / Disable Dynamic Resolution]
 [RRS]
+[Image Sharpening]
+[Vignette]
+[Motion Blur]
+[Film Grain]
+[CHROM AB]
+[Lens Flare]
 [Sky Lighting Quality]
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
 [MSAA]
 [AA]
 [Shadow]
+[Shadow Distance]
 [SSAO]
 [Bloom]
 [MIN/MAX/Default GFX Quality]
@@ -20,9 +29,14 @@ Note;
 
 The [GFX Quality] Are For;
 
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
 [MSAA]
 [AA]
 [Shadow]
+[Shadow Distance]
 [SSAO]
 [Bloom]
 
@@ -35,8 +49,5 @@ Docked RRS for Docked Mode.
 
 Some GFX Codes has no Function/Effect to the Game.
 
-Crash may occur if you mess around too much with the GFX Codes. Just activate the ones you like then get playing.
 
-Update#1;
-
-Added [RRS] also with 540p Downscaling for more stable 60 FPS.
+https://www.youtube.com/shorts/OHTQ81vHY-c

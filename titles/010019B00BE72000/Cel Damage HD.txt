@@ -1,0 +1,3 @@
+By Hazerou
+
+60 FPS may cause some Graphical Glitches like huge shadow and flashing light/colors appearing out of nowhere.

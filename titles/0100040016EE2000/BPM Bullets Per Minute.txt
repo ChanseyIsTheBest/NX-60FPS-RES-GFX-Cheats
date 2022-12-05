@@ -1,0 +1,3 @@
+By Cooler3D
+
+Note: Most of the time, the game will run below 60 FPS even if you use full overclock.

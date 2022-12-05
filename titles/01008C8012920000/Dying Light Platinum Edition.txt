@@ -1,1 +1,5 @@
 By ArcharGelod and Hazerou
+
+The Resolution Codes nearby these codes doesn't affect Render Resolution. It only affects the Texts and UI Shrinking them to the top left of the screen. But reducing the Visual Distance helps Improve the Performance.
+
+Oh and in order to apply these Graphics Codes, you need to go back to the Title Screen and then Continue.

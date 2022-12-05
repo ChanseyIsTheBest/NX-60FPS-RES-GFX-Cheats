@@ -1,0 +1,4 @@
+By Hazerou
+
+I couldn't find the Resolution Codes. The Game has no Dynamic Resolution mostly the reason why.
+And seems like this Game is CPU Heavy too so I don't think decreasing the Resolution will help much to achieve stable 60 FPS.
