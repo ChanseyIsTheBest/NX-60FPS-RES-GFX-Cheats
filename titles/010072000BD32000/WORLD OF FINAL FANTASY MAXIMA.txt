@@ -1,0 +1,2 @@
+By @Hazerou
+- When Using 60 FPS, Some Animations in a Cutscene looks like they are running at 30 FPS.
