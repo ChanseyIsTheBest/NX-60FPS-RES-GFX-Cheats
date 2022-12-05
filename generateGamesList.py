@@ -32,7 +32,7 @@ for title in os.listdir("titles"):
     else:
         versions = [version for version in allVersions[title].items() if version[1] in cheats]
     
-    versionsLinked = [f"[{version[0]}](titles/{title}/{version[1]}.txt)" for version in versions]
+    versionsLinked = [f"[{version[0]}](titles/{title}/cheats/{version[1]}.txt)" for version in versions]
 
     table += f"| {i} | {name} | [{title}](titles/{title}) | {', '.join(cheatsLinked)} | {', '.join(versionsLinked)} | \n"
     i += 1
