@@ -1,0 +1,6 @@
+By retole
+
+Need OC in Dock Mode.
+For 60 FPS you need VSync OFF, technically you need only [VSync] and no more.
+
+Just run in Dock Mode with ReverseNX

@@ -1,0 +1,4 @@
+By retole
+
+Need OC: GPU 768+; CPU  1326+
+Better use with [GPU+]

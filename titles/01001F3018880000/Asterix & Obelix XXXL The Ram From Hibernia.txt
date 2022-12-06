@@ -1,0 +1,7 @@
+By retole
+
+Need OC: GPU 768+; CPU  1326+
+For 60 FPS you need VSync OFF, technically you need only [VSync] and no more.
+
+Included in the text file:
+[FPS], [RRS], [VSync] options.

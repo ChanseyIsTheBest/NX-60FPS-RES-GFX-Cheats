@@ -1,0 +1,4 @@
+By retole
+
+Need OC: GPU 921+; CPU  1326+
+Better use with [GPU+], its a "soap" code, but can rise 60 FPS with less OC.

@@ -1,0 +1,8 @@
+By retole
+
+Need OC GPU 614+
+WARNING! Can crash the game in some moments.
+
+Included in the text file:
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+[RRS] may not work or may not be accurate if there's a Mod/Patch used such as Resolution/Graphics Mod etc...

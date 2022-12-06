@@ -1,1 +1,72 @@
-By Hazerou, JotaGBA
+By Hazerou
+
+Included in the text file;
+
+[Enable / Disable Dynamic Resolution]
+[RRS]
+[Image Sharpening]
+[Vignette]
+[Motion Blur]
+[Film Grain]
+[CHROM AB]
+[Lens Flare]
+[Sky Lighting Quality]
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[MSAA]
+[AA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+[MIN/MAX/Default GFX Quality]
+
+Note;
+
+Some GFX Codes has no Function/ Effect to the Game.
+
+Changing the [AA] in Dock Mode Crashes the Game.
+
+The [GFX Quality (For Handheld Mode only)] Are For;
+
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[MSAA]
+[AA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+
+
+The [GFX Quality (For Dock Mode only)] Are For;
+
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[MSAA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+
+=====
+
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+
+Some GFX Codes has no Function/Effect to the Game.
+=====
+
+Dynamic Resolution if Enabled;
+
+Handheld RRS : 50% (360p) <-> 80% (576p)
+
+Docked RRS : 80% (864p) <-> 100% (1080p)
