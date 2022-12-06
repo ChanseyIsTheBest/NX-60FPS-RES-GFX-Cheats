@@ -1,0 +1,77 @@
+By Hazerou
+
+Included in the text file;
+
+[Upscale Quality] <= NEW!
+[Enable / Disable Dynamic Resolution]
+[RRS]
+[Image Sharpening]
+[Vignette]
+[Motion Blur]
+[Film Grain]
+[CHROM AB]
+[Lens Flare]
+[Sky Lighting Quality]
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[MSAA]
+[AA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+[MIN/MAX/Default GFX Quality]
+
+Note;
+
+The [GFX Quality] Are For;
+
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[MSAA]
+[AA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+
+=====
+
+[Upscale Quality] Is noticeable (more usable) when using lower RRS + AA OFF, AA Very Low or AA Low.
+
+Type-0: Nearest filtering
+
+Type-1: Simple Bilinear
+
+Type-2: Directional blur with unsharp mask upsample.
+
+Type-3: 5-tap Catmull-Rom bicubic, approximating Lanczos 2. (default)
+
+Type-4: 13-tap Lanczos 3.
+
+Type-5: 36-tap Gaussian-filtered unsharp mask (very expensive, but good for extreme upsampling)
+
+
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+
+Some GFX Codes has no Function/Effect to the Game.
+
+I also removed;
+
+
+[AA High (Default TAA)]
+[AA Very High]
+[AA Max]
+
+Because the Game will crash if one of those is used.
+
+Messing with the settings especially[AA] too fast/frequent may Crash the Game.
+If you have EdiZon Overlay or any Overlay to use Cheats, do it in Nintendo Switch Home Menu to reduce chance of Crashing the Game.
+And Just activate the ones you like then get playing.
