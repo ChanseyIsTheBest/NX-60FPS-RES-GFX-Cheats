@@ -1,0 +1,5 @@
+[Restore Code (Use after unchecking any cheats below)]
+040E0000 031F4A90 2A1503E1
+
+[#01. 60FPS]
+040E0000 031F4A90 52800021
