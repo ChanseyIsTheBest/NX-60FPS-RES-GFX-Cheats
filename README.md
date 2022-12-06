@@ -1,4 +1,4 @@
-# NX-60FPS-RES-GFX-Cheats [W.I.P]
+# NX-60FPS-RES-GFX-Cheats
 
 ![fpsdemo1](https://user-images.githubusercontent.com/119771197/205493192-ad157f47-7060-4fa7-9af6-12b9027361a8.gif)
 
