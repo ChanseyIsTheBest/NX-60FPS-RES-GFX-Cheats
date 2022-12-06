@@ -33,7 +33,7 @@ for title in os.listdir("titles"):
         versions = [version for version in allVersions[title].items() if version[1] in cheats]
     
     versionsLinked = [f"[{version[0]}](titles/{title}/cheats/{version[1]}.txt)" for version in versions]
-    versionsLinked.sort()
+    versionsLinked.sort(reverse=False)
 
     nameLink = urllib.parse.quote(f"titles/{title}/{name}.txt")
     tableItems.append(f"[{name}]({nameLink}) | [{title}](titles/{title}) | {', '.join(cheatsLinked)} | {', '.join(versionsLinked)} |")
