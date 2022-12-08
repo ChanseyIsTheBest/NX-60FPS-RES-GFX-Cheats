@@ -1,0 +1,20 @@
+By Kirby567fan
+
+ips patch for lower res located at: https://gbatemp.net/threads/super-kirby-clash-60fps-hack.552827/
+
+Hack for Super Kirby Clash that makes the game run at 60 FPS at all time rather than only in menus. It is hitting that target framerate 99% of the time in handheld mode when using the below OC, a lower OC could also be stable but when a lot of effects are onscreen it might drop to 30FPS. Only tested in handheld mode and will probably be unstable in docked mode unless you use ReverseNX.
+
+handheld_charging_cpu=1785
+handheld_charging_gpu=768
+handheld_charging_mem=1600
+
+To install it simply copy the 01003FB00C5A8000 folder to the contents folder in the atmosphere folder, since this is a cheat you will need Edizon to enable it.
+
+Note: The 60FPS+LowerRes mod makes the game run at 60FPS as well as dropping resolution to 480p in handheld mode and 720p for docked mode, and as a result it doesnt need a lot of OC:
+
+handheld_cpu=1785
+handheld_charging_gpu=537
+handheld_gpu=460
+handheld_mem=1600
+docked_cpu=1785
+docked_gpu=921

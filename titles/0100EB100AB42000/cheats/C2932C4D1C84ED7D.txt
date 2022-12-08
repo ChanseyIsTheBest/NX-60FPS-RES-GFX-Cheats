@@ -1,0 +1,5 @@
+[Default FOV (45 degrees)]
+04000000 0175f498 3F490FDB
+
+[PS2 vertical FOV (51 degrees)]
+04000000 0175f498 3F63DEC5
