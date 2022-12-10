@@ -45,7 +45,7 @@ for title in os.listdir("titles"):
 table = table.replace("{numCheats}", str(numCheats))
 table = table.replace("{numTitles}", str(len(tableItems)))
 
-tableItems.sort()
+tableItems.sort(key=str.lower)
 table += "\n".join([f"| {i+1} | {item}" for i, item in enumerate(tableItems)])
 
 if(os.path.exists("GAMES.md")):
