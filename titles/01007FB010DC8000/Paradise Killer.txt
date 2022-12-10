@@ -1,0 +1,7 @@
+By retole
+
+Need OC: GPU 921+; CPU  1326+
+Better use with [RRS 66.66]. If you dont use lower RRS you cant cap 60 FPS.
+
+Included in the text file:
+[FPS], [RRS], [VSync] options.

@@ -1,0 +1,34 @@
+By Hazerou, retole
+
+Need OC GPU 768+
+
+Included in the text file:
+[FPS]
+[Enable / Disable Dynamic Resolution]
+[RRS]
+[CHROM AB]
+[Sky Lighting Quality]
+[MSAA]
+[AA]
+[Shadow]
+[SSAO]
+[Bloom]
+[MIN/MAX/Default GFX Quality]
+
+Note;
+The [GFX Quality] Are For:
+
+[MSAA]
+[AA]
+[Shadow]
+[SSAO]
+[Bloom]
+
+=====
+[FPS] have different points for alternative if it don't work in some users
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use:
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+
+Some GFX Codes has no Function/Effect to the Game.

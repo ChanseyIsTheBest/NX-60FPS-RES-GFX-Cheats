@@ -1,0 +1,7 @@
+By retole
+
+Need OC GPU 921+
+
+Included in the text file:
+[FPS]
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.

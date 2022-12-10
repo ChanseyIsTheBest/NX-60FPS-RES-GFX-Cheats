@@ -1,3 +1,47 @@
+By Hazerou
+
+Turning VSync OFF will not create screen tearing on the Switch because the 60 FPS Code sets the Hz mode to 60.
+
+Included in the text file;
+
+[Upscale Quality] <= NEW!
+[Enable / Disable Dynamic Resolution]
+[RRS]
+[Image Sharpening]
+[Vignette]
+[Motion Blur]
+[Film Grain]
+[CHROM AB]
+[Lens Flare]
+[Sky Lighting Quality]
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[MSAA]
+[AA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+[MIN/MAX/Default GFX Quality]
+
+Note;
+
+The [GFX Quality] Are For;
+
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[MSAA]
+[AA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+
+=====
 
 [Upscale Quality] Is noticeable (more usable) when using lower RRS + AA OFF, AA Very Low or AA Low.
 
@@ -13,4 +57,11 @@ Type-4: 13-tap Lanczos 3.
 
 Type-5: 36-tap Gaussian-filtered unsharp mask (very expensive, but good for extreme upsampling)
 
-By Hazerou
+
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+And please don't activate both at the same time!
+
+Some GFX Codes has no Function/Effect to the Game.

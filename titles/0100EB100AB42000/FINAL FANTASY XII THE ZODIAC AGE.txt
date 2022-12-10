@@ -1,0 +1,3 @@
+By masagrator
+
+Restores the FOV to match default 4:3 PS2 FOV instead of the cramped PS2 widescreen mode FOV that was used in Zodiac Age.

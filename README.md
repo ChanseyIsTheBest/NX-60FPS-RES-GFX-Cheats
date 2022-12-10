@@ -1,4 +1,4 @@
-# NX-60FPS-RES-GFX-Cheats [W.I.P]
+# NX-60FPS-RES-GFX-Cheats
 
 ![fpsdemo1](https://user-images.githubusercontent.com/119771197/205493192-ad157f47-7060-4fa7-9af6-12b9027361a8.gif)
 
@@ -10,9 +10,12 @@ These cheats are designed for usage on real Nintendo Switch hardware running cus
 
 Download these cheats directly on your Switch using [**AIO-Switch-Updater**](https://github.com/karmicpumpkin/NX-60FPS-RES-GFX-Cheats#cheat-downloads)
 
-You can search for games that have cheats by using the automatically updated [**Games List**](https://github.com/karmicpumpkin/NX-60FPS-RES-GFX-Cheats/blob/main/GAMES.md)
+You can search for games that have cheats by using the automatically updated [**Games List**](https://github.com/karmicpumpkin/NX-60FPS-RES-GFX-Cheats/blob/main/GAMES.md) 
+* selecting the game **NAME** will take you to a file that contains a credit for the cheat author(s) as well as any information they've included about the cheat
+* selecting a **TITLE ID** will take you to the game's TitleID directory which contains the credit/info file and the cheats directory for the game
+* selecting a **BUILD ID** or **VERSION** will take you directly to the corresponding cheat file
 
-To mass download the entire repository on a computer click "Code" -> "Download ZIP" and extract and copy the TitleID folders to your SD card under `atmosphere/contents`
+To mass download the entire cheat repository on a computer click "Code" -> "Download ZIP", extract the zip and copy the TitleID folders to your SD card under `sdmc:/atmosphere/contents` for usage
 
 ## Recommended tools
 
