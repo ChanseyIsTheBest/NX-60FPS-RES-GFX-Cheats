@@ -1,0 +1,46 @@
+Included in the text file:
+
+[RRS]
+[Image Sharpening]
+[Vignette]
+[Motion Blur]
+[Film Grain]
+[Lens Flare]
+[Sky Lighting Quality]
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[MSAA]
+[AA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+[MIN/MAX/Default GFX Quality]
+
+Note:
+
+The [GFX Quality] Are For:
+
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[MSAA]
+[AA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+
+=====
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use:
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+Some GFX Codes has no Function/Effect to the Game.
+For stable FPS you can use MIN GFX Quality with [Bloom] low. With this options you can play 480p@60FPS. But better try yourselfs to find good condition.
+Need close to MAX OC, depend of you options. 
