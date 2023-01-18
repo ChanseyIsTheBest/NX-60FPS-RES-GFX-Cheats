@@ -8,7 +8,7 @@ A complete database of 60FPS cheats, resolution cheats and general graphics chea
 
 These cheats are designed for usage on real Nintendo Switch hardware running custom firmware and may not work on emulators.
 
-Download these cheats directly on your Switch using [**AIO-Switch-Updater**](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats#cheat-downloads)
+Download these cheats directly on your Switch using [**AIO-Switch-Updater**](https://github.com/HamletDuFromage/aio-switch-updater)
 
 You can search for games that have cheats by using the automatically updated [**Games List**](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/blob/main/GAMES.md) 
 * selecting the game **NAME** will take you to a file that contains a credit for the cheat author(s) as well as any information they've included about the cheat
@@ -65,9 +65,17 @@ The issues section is only for reporting issues with the cheat database, for exa
 
 Do not open issues requesting cheats, asking for assistance with using cheats etc. Join our discord server listed above for that, or seek help on GBAtemp.
 
-## Contributing cheats
+## Creating and contributing cheats
 
-The best ways to contribute your own cheats are either in the discord server linked above or by submitting a pull request that uses the following directory structure:
+Please see the following resources for some guidance on creating cheats yourself:
+
+[**Hazerou**'s video tutorials](https://www.youtube.com/playlist?list=PL7F3HUhpLGiS7TzPM9V1hIh42GbcidN0n)
+
+[**Hazerou**'s text guide](https://gbatemp.net/threads/how-to-search-the-fps-codes-using-edizon-se.586786/)
+
+[**ChanseyIsTheBest**'s video tutorial](https://www.youtube.com/watch?v=h_XuSugIAsk)
+
+The best ways to contribute your cheats are either in the discord server linked above or by submitting a pull request that uses the following directory structure:
 
 `titles/TitleID/Game Name.txt`
 
@@ -81,7 +89,7 @@ See any other cheats in this repository for examples.
 
 ## Credits
 
-This project is born from the work of **Hazerou** (https://gbatemp.net/threads/60-fps-cheats-for-nswitch.592464/) and the many great cheat makers who have contributed and continue to contribute cheats.
+This project is born [from the work of **Hazerou**](https://gbatemp.net/threads/60-fps-cheats-for-nswitch.592464/) and the many great cheat makers who have contributed and continue to contribute cheats.
 
 Special thanks to [**AnimatedSwine37**](https://twitter.com/AnimatedSwine37) for creating the automatically updated [**Games List**](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/blob/main/GAMES.md)
 
