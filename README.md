@@ -8,9 +8,9 @@ A complete database of 60FPS cheats, resolution cheats and general graphics chea
 
 These cheats are designed for usage on real Nintendo Switch hardware running custom firmware and may not work on emulators.
 
-Download these cheats directly on your Switch using [**AIO-Switch-Updater**](https://github.com/karmicpumpkin/NX-60FPS-RES-GFX-Cheats#cheat-downloads)
+Download these cheats directly on your Switch using [**AIO-Switch-Updater**](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats#cheat-downloads)
 
-You can search for games that have cheats by using the automatically updated [**Games List**](https://github.com/karmicpumpkin/NX-60FPS-RES-GFX-Cheats/blob/main/GAMES.md) 
+You can search for games that have cheats by using the automatically updated [**Games List**](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/blob/main/GAMES.md) 
 * selecting the game **NAME** will take you to a file that contains a credit for the cheat author(s) as well as any information they've included about the cheat
 * selecting a **TITLE ID** will take you to the game's TitleID directory which contains the credit/info file and the cheats directory for the game
 * selecting a **BUILD ID** or **VERSION** will take you directly to the corresponding cheat file
@@ -75,13 +75,15 @@ The best ways to contribute your own cheats are either in the discord server lin
 
 Include your credit and any additional notes you wish to include in the `Game Name.txt`
 
+Do not include any comments in `[Cheat tags]` within the cheat file.
+
 See any other cheats in this repository for examples.
 
 ## Credits
 
 This project is born from the work of **Hazerou** (https://gbatemp.net/threads/60-fps-cheats-for-nswitch.592464/) and the many great cheat makers who have contributed and continue to contribute cheats.
 
-Special thanks to [**AnimatedSwine37**](https://twitter.com/AnimatedSwine37) for creating the automatically updated [**Games List**](https://github.com/karmicpumpkin/NX-60FPS-RES-GFX-Cheats/blob/main/GAMES.md)
+Special thanks to [**AnimatedSwine37**](https://twitter.com/AnimatedSwine37) for creating the automatically updated [**Games List**](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/blob/main/GAMES.md)
 
 Special thanks to [**HamletDuFromage**](https://github.com/HamletDuFromage) for adding this database to [**AIO-Switch-Updater**](https://github.com/HamletDuFromage/aio-switch-updater)
 
