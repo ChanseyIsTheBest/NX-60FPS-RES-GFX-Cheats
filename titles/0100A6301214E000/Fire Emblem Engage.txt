@@ -1,0 +1,3 @@
+By Jason
+
+Notes: The 60fps cheat causes double speed in menus and battles.
