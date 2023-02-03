@@ -1,4 +1,4 @@
-by retole
+by retole, updated by sds
 Need OC: CPU 1224+; GPU 691+; MEM 1600+
 
 Included in the text file:
