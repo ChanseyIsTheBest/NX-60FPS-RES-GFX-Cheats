@@ -1,2 +1,54 @@
-By Jason (0.2)
-40-45 fps @ 1785/921/1996
+By sds
+
+
+Included in the text file:
+
+[Enable / Disable Dynamic Resolution]
+[RRS]
+[VSync]
+[Image Sharpening]
+[Vignette]
+[Upscale Quality]
+[Motion Blur]
+[Film Grain]
+[CHROM AB]
+[FOG]
+[Lens Flare]
+[Sky Lighting Quality]
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[MSAA]
+[AA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+[MIN/MAX/Default GFX Quality]
+
+Note;
+
+The [GFX Quality] Are For:
+
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[MSAA]
+[AA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+
+=====
+
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use:
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+
+Some GFX Codes has no Function/Effect to the Game.
+
+|Need OC|
