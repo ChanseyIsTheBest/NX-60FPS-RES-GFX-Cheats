@@ -1,3 +1,4 @@
 By retole
+v1.0.3 by sds
 
 Need a little GPU OC (573MHz)
