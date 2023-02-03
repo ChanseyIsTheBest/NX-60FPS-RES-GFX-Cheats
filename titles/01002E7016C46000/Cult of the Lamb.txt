@@ -1,4 +1,5 @@
-By retole, Hazerou
+By retole, Hazerou 
+v1.1.0.1 by sds
 
 Included in the text file;
 
