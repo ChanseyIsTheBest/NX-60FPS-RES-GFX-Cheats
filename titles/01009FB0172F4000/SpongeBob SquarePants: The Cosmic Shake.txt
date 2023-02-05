@@ -1,2 +1,2 @@
-1.0.3 by Jason
-Game runs at 40-50 fps @ 1785/921/1996
+v1.0.3 by sds
+Game runs at 40-50 fps @ 1785/921/1996 default settings
