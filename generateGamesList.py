@@ -7,15 +7,16 @@ response = urllib.request.urlopen(
 allVersions = json.load(response)
 
 table = """# Games List
-A list of all games with cheats.
+A list of all games with cheats. Games with a 🟢 have cheats available for the latest version, and games with a 🔴 do not.
 
-Currently contains {numCheats} cheat files for {numTitles} titles.
+The database currently contains {numCheats} cheat files for {numTitles} titles, of which {numCheatsWithLatest} have cheats for the latest version.
 
 | No | NAME | TITLE ID | BUILD ID | VERSION |
 | --- | --- | --- | --- | --- |
 """
 
 numCheats = 0
+numCheatsWithLatest = 0
 tableItems = []
 
 for title in os.listdir("titles"):
@@ -37,6 +38,7 @@ for title in os.listdir("titles"):
             latest = [version[1] for version in allVersions[title].items() if version[0] == str(latest[0])]
             if(len(latest) > 0 and latest[0] in cheats):
                 latestHasCheats = "🟢"
+                numCheatsWithLatest += 1
     
     # Add any cheats that don't have a version to the end of the list
     versions += [(-1, cheat) for cheat in cheats if cheat not in [version[1] for version in versions]]
@@ -50,6 +52,7 @@ for title in os.listdir("titles"):
 
 table = table.replace("{numCheats}", str(numCheats))
 table = table.replace("{numTitles}", str(len(tableItems)))
+table = table.replace("{numCheatsWithLatest}", str(numCheatsWithLatest))
 
 tableItems.sort(key=str.lower)
 table += "\n".join([f"| {i+1} | {item}" for i, item in enumerate(tableItems)])
