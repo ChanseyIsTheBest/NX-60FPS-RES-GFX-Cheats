@@ -19,6 +19,7 @@ numCheats = 0
 tableItems = []
 
 for title in os.listdir("titles"):
+    latestHasCheats = "🔴"
     cheats = [file.removesuffix(".txt") for file in os.listdir(os.path.join("titles", title, "cheats"))]
     names = [file.removesuffix(".txt") for file in os.listdir(os.path.join("titles", title)) if file.endswith(".txt")]
     if len(names) != 0:
@@ -31,6 +32,11 @@ for title in os.listdir("titles"):
     else:
         versions = [version for version in allVersions[title].items() if version[1] in cheats]
         versions.sort(key=lambda x: int(x[0]))
+        latest = [version[1] for version in allVersions[title].items() if version[0] == 'latest'] 
+        if len(latest) > 0:
+            latest = [version[1] for version in allVersions[title].items() if version[0] == str(latest[0])]
+            if(len(latest) > 0 and latest[0] in cheats):
+                latestHasCheats = "🟢"
     
     # Add any cheats that don't have a version to the end of the list
     versions += [(-1, cheat) for cheat in cheats if cheat not in [version[1] for version in versions]]
@@ -39,7 +45,7 @@ for title in os.listdir("titles"):
     versionsLinked = [f"[{version[0]}](titles/{title}/cheats/{version[1]}.txt)" for version in versions if version[0] != -1]
 
     nameLink = urllib.parse.quote(f"titles/{title}/{name}.txt")
-    tableItems.append(f"[{name}]({nameLink}) | [{title}](titles/{title}) | {', '.join(cheatsLinked)} | {', '.join(versionsLinked)} |")
+    tableItems.append(f"[{name}]({nameLink}) | [{title}](titles/{title}) | {', '.join(cheatsLinked)} | {', '.join(versionsLinked)} {latestHasCheats}| ")
     numCheats += len(cheats)
 
 table = table.replace("{numCheats}", str(numCheats))
