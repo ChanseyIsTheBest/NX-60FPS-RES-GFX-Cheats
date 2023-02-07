@@ -1,4 +1,4 @@
-By sds version 1.0
+By sds
 
 Included in the text file:
 [Enable / Disable Dynamic Resolution]
@@ -50,3 +50,5 @@ Docked RRS for Docked Mode.
 Issues:
 Some GFX Codes has NO Function/Effect to Game.
 |Need OC|
+
+AA crash Game, only by default.
