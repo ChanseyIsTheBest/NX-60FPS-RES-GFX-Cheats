@@ -1,5 +1,6 @@
 By Hazerou
 v1.1 by sds
+v1.2 by sds
 
 Included in the text file;
 
