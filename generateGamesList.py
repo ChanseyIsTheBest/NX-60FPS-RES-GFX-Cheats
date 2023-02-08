@@ -15,11 +15,13 @@ Key for cheat types:
 - 🏃 FPS Cheats
 - 🖥️ Resolution Cheats
 - 🌄 Graphics Cheats
-- 🟢 Latest Version Has Cheats
-- 🔴 Latest Version Does Not Have Cheats
-- 🟠 Latest Version Unknown
 
-| No | NAME | TITLE ID | BUILD ID | VERSION | CHEAT TYPES |
+Key for latest status:
+- 🟢 Latest Version Has Cheats
+- 🟠 Latest Version Unknown
+- 🔴 Latest Version Does Not Have Cheats
+
+| NAME | TITLE ID | BUILD ID | VERSION | CHEAT TYPES | LATEST STATUS |
 | --- | --- | --- | --- | --- | --- |
 """
 
@@ -75,7 +77,7 @@ for title in os.listdir("titles"):
     versionsLinked = [f"[{version[0]}](titles/{title}/cheats/{version[1]}.txt)" for version in versions if version[0] != -1]
 
     nameLink = urllib.parse.quote(f"titles/{title}/{name}.txt")
-    tableItems.append(f"[{name}]({nameLink}) | [{title}](titles/{title}) | {', '.join(cheatsLinked)} | {', '.join(versionsLinked)} | {hasFpsCheats}{hasResCheats}{hasGfxCheats}{latestHasCheats} | ")
+    tableItems.append(f"[{name}]({nameLink}) | [{title}](titles/{title}) | {', '.join(cheatsLinked)} | {', '.join(versionsLinked)} | {hasFpsCheats}{hasResCheats}{hasGfxCheats} | {latestHasCheats} |")
     numCheats += len(cheats)
 
 table = table.replace("{numCheats}", str(numCheats))
@@ -83,7 +85,7 @@ table = table.replace("{numTitles}", str(len(tableItems)))
 table = table.replace("{numCheatsWithLatest}", str(numCheatsWithLatest))
 
 tableItems.sort(key=str.lower)
-table += "\n".join([f"| {i+1} | {item}" for i, item in enumerate(tableItems)])
+table += "\n".join([item for item in tableItems])
 
 if(os.path.exists("GAMES.md")):
     existingGames = open("GAMES.md", "r", encoding="utf-16").read()
