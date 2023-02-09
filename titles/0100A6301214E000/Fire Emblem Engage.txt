@@ -1,5 +1,6 @@
-By Jason v1
-By Silverdesu v2
-V2 resolution cheats by Hazerou
+By Jason v0
+By Silverdesu v1.1
+V1.1 resolution cheats by Hazerou
+v1.2 by sds
 
 Notes: The 60fps cheat causes double speed in menus and battles.
