@@ -18,7 +18,7 @@ Key for cheat types:
 
 Key for latest status:
 - 🟢 Latest Version Has Cheats
-- 🟠 Latest Version Unknown
+- 🟡 Latest Version Unknown
 - 🔴 Latest Version Does Not Have Cheats
 
 | NAME | TITLE ID | BUILD ID | VERSION | CHEAT TYPES | LATEST STATUS |
@@ -56,13 +56,13 @@ for title in os.listdir("titles"):
     if(not title in allVersions):
         # print(f"Missing version information for {title}")
         versions = []
-        latestHasCheats = "🟠"
+        latestHasCheats = "🟡"
     else:
         versions = [version for version in allVersions[title].items() if version[1] in cheats]
         versions.sort(key=lambda x: int(x[0]))
         # If none of the build ids have a version, then we don't know if the latest version has cheats
         if len(versions) == 0: 
-            latestHasCheats = "🟠"
+            latestHasCheats = "🟡"
         latest = [version[1] for version in allVersions[title].items() if version[0] == 'latest'] 
         if len(latest) > 0:
             latest = [version[1] for version in allVersions[title].items() if version[0] == str(latest[0])]
