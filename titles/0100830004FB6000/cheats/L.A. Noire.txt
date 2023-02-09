@@ -1,0 +1,20 @@
+By masagrator
+
+https://gbatemp.net/threads/l-a-noire-debug-graphics-settings.563516/
+
+L.A. Noire Debug Graphics Settings. Confirmed working settings:
+
+---Name = default state---
+Frameskip = false
+Litter = true
+Glows = true
+Force Mini Map Zoomed Out = false
+Pause game = false
+Post Processing = true
+Color Control = true
+Grain = true
+File IO Visualization = false
+Fog = true
+Points Only Per Vertex = true
+Spots Only Per Vertex = true
+Highest Texture Lod = true
