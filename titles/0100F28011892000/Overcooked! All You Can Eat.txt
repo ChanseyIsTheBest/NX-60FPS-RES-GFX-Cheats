@@ -1,4 +1,4 @@
-By Hazerou
+By Hazerou, sds
 
 FPS will drop straight to 30 if Switch can't handle 60 FPS.
 
