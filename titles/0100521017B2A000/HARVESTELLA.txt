@@ -1,10 +1,13 @@
 Included in the text file:
-
+[FPS]
+[VSync]
 [Upscale Quality]
 [Enable / Disable Dynamic Resolution]
 [RRS]
 [Image Sharpening]
+[New Film]
 [Vignette]
+[Distortion Effects]
 [Fog]
 [Motion Blur]
 [Film Grain]
@@ -15,32 +18,16 @@ Included in the text file:
 [View Distance Scale]
 [DOF]
 [Anisotropic Filtering]
-[MSAA]
 [AA]
+[MSAA]
+[SSAO]
 [Shadow]
 [Shadow Distance]
-[SSAO]
 [Bloom]
 [MIN/MAX/Default GFX Quality]
 
 Note:
-
-The [GFX Quality] Are For:
-
-[Adaptive Exposure]
-[View Distance Scale]
-[DOF]
-[Anisotropic Filtering]
-[MSAA]
-[AA]
-[Shadow]
-[Shadow Distance]
-[SSAO]
-[Bloom]
-
-=====
-[Upscale Quality] Is noticeable (more usable) when using lower RRS + AA OFF, AA Very Low or AA Low.
-
+[Upscale Quality] Is also known as Graphics Texture Filtering and it's noticeable (more usable) when using lower RRS + AA OFF, AA Very Low or AA Low.
 Type-0: Nearest filtering
 Type-1: Simple Bilinear
 Type-2: Directional blur with unsharp mask upsample. (default)
@@ -48,11 +35,23 @@ Type-3: 5-tap Catmull-Rom bicubic, approximating Lanczos 2.
 Type-4: 13-tap Lanczos 3.
 Type-5: 36-tap Gaussian-filtered unsharp mask (very expensive, but good for extreme upsampling)
 
-[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+The [GFX Quality] Are For:
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[AA]
+[MSAA]
+[SSAO]
+[Shadow]
+[Shadow Distance]
+[Bloom]
+
 Please use:
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
 Handheld RRS for Handheld Mode.
 Docked RRS for Docked Mode.
-Don't activate them at the same time!
 
-Some GFX Codes has no Function/Effect to the Game.
-Need MAX OC. 
+Issues:
+Some GFX Codes has NO Function/Effect to Game.
+|Need OC|
