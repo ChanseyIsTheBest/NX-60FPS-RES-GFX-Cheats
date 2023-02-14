@@ -76,6 +76,8 @@ Please see the following resources for some guidance on creating cheats yourself
 
 [**ChanseyIsTheBest**'s video tutorial](https://www.youtube.com/watch?v=h_XuSugIAsk)
 
+[**ChanseyIsTheBest**'s guide on how to make an 60FPS .ips/pchtxt and how to turn a .ips or .pchtxt into a cheat](https://gbatemp.net/threads/how-to-convert-ips-or-pchtxt-into-cheat.626182/)
+
 The best ways to contribute your cheats are either in the discord server linked above or by submitting a pull request that uses the following directory structure:
 
 `titles/TitleID/Game Name.txt`
