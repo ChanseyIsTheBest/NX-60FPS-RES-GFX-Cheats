@@ -76,7 +76,7 @@ Please see the following resources for some guidance on creating cheats yourself
 
 [**ChanseyIsTheBest**'s video tutorial](https://www.youtube.com/watch?v=h_XuSugIAsk)
 
-[**ChanseyIsTheBest**'s text guide on how to make a 60FPS .ips/.pchtxt patch using Ghidra(https://gbatemp.net/threads/how-to-make-60fps-ips-patch-for-nintendo-switch-game-ghidra-tutorial.625675/)
+[**ChanseyIsTheBest**'s text guide on how to make a 60FPS .ips/.pchtxt patch using Ghidra](https://gbatemp.net/threads/how-to-make-60fps-ips-patch-for-nintendo-switch-game-ghidra-tutorial.625675/)
 
 [**ChanseyIsTheBest**'s text guide on how to turn a .ips or .pchtxt into a cheat](https://gbatemp.net/threads/how-to-convert-ips-or-pchtxt-into-cheat.626182/)
 
