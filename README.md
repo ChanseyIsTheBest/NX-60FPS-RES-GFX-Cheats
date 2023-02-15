@@ -18,9 +18,9 @@ You can search for games that have cheats by using the automatically updated [**
 
 To mass download the entire cheat repository on a computer click "Code" -> "Download ZIP", extract the zip and copy the TitleID folders to your SD card under `sdmc:/atmosphere/contents` for usage
 
-## Recommended tools
+## Recommended Switch tools
 
-The latest versions of the following tools are recommended to get the most out of these cheats. Without overclocking most of the cheats will not work to their proper potential and in many cases handheld profiles should be forced to allow for more performance headroom.
+The latest versions of the following custom firmware and homebrew tools are recommended to get the most out of these cheats. Without overclocking most of the cheats will not work to their proper potential and in many cases handheld profiles should be forced to allow for more performance headroom.
 
 #### Custom firmware:
 
@@ -54,35 +54,9 @@ The [**SaltyNX sysmodule**](https://github.com/masagrator/SaltyNX) along with [*
 
 [**ReverseNX-Tool homebrew**](https://github.com/masagrator/ReverseNX-Tool) for forcing docked mode in handheld or vice versa as well as the [**ReverseNX-RT overlay and plugin**](https://github.com/masagrator/ReverseNX-RT) for performing the same functions in-game on the fly (note that an alternative version of ReverseNX-RT is already supplied with Switch-OC-Suite)
 
-## Community and contact
+## Contributing cheats
 
-Come and join us on discord for cheat requests, cheat updates, assistance, to contribute cheats or just to hang out!
-
-**Invite link:** https://discord.gg/VndKxFg7EE
-
-## Issues
-
-The issues section is only for reporting issues with the cheat database, for example incorrect TitleIDs or BuildIDs.
-
-Do not open issues requesting cheats, asking for assistance with using cheats etc. Join our discord server listed above for that, or seek help on GBAtemp.
-
-## Creating and contributing cheats
-
-Please see the following resources for some guidance on creating cheats yourself:
-
-[**Hazerou**'s video tutorials](https://www.youtube.com/playlist?list=PL7F3HUhpLGiS7TzPM9V1hIh42GbcidN0n)
-
-[**Hazerou**'s text guide](https://gbatemp.net/threads/how-to-search-the-fps-codes-using-edizon-se.586786/)
-
-[**ChanseyIsTheBest**'s video tutorial](https://www.youtube.com/watch?v=h_XuSugIAsk)
-
-[**ChanseyIsTheBest**'s text guide on how to make a 60FPS .ips/.pchtxt patch using Ghidra](https://gbatemp.net/threads/how-to-make-60fps-ips-patch-for-nintendo-switch-game-ghidra-tutorial.625675/)
-
-[**ChanseyIsTheBest**'s text guide on how to turn a .ips or .pchtxt into a cheat](https://gbatemp.net/threads/how-to-convert-ips-or-pchtxt-into-cheat.626182/)
-
-Use ips2cheat.py locate4d in this repo created by [**AnimatedSwine37**](https://twitter.com/AnimatedSwine37) using code originally from [**IPSWITCH by 3096**](https://github.com/3096/ipswitch)
-
-The best ways to contribute your cheats are either in the discord server linked above or by submitting a pull request that uses the following directory structure:
+The best ways to contribute your cheats are either in the [discord server](#community-and-contact) or by submitting a pull request that uses the following directory structure:
 
 `titles/TitleID/Game Name.txt`
 
@@ -94,12 +68,38 @@ Include your credit and any additional notes you wish to include in the `Game Na
 
 See any other cheats in this repository for examples.
 
+## Guides and tutorials
+
+Please see the following resources for some guidance and tutorials on creating cheats and patches yourself:
+
+[**Hazerou's** video tutorials](https://www.youtube.com/playlist?list=PL7F3HUhpLGiS7TzPM9V1hIh42GbcidN0n)
+
+[**Hazerou's** text guide](https://gbatemp.net/threads/how-to-search-the-fps-codes-using-edizon-se.586786/)
+
+[**ChanseyIsTheBest's** video tutorial](https://www.youtube.com/watch?v=h_XuSugIAsk)
+
+[**ChanseyIsTheBest's** text guide on how to make 60FPS patches](https://gbatemp.net/threads/how-to-make-60fps-ips-patch-for-nintendo-switch-game-ghidra-tutorial.625675/)
+
+[**ChanseyIsTheBest's** text guide on how to convert ips/pchtxt into cheats](https://gbatemp.net/threads/how-to-convert-ips-or-pchtxt-into-cheat.626182/)
+
+## Issues
+
+The issues section is only for reporting issues with the cheat database, for example: missing credits, incorrect TitleIDs or BuildIDs.
+
+Do not open issues requesting cheats, asking for assistance with using cheats etc. Join our [discord server](#community-and-contact) or seek help on GBAtemp for that.
+
+## Community and contact
+
+Come and join us on discord for cheat requests, cheat updates, assistance, to contribute cheats or just to hang out!
+
+**Invite link:** https://discord.gg/VndKxFg7EE
+
 ## Credits
 
-This project is born [from the work of **Hazerou**](https://gbatemp.net/threads/60-fps-cheats-for-nswitch.592464/) and the many great cheat makers who have contributed and continue to contribute cheats.
+This project was born [from the work of **Hazerou**](https://gbatemp.net/threads/60-fps-cheats-for-nswitch.592464/) and all of the great cheat makers who contributed and continue to contribute cheats.
 
-Special thanks to [**AnimatedSwine37**](https://twitter.com/AnimatedSwine37) for creating the automatically updated [**Games List**](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/blob/main/GAMES.md)
+Special thanks to [**AnimatedSwine37**](https://twitter.com/AnimatedSwine37) for creating the automatically updated [**Games List**](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/blob/main/GAMES.md) and the [**ips2cheat** python tool](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/blob/main/ips2cheat.py) based on code by [**3096** and their ipswitch project](https://github.com/3096/ipswitch)
 
 Special thanks to [**HamletDuFromage**](https://github.com/HamletDuFromage) for adding this database to [**AIO-Switch-Updater**](https://github.com/HamletDuFromage/aio-switch-updater)
 
-All cheat authors are credited inside the `TitleID/Game Name.txt` files!
+All cheat authors are credited inside the `TitleID/Game Name.txt` files! If you believe a credit is missing, please open an issue.
