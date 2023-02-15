@@ -80,7 +80,7 @@ Please see the following resources for some guidance on creating cheats yourself
 
 [**ChanseyIsTheBest**'s text guide on how to turn a .ips or .pchtxt into a cheat](https://gbatemp.net/threads/how-to-convert-ips-or-pchtxt-into-cheat.626182/)
 
-Use ips2cheat created by [**AnimatedSwine37**](https://twitter.com/AnimatedSwine37) using code originally from [**IPSWITCH by 3096**](https://github.com/3096/ipswitch)
+Use ips2cheat.py locate4d in this repo created by [**AnimatedSwine37**](https://twitter.com/AnimatedSwine37) using code originally from [**IPSWITCH by 3096**](https://github.com/3096/ipswitch)
 
 The best ways to contribute your cheats are either in the discord server linked above or by submitting a pull request that uses the following directory structure:
 
