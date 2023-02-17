@@ -9,7 +9,6 @@ Included in the text file:
 [Image Sharpening]
 [New Film]
 [Vignette]
-[Grain Quantization]
 [Distortion Effects]
 [Fog]
 [Motion Blur]
@@ -57,5 +56,4 @@ Docked RRS for Docked Mode.
 
 Issues:
 Some GFX Codes has NO Function/Effect to Game.
-AA present only up to 3 (Faster TAA)
 |Need OC|

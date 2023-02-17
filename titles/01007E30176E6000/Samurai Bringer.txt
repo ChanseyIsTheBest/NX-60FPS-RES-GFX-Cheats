@@ -1,45 +1,61 @@
-By Hazerou
+By Hazerou, sds
 
-Included in the text file;
-
+Included in the text file:
+[FPS]
+[VSync]
+[Upscale Quality]
+[Enable / Disable Dynamic Resolution]
 [RRS]
+[Image Sharpening]
+[New Film]
+[Vignette]
+[Grain Quantization]
+[Distortion Effects]
+[Fog]
 [Motion Blur]
 [Film Grain]
-[CHROM AB]
+[Chromatic Aberration]
 [Lens Flare]
 [Sky Lighting Quality]
 [Adaptive Exposure]
 [View Distance Scale]
 [DOF]
 [Anisotropic Filtering]
-[MSAA]
 [AA]
-[Shadow]
+[MSAA]
 [SSAO]
+[Shadow]
+[Shadow Distance]
 [Bloom]
 [MIN/MAX/Default GFX Quality]
 
-Note;
+Note:
+[Upscale Quality] Is also known as Graphics Texture Filtering and it's noticeable (more usable) when using lower RRS + AA OFF, AA Very Low or AA Low.
+Type-0: Nearest filtering
+Type-1: Simple Bilinear
+Type-2: Directional blur with unsharp mask upsample. (default)
+Type-3: 5-tap Catmull-Rom bicubic, approximating Lanczos 2.
+Type-4: 13-tap Lanczos 3.
+Type-5: 36-tap Gaussian-filtered unsharp mask (very expensive, but good for extreme upsampling)
 
-The [GFX Quality] Are For;
-
+The [GFX Quality] Are For:
 [Adaptive Exposure]
 [View Distance Scale]
 [DOF]
 [Anisotropic Filtering]
-[MSAA]
 [AA]
-[Shadow]
+[MSAA]
 [SSAO]
+[Shadow]
+[Shadow Distance]
 [Bloom]
 
-=====
-
+Please use:
 [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
-Please use;
 Handheld RRS for Handheld Mode.
 Docked RRS for Docked Mode.
 
-UI Elements will shrink the higher RRS you use.
-
-Some GFX Codes has no Function/Effect to the Game.
+Issues:
+RRS change UI scale too mush
+Some GFX Codes has NO Function/Effect to Game.
+|Need OC|
