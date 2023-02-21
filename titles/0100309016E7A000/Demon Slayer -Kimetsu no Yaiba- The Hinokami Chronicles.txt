@@ -1,4 +1,4 @@
-By Hazerou, retole
+By Hazerou, retole updated by sds
 
 Better use lower Resolution to achieve stable 60 FPS.
 
