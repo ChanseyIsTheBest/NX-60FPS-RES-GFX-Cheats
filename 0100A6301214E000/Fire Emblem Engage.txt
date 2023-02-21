@@ -1,3 +1,0 @@
-By systemdev
-https://gbatemp.net/threads/fire-emblem-engage-60-fps-mod-no-speedup.626519/#post-10080203
-Needs to be enabled when game boots, you can use toggles
