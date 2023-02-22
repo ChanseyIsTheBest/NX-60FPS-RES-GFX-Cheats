@@ -32,7 +32,7 @@ The latest versions of the following custom firmware and homebrew tools are reco
 
 #### Overclocking:
 
-**You are responsible for your own usage of these cheats and any overclock settings you choose to apply!**
+**You are responsible for your own usage of overclocking software as it may reduce the life of the hardware!**
 
 [**sys-clk**](https://github.com/retronx-team/sys-clk) homebrew overclocking/underclocking system module and frontend
 
