@@ -1,5 +1,7 @@
 2.2.1 60FPS pchtxt by Wachee
-2.2.1 60 & 30 FPS cheat by halop
+2.3.0 60FPS pchtxt by zix7
+2.2.1 & 2.3.0 60 & 30 FPS cheat by halop
+
 Original author of pchtxt theboy181
 
 recommended overclock:
