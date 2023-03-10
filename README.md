@@ -50,7 +50,7 @@ The [**SaltyNX sysmodule**](https://github.com/masagrator/SaltyNX) along with [*
 
 #### Other:
 
-[**ReverseNX-Tool homebrew**](https://github.com/masagrator/ReverseNX-Tool) for forcing docked mode in handheld or vice versa as well as the [**ReverseNX-RT overlay and plugin**](https://github.com/masagrator/ReverseNX-RT) for performing the same functions in-game on the fly (note that an alternative version of ReverseNX-RT is already supplied with Switch-OC-Suite)
+[**ReverseNX-Tool homebrew**](https://github.com/masagrator/ReverseNX-Tool) for forcing docked mode in handheld or vice versa as well as the [**ReverseNX-RT overlay and plugin**](https://github.com/masagrator/ReverseNX-RT) for performing the same functions in-game on the fly
 
 ## Contributing cheats
 
