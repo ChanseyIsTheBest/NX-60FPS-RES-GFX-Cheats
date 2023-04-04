@@ -1,0 +1,4 @@
+by MasaGratoR
+
+Game by default is targeting 25 FPS in dynamic resolution.
+Changed it to match 60 FPS.
