@@ -1,3 +1,3 @@
 by MasaGratoR
-
+Has some issues with 60FPS causing softlocks, found in Stage 7 and 20 and may be elsewhere in the game. To progress, change back to 30FPS.
 Based on exefs mod made by theboy181
