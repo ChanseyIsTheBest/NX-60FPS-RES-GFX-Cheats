@@ -4,6 +4,7 @@
 2.30 21.9 converted by b0rd2dEAth
 
 Original author of pchtxt theboy181
+https://linktr.ee/theboy181
 
 recommended overclock:
 Docked GPU 921 MHz
