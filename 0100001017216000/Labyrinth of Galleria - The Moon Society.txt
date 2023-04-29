@@ -1,5 +1,0 @@
-Cheat made by Arcansel
-
-Uncapped FPS: Can get up to a maximum of 120 fps.
-
-60 FPS: The traditional 60 FPS code, released for those that prefer to save more battery, and because the switch is locked to 60 hz anyway.
