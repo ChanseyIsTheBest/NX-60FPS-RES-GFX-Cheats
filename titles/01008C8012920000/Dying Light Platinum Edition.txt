@@ -9,4 +9,4 @@ Oh and in order to apply these Graphics Codes, you need to go back to the Title 
 60 FPS v2 and Resolution Cheats by MasaGratoR
 
 60 FPS v2 tweaks Dynamic Resolution timings to half of default values and blocks dynamic GPU clocks.
-Don't force docked resolution cheats in handheld mode, otherwise expect rendering bugs.
+Don't use resolution cheats with 60 FPS v2 + don't use docked resolution in handheld mode, otherwise expect rendering bugs.
