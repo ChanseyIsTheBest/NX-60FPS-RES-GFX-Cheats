@@ -3,3 +3,10 @@ By ArcharGelod and Hazerou
 The Resolution Codes nearby these codes doesn't affect Render Resolution. It only affects the Texts and UI Shrinking them to the top left of the screen. But reducing the Visual Distance helps Improve the Performance.
 
 Oh and in order to apply these Graphics Codes, you need to go back to the Title Screen and then Continue.
+
+---
+
+60 FPS v2 and Resolution Cheats by MasaGratoR
+
+60 FPS v2 tweaks Dynamic Resolution timings to half of default values and blocks dynamic GPU clocks.
+Don't use resolution cheats with 60 FPS v2 + don't use docked resolution in handheld mode, otherwise expect rendering bugs.
