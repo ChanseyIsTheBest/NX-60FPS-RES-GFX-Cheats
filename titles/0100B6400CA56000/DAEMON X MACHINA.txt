@@ -1,1 +1,3 @@
 By Hazerou
+
+After unlocking 60 FPS game has broken physics. Movement speed is 2x slower, mecha is descending many times faster.
