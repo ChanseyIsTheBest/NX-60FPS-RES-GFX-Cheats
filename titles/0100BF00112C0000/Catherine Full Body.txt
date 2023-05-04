@@ -1,2 +1,3 @@
 By AnimatedSwine37
 Cutscenes seem to play at double speed (voicelines play earlier than they should and can overlap)
+Breaks some gameplay elements such as timers
