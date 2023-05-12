@@ -1,9 +1,17 @@
-rendered cutscenes are out of sync
-
-1.1.0 60 fps ips patch v2 by somerandompeople
+1.1.0 20FPS, 30FPS, 60FPS and Shadow resolution by somerandompeople, v0.3.1.10.
 https://gbatemp.net/download/loz-tears-of-the-kingdom-20fps-30fps-60fps-patch.37996/
 
 1.1.0 Resolution cheats by bad1dea
 https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom%20(US)/0100F2C0115B6000/cheats
 
-1.1.0 60 fps convert by halop
+FSR Downscaling and disable quality reduction on low framerate by Patchanon.
+
+1792x1008 Internal Resolution by ChucksFeedAndSeed.
+
+Notes:
+60 FPS causes rendered cutscenes to be out of sync.
+Game speed will slow down whenever it can't maintain 60 FPS.
+1792x1008 is the max supported resolution without breaking effects like AO.
+
+1.1.0 60 fps convert by halop.
+1.1.0 FSR downscaling, quality reduction, 1792x1008 resolution, shadow resolution and updated fps cheats converted by Sildur.
