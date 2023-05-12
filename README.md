@@ -80,6 +80,12 @@ Please see the following resources for some guidance and tutorials on creating c
 
 [**ChanseyIsTheBest's** text guide on how to convert ips/pchtxt into cheats](https://gbatemp.net/threads/how-to-convert-ips-or-pchtxt-into-cheat.626182/)
 
+How to use ips+pchtxt2cheat.py
+This tool converts ips/pchtxt files into cheat files, however not all converted cheats will work on actual hardware due to how assets are loaded.
+1. Download and save ips+pchtxt2cheat.py
+2. Drag and drop the ips or pchtxt file
+3. A cheat will be generated with the .txt extension with the correct BID
+
 ## Issues
 
 The issues section is only for reporting issues with the cheat database, for example: missing credits, incorrect TitleIDs or BuildIDs.
