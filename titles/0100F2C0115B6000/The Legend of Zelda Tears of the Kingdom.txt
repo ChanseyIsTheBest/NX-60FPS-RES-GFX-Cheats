@@ -7,6 +7,7 @@ https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%
 FSR Downscaling and disable quality reduction on low framerate by Patchanon.
 
 1792x1008 Internal Resolution by ChucksFeedAndSeed.
+1920x1080 Internal Resolution by Cod3xDev.
 
 Notes:
 60 FPS causes rendered cutscenes to be out of sync.
