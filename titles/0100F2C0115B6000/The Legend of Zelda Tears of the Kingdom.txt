@@ -4,7 +4,7 @@ https://gbatemp.net/download/loz-tears-of-the-kingdom-20fps-30fps-60fps-patch.37
 1.1.1 Resolution cheats by bad1dea
 https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom%20(US)/0100F2C0115B6000/cheats
 
-1.1.1 Force 1080p mode and diable FSR by by ChucksFeedAndSeed and Patchanon.
+1.1.1 Force 1080p, disable FXAA and FSR by ChucksFeedAndSeed, Patchanon, OldManKain and theboy181.
 
 Notes:
 60 FPS causes rendered cutscenes to be out of sync.
