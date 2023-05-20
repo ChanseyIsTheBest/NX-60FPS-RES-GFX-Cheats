@@ -1,13 +1,11 @@
-1.1.1 - 20FPS, 30FPS, 60FPS and shadow resolution by somerandompeople, v0.4.2.4.
+20FPS, 30FPS and 60FPS by somerandompeople, v0.4.2.4.
 https://gbatemp.net/download/loz-tears-of-the-kingdom-20fps-30fps-60fps-patch.37996/
 
-1.1.1 - Resolution cheats by bad1dea
+Resolution cheats by bad1dea
 https://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom%20(US)/0100F2C0115B6000/cheats
-
-1.1.1 - Force 1080p, disable FXAA and FSR by ChucksFeedAndSeed, Patchanon, OldManKain and theboy181.
 
 Notes:
 60 FPS mode causes a few issues such as game slowdowns if 60 FPS can't be maintained and out of sync cutscenes.
 
-1.1.0 - 60 fps convert by halop.
-1.1.1 - Force 1080p, disable FXAA, disable FSR, shadow resolution and updated fps cheats converted by Sildur.
+60 fps convert by halop.
+Updated fps cheats converted by Sildur.
