@@ -1,10 +1,10 @@
-By Hazerou
-
-FPS Cap is limited to 45.
-
----
-
-FPS v2 cheats by MasaGratoR
+Cheats for v262144 by MasaGratoR
 
 They also tweak dynamic resolution to match FPS.
 60 FPS v2 cheat is true 60 FPS experience.
+
+---
+
+Cheats for v131072 by Hazerou
+
+- FPS Cap is limited to 45.
