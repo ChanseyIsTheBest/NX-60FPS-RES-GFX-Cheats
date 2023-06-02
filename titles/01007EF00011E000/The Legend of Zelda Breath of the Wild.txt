@@ -6,9 +6,10 @@ Notes;
 
 1.) FPS will drop straight to 30 and Game Speed will slow down whenever Switch can't handle 60 FPS.
 
-2.) Resolution Hacks will not work properly if you have a Resolution / Disable Dynamic Resolution Patch/Mod.
-
-3.) Do not activate both Handheld and Docked Resolution Hacks at the same time.
+RRS cheats rely on Dynamic Resolution Function. If you have a mod or cheat that disables it, it will not work
+RRS will stop DRS from controlling your Resolution up and down
+Don't use old resolution codes previously here with new RRS as it can cause crashes and unxpected resolutions
+Docked RRS v2 cheats may crash the gaem if used in handheld mode
 
 FPS Codes by @theboy181 based from his YUZU Mod which can be found here;
 https://yuzu-emu.org/wiki/switch-mods/
