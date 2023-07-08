@@ -2,4 +2,5 @@ By Jason v0
 By Silverdesu v1.1
 V1.1 resolution cheats by Hazerou
 v1.2 resolution cheats by sds, non-sped 60fps by systemdev - note: non-sped up 60fps code must be activated on boot for 60fps to function
+v2 resolution cheats by Hazerou
 https://gbatemp.net/threads/fire-emblem-engage-60-fps-mod-no-speedup.626519/#post-10080203
