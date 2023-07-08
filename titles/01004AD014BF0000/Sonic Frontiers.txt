@@ -1,3 +1,4 @@
 Resolution cheats by Hazerou
 60FPS .ips originally created by systemdev, converted to cheat by Hazerou
 Updated by senttrex1407 using ASM cheat updater
+v1.3.0 updated by OldManKain
