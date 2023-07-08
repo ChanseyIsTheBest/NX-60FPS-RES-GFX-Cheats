@@ -36,6 +36,8 @@ The latest versions of the following custom firmware and homebrew tools are reco
 
 [**sys-clk**](https://github.com/retronx-team/sys-clk) homebrew overclocking/underclocking system module and frontend
 
+Alternatively the fork of sys-clk supplied with [**Switch-OC-Suite**](https://github.com/hanai3Bi/Switch-OC-Suite)
+
 #### Overlays:
 
 The [**Tesla sysmodule**](https://github.com/WerWolv/nx-ovlloader) and [**Overlay menu**](https://github.com/WerWolv/Tesla-Menu)
@@ -50,7 +52,7 @@ The [**SaltyNX sysmodule**](https://github.com/masagrator/SaltyNX) along with [*
 
 #### Other:
 
-[**ReverseNX-Tool homebrew**](https://github.com/masagrator/ReverseNX-Tool) for forcing docked mode in handheld or vice versa as well as the [**ReverseNX-RT overlay and plugin**](https://github.com/masagrator/ReverseNX-RT) for performing the same functions in-game on the fly
+[**ReverseNX-Tool homebrew**](https://github.com/masagrator/ReverseNX-Tool) for forcing docked mode in handheld or vice versa as well as the [**ReverseNX-RT overlay and plugin**](https://github.com/masagrator/ReverseNX-RT) for performing the same functions in-game on the fly (note that an alternative version of ReverseNX-RT is already supplied with Switch-OC-Suite)
 
 ## Contributing cheats
 
@@ -80,7 +82,8 @@ Please see the following resources for some guidance and tutorials on creating c
 
 [**ChanseyIsTheBest's** text guide on how to convert ips/pchtxt into cheats](https://gbatemp.net/threads/how-to-convert-ips-or-pchtxt-into-cheat.626182/)
 
-How to use ips+pchtxt2cheat.py
+**How to use ips+pchtxt2cheat.py**
+
 This tool converts ips/pchtxt files into cheat files, however not all converted cheats will work on actual hardware due to how assets are loaded.
 1. Download and save ips+pchtxt2cheat.py
 2. Drag and drop the ips or pchtxt file
