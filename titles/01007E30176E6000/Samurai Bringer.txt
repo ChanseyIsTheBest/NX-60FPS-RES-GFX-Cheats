@@ -1,4 +1,5 @@
 By Hazerou, sds
+v1.05 by Hazerou
 
 Included in the text file:
 [FPS]
