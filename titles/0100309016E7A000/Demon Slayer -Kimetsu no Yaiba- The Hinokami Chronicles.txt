@@ -1,4 +1,5 @@
 By Hazerou, retole updated by sds
+v1.53 by Hazerou/masagrator 
 
 Better use lower Resolution to achieve stable 60 FPS.
 
@@ -6,8 +7,11 @@ Better use lower Resolution to achieve stable 60 FPS.
 
 1.) Game Speed will slow down whenever FPS drops.
 
+Notice: from 1.53 onwards this does not happen due new fix from masagrator
+
 Included in the text file;
 
+[30 FPS v2 / 60 FPS v2]
 [Upscale Quality] <= NEW!
 [Enable Dynamic Resolution]
 [RRS]
