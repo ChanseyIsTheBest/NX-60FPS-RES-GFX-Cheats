@@ -1,6 +1,7 @@
 Included in the text file;
 
 Resolution Hacks By @Hazerou
+FMV cutscene speed fix by Hazerou
 
 Notes;
 
