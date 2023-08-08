@@ -1,12 +1,21 @@
-By Cooler3D, Hazerou
+By Hazerou 
 
 Included in the text file;
 
-[V SYNC] <= Use OFF to gain more FPS
+[30 FPS / 60 FPS & VSYNC OFF]
+[Upscale Quality]
 [Enable / Disable Dynamic Resolution]
+[Dynamic Resolution Target FPS]
 [RRS]
+[Max Quality Override To Highest]
+[Perf Limits on Devices with Battery]
 [Image Sharpening]
+[Forward Shading] & [Deferred Shading]
+[New Film Tone Mapper]
+[Use TAAU] Not Included due to Graphical Glitches
 [Vignette]
+[Distortion Effects]
+[Foggy Scene]
 [Motion Blur]
 [Film Grain]
 [CHROM AB]
@@ -16,28 +25,33 @@ Included in the text file;
 [View Distance Scale]
 [DOF]
 [Anisotropic Filtering]
-[MSAA]
-[AA]
+[Anti-Aliasing (FXAA, TAA & MSAA]
 [Shadow]
 [Shadow Distance]
 [SSAO]
 [Bloom]
-[MIN/MAX/Default GFX Quality]
+[SSR]
+[SSS]
+[Refraction]
+[Light Function Quality]
+[MIN/MAX/Default Quality]
 
 Note;
 
-The [GFX Quality] Are For;
+=====
+[Upscale Quality] Is also known as Graphics Texture Filtering and it's noticeable (more usable) when using lower RRS + AA OFF, + AA Very Low or + AA Low.
 
-[Adaptive Exposure]
-[View Distance Scale]
-[DOF]
-[Anisotropic Filtering]
-[MSAA]
-[AA]
-[Shadow]
-[Shadow Distance]
-[SSAO]
-[Bloom]
+Type-0: Nearest filtering
+
+Type-1: Simple Bilinear
+
+Type-2: Directional blur with unsharp mask upsample. (default)
+
+Type-3: 5-tap Catmull-Rom bicubic, approximating Lanczos 2.
+
+Type-4: 13-tap Lanczos 3.
+
+Type-5: 36-tap Gaussian-filtered unsharp mask (very expensive, but good for extreme upsampling)
 
 =====
 
@@ -45,6 +59,11 @@ The [GFX Quality] Are For;
 Please use;
 Handheld RRS for Handheld Mode.
 Docked RRS for Docked Mode.
-And please don't activate both at the same time!
+Don't activate them at the same time!
+
+[SSR] Is Screen Space Reflection.
+
+[SSS] Is Screenspace Subsurface Scattering.
 
 Some GFX Codes has no Function/Effect to the Game.
+https://youtu.be/ZAntV8wxtmo

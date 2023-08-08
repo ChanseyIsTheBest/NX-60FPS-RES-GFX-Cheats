@@ -18,7 +18,7 @@ You can search for games that have cheats by using the automatically updated [**
 
 To mass download the entire cheat repository on a computer click "Code" -> "Download ZIP", extract the zip and copy the TitleID folders to your SD card under `sdmc:/atmosphere/contents` for usage
 
-It is reccomended to use [**FPSLocker**](https://github.com/masagrator/FPSLocker) to uncap the framerate if a game does not have a cheat in the database. Additional FPSLocker compatibility information and game patches can be found in [**FPSLocker-Warehouse**](https://github.com/masagrator/FPSLocker-Warehouse).
+It is recommended to use [**FPSLocker**](https://github.com/masagrator/FPSLocker) to uncap the framerate if a game does not have a cheat in the database. Additional FPSLocker compatibility information and game patches can be found in [**FPSLocker-Warehouse**](https://github.com/masagrator/FPSLocker-Warehouse).
 
 ## Recommended Switch tools
 
