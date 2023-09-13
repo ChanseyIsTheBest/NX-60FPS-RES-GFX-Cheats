@@ -9,3 +9,4 @@ To balance Game Speed at 60 FPS, I used a Game Speed Code from here;
 https://gbatemp.net/threads/60-fps-cheats-for-nswitch.592464/post-9994889
 
 1.3.2 60FPS by theboy181/OldManKain 
+2.0.1 60FPS by theboy181/OldManKain
