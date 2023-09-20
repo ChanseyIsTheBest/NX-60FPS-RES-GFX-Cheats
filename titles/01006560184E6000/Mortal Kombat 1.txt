@@ -1,0 +1,105 @@
+By Hazerou
+
+I had to remove 6 cheats from the file because there are simply too many for the Switch to handle.
+They are placed here.
+
+[Light Quality OFF]
+580F0000 0AF84690
+780F0000 00000098
+680F0000 00000000 00000000
+
+[SSGI x3]
+580F0000 0B700418
+780F0000 00000098
+680F0000 00000001 00000001
+580F0000 0B700460
+780F0000 00000098
+680F0000 00000003 00000003
+
+[Default Perf Limited on Devices with Battery]
+580F0000 0AF845B8
+780F0000 00000098
+680F0000 00000000 00000000
+
+[Perf No Limits on Devices with Battery]
+580F0000 0AF845B8
+780F0000 00000098
+680F0000 00000001 00000001
+
+[Material Quality Low]
+580F0000 0AF84348
+780F0000 00000098
+680F0000 00000000 00000000
+
+[View Distance Scale x0.5]
+580F0000 0AF845D0
+780F0000 00000098
+680F0000 3F000000 3F000000
+
+Included in the text file;
+
+[Upscale Quality]
+[Minimize Stutters Use With DRS] <= NEW!
+[Enable / Disable Dynamic Resolution]
+[Dynamic Resolution Target FPS]
+[RRS]
+[Max Quality Override To Highest]
+[Perf Limits on Devices with Battery]
+[Image Sharpening]
+[New Film Tone Mapper]
+[Use TAAU]
+[Vignette]
+[Distortion Effects]
+[Foggy Scene]
+[Motion Blur]
+[Film Grain]
+[CHROM AB]
+[Lens Flare]
+[Sky Lighting Quality]
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[Anti-Aliasing (FXAA, TAA & MSAA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+[SSR]
+[SSS]
+[SSS Scale]
+[SSGI]
+[Refraction]
+[Light Function Quality]
+[Material Quality] <= NEW!
+[Detail Mode] <= NEW!
+
+[Upscale Quality] Is also known as Graphics Texture Filtering and it's noticeable (more usable) when using lower RRS + AA OFF, + AA Very Low or + AA Low.
+
+Type-0: Nearest filtering
+
+Type-1: Simple Bilinear
+
+Type-2: Directional blur with unsharp mask upsample. (default)
+
+Type-3: 5-tap Catmull-Rom bicubic, approximating Lanczos 2.
+
+Type-4: 13-tap Lanczos 3.
+
+Type-5: 36-tap Gaussian-filtered unsharp mask (very expensive, but good for extreme upsampling)
+
+=====
+
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+[SSR] Is Screen Space Reflection.
+
+[SSS] Is Subsurface Scattering.
+
+[SSGI] Is Screen Space Global Illumination.
+
+Some GFX Codes has no Function/Effect to the Game
