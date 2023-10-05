@@ -16,9 +16,9 @@ You can search for games that have cheats by using the automatically updated [**
 * selecting a **BUILD ID** or **VERSION** will take you directly to the corresponding cheat file
 * available cheat types per game and cheat availability for the latest game version are indicated by icons according to the key
 
-To mass download the entire cheat repository on a computer click "Code" -> "Download ZIP", extract the zip and copy the TitleID folders to your SD card under `sdmc:/atmosphere/contents` for usage
+To mass download the entire cheat repository on a computer click "Code" -> "Download ZIP", extract the zip and copy the TitleID folders to your SD card at `sdmc:/atmosphere/contents/`
 
-It is recommended to use [**FPSLocker**](https://github.com/masagrator/FPSLocker) to uncap the framerate if a game does not have a cheat in the database. Additional FPSLocker compatibility information and game patches can be found in [**FPSLocker-Warehouse**](https://github.com/masagrator/FPSLocker-Warehouse).
+It is recommended to use [**FPSLocker**](https://github.com/masagrator/FPSLocker) to uncap the framerate if a game does not have a cheat in the database. Additional FPSLocker compatibility information and game patches can be found in [**FPSLocker-Warehouse**](https://github.com/masagrator/FPSLocker-Warehouse)
 
 ## Recommended Switch tools
 
@@ -30,13 +30,13 @@ The latest versions of the following custom firmware and homebrew tools are reco
 
 #### Cheat downloads:
 
-[**AIO-Switch-Updater**](https://github.com/HamletDuFromage/aio-switch-updater) to download cheats from this database directly on your Switch either as a batch download for all detected installed titles or as individual cheats for detected installed titles
+[**AIO-Switch-Updater**](https://github.com/HamletDuFromage/aio-switch-updater) to download cheats from this database directly on your Switch either as a batch download for all detected installed titles or as individual cheats for detected installed titles.
 
 #### Overclocking:
 
 **You are responsible for your own usage of overclocking software as it may reduce the life of the hardware!**
 
-[**sys-clk**](https://github.com/retronx-team/sys-clk) homebrew overclocking/underclocking system module and frontend
+[**sys-clk**](https://github.com/retronx-team/sys-clk) homebrew overclocking/underclocking system module and frontend.
 
 Alternatively the fork of sys-clk supplied with [**Switch-OC-Suite**](https://github.com/hanai3Bi/Switch-OC-Suite)
 
@@ -46,7 +46,7 @@ The [**Tesla sysmodule**](https://github.com/WerWolv/nx-ovlloader) and [**Overla
 
 #### FPS, clock speed, temperature monitoring and more:
 
-The [**SaltyNX sysmodule**](https://github.com/masagrator/SaltyNX) along with [**Status Monitor Overlay**](https://github.com/masagrator/Status-Monitor-Overlay), the [**NX-FPS plugin**](https://github.com/masagrator/NX-FPS) and [**FPSLocker Overlay**](https://github.com/masagrator/FPSLocker)
+The [**SaltyNX sysmodule**](https://github.com/masagrator/SaltyNX) along with [**Status Monitor Overlay**](https://github.com/masagrator/Status-Monitor-Overlay) and [**FPSLocker Overlay**](https://github.com/masagrator/FPSLocker)
 
 #### Cheat software:
 
@@ -54,7 +54,7 @@ The [**SaltyNX sysmodule**](https://github.com/masagrator/SaltyNX) along with [*
 
 #### Other:
 
-[**ReverseNX-Tool homebrew**](https://github.com/masagrator/ReverseNX-Tool) for forcing docked mode in handheld or vice versa as well as the [**ReverseNX-RT overlay and plugin**](https://github.com/masagrator/ReverseNX-RT) for performing the same functions in-game on the fly (note that an alternative version of ReverseNX-RT is already supplied with Switch-OC-Suite)
+[**ReverseNX-Tool homebrew**](https://github.com/masagrator/ReverseNX-Tool) for forcing docked mode in handheld or vice versa as well as [**ReverseNX-RT overlay**](https://github.com/masagrator/ReverseNX-RT) for performing the same functions in-game on the fly.
 
 ## Contributing cheats
 
@@ -84,10 +84,11 @@ Please see the following resources for some guidance and tutorials on creating c
 
 [**ChanseyIsTheBest's** text guide on how to convert ips/pchtxt into cheats](https://gbatemp.net/threads/how-to-convert-ips-or-pchtxt-into-cheat.626182/)
 
-**How to use ips+pchtxt2cheat.py**
+#### How to use ips_pchtxt_2cheat.py:
 
-This tool converts ips/pchtxt files into cheat files, however not all converted cheats will work on actual hardware due to how assets are loaded.
-1. Download and save ips+pchtxt2cheat.py
+This tool converts ips or pchtxt files into cheat files, however not all converted cheats will work on actual hardware due to how assets are loaded.
+
+1. Download and save ips_pchtxt_2cheat.py
 2. Drag and drop the ips or pchtxt file
 3. A cheat will be generated with the .txt extension with the correct BID
 
@@ -107,7 +108,7 @@ Come and join us on discord for cheat requests, cheat updates, assistance, to co
 
 This project was born [from the work of **Hazerou**](https://gbatemp.net/threads/60-fps-cheats-for-nswitch.592464/) and all of the great cheat makers who contributed and continue to contribute cheats.
 
-Special thanks to [**AnimatedSwine37**](https://twitter.com/AnimatedSwine37) for creating the automatically updated [**Games List**](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/blob/main/GAMES.md) and the [**ips2cheat** python tool](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/blob/main/ips2cheat.py) based on code by [**3096** and their ipswitch project](https://github.com/3096/ipswitch)
+Special thanks to [**AnimatedSwine37**](https://twitter.com/AnimatedSwine37) for creating the automatically updated [**Games List**](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/blob/main/GAMES.md) and the [**ips and pchtxt to cheat** python tool](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/blob/main/tools/ips_pchtxt_2cheat.py) based on code by [**3096** and their ipswitch project](https://github.com/3096/ipswitch)
 
 Special thanks to [**HamletDuFromage**](https://github.com/HamletDuFromage) for adding this database to [**AIO-Switch-Updater**](https://github.com/HamletDuFromage/aio-switch-updater)
 
