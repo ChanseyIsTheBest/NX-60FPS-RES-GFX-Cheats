@@ -1,7 +1,6 @@
 By Hazerou
 
-I had to remove 6 cheats from the file because there are simply too many for the Switch to handle.
-They are placed here.
+The cheat file is already at the limit of 127 cheats, therefore additional cheats are below and must be copied manually if needed:
 
 [Light Quality OFF]
 580F0000 0AF84690
@@ -35,6 +34,16 @@ They are placed here.
 580F0000 0AF845D0
 780F0000 00000098
 680F0000 3F000000 3F000000
+
+[Default Fully Load Textures ASAP OFF]
+580F0000 0B78E900
+780F0000 00000098
+680F0000 00000000 00000000
+
+[Fully Load Textures ASAP ON]
+580F0000 0B78E900
+780F0000 00000098
+680F0000 00000001 00000001
 
 Included in the text file;
 
