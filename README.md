@@ -88,7 +88,7 @@ Please see the following resources for some guidance and tutorials on creating c
 
 This tool converts ips or pchtxt files into cheat files, however not all converted cheats will work on actual hardware due to how assets are loaded.
 
-1. Download and save ips_pchtxt_2cheat.py
+1. Download and save [ips_pchtxt_2cheat.py](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/blob/main/tools/ips_pchtxt_2cheat.py)
 2. Drag and drop the ips or pchtxt file
 3. A cheat will be generated with the .txt extension with the correct BID
 
