@@ -1,1 +1,3 @@
 By MasaGratoR
+
+Resolution is not changing in real time. You will see changed resolution only when starting new match after applying cheat.
