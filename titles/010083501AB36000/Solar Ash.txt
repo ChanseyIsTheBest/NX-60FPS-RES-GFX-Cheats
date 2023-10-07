@@ -1,0 +1,18 @@
+By Hazerou
+
+Included in the text file;
+
+
+[30 FPS / 60 FPS]
+[Enable / Disable Dynamic Resolution]
+[Dynamic Resolution Target FPS]
+[RRS]
+
+
+Notes;
+
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!

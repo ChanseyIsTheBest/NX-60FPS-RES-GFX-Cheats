@@ -1,2 +1,3 @@
 By Hazerou
-Thank you for fighting the fight aganist this evil game
+
+Cutscenes running at 60 FPS doubles up the game speed. So the code will force FPS to 30 whenever cutscenes occur and will only go back to 60 FPS when it's over.
