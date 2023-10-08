@@ -1,0 +1,52 @@
+By Hazerou
+
+Included in the text file;
+
+[60 FPS]
+[Default 30 FPS]
+[Enable DRS for Handheld (360p<=>720p)]
+[Enable DRS for Docked (552p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Default Disable Dynamic Resolution Scaling]
+[Handheld RRS 64.74% (360p)]
+[Default Handheld RRS 77% (428p)]
+[Handheld RRS 86.33% (480p)]
+[Handheld RRS 100% (556p)]
+[Handheld RRS 110.07% (612p)]
+[Handheld RRS 129.50% (720p)]
+[Default Docked RRS 90% (552p)]
+[Docked RRS 100% (612p)]
+[Docked RRS 117.65% (720p)]
+[Docked RRS 123.53% (756p)]
+[Docked RRS 132.68% (812p)]
+[Docked RRS 147.06% (900p)]
+[Docked RRS 176.47% (1080p)]
+[Default Image Sharpening OFF]
+[Image Sharpening ON]
+[Default Don't Use TAAU]
+[Use TAAU]
+[AA OFF]
+[AA Very Low (Faster FXAA)]
+[Default AA Low (FXAA)]
+[AA Medium (Faster TAA)]
+[AA High (Default TAA)]
+[AA Very High]
+[AA Max]
+
+
+Notes;
+
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+Game will crash if the following are both activated;
+
+[Use TAAU] + [AA High (Default TAA)]
+or
+[Use TAAU] + [AA Very High]
+or
+[Use TAAU] + [AA Max]
