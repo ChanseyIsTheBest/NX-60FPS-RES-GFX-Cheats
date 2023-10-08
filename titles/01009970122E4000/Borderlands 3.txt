@@ -1,0 +1,4 @@
+By Hazerou
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function
+
+1080p 30FPS = 921mhz GPU and 1600mhz RAM
