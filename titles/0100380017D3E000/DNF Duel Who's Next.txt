@@ -1,0 +1,47 @@
+By Hazerou
+
+Game is already capped at 60 FPS.
+Capping it to 30 FPS just slows down the game speed.
+
+Included in the text file;
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Disable Dynamic Resolution Scaling]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Default Handheld RRS 75% (540p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Handheld RRS 100% (720p)]
+[Docked RRS 66.66% (720p)]
+[Default Docked RRS 66.7% (724p)]
+[Docked RRS 70% (756p)]
+[Docked RRS 75% (812p)]
+[Docked RRS 83.33% (900p)]
+[Docked RRS 100% (1080p)]
+[Default Image Sharpening OFF]
+[Image Sharpening ON]
+[Default Don't Use TAAU]
+[Use TAAU]
+[AA OFF]
+[AA Very Low (Faster FXAA)]
+[Default AA Low (FXAA)]
+[AA Medium (Faster TAA)]
+[AA High (Default TAA)]
+[AA Very High]
+[AA Max]
+
+
+Notes;
+
+1.) By default, The game's DR Operator is not r.DynamicRes.OperationMode (0x087F95E0).
+It's r.EnableDynamicResolution (0x07B19450) and it ignores r.DynamicRes.MaxScreenPercentage (0x087D69C8). That's why we have to enable r.DynamicRes.OperationMode (0x087F95E0). too.
+
+2.) Reverse NX RT will not work properly if r.EnableDynamicResolution (0x07B19450) is OFF. That's why I have to add it to RRS turned ON.
+
+[RRS] is Render Resolution Scale.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
