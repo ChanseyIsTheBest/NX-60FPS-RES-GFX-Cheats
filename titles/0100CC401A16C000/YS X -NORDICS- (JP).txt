@@ -1,0 +1,5 @@
+By Hazerou
+
+1.) Frame pacing is bad whenever FPS drops below 60.
+2.) There's a resolution flickering when using [DR Level #], but you will not notice it if you're not standing still.
+3.) The higher the DR Level, the lower the resolution. 
