@@ -1,0 +1,2015 @@
+ChanseyIsTheBest
+chanseyisthebest
+Take the OC pill
+
+
+
+Text Channel
+NSwitch 60 FPS Cheats:post-tested-cheats-here
+Search
+
+post-tested-cheats-here chat
+July 30, 2023
+
+Hazerou - Sephirothic Erista — 07/30/2023 1:38 AM
+The Legend of Zelda: Tears of the Kingdom v1.2.0
+TID: 0100F2C0115B6000
+BID: 6F32C68DD3BC7D77
+
+Cheats in text file;
+[Disable RRS Lock for Handheld (Re-enable DRS)]
+[Disable RRS Lock for Docked (Re-enable DRS)]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 67% (480p)]
+[Handheld RRS 75% (540p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Handheld RRS 95% (684p)]
+[Handheld RRS 100% (720p)]
+[Docked RRS 67% (720p)]
+[Docked RRS 75% (810p)]
+[Docked RRS 83% (900p)]
+[Docked RRS 93% (1008p)]
+[Docked RRS 100% (1080p)]
+[Contrast 50%]
+[Contrast 75%]
+[Default Contrast 99%]
+[Contrast 100%]
+[Contrast 125%]
+[Contrast 150%]
+[Contrast 175%]
+[Contrast 200%]
+[Saturation 50%]
+[Saturation 75%]
+[Saturation 100%]
+[Default Saturation 117%]
+[Saturation 125%]
+[Saturation 150%]
+[Saturation 175%]
+[Saturation 200%]
+
+
+https://youtu.be/_HklsZe7Ni4
+
+YT is still not done processing the whole video so 1080p60 Quality should be available in a while. Ok it's done. (edited)
+[Disable RRS Lock for Handheld (Re-enable DRS)]
+580F0000 04716408
+780F0000 00000594
+680F0000 44340000 44A00000
+780F0000 00000008
+640F0000 00000000 3F800000
+Expand
+6F32C68DD3BC7D77.txt
+5 KB
+YouTube
+Hazerou
+[SWITCH] The Legend Of Zelda: TOTK || Searching For the Resolution,...
+
+
+1
+
+1
+August 1, 2023
+
+Hazerou - Sephirothic Erista — 08/01/2023 1:12 AM
+Now with more Graphics Options.
+
+
+BPM: Bullets Per Minute v0.1
+TID: 0100040016EE2000
+BID: 331E3DFBDF650226
+
+
+Included in the text file;
+
+[30 FPS / 60 FPS & VSYNC OFF]
+[Upscale Quality]
+[Enable / Disable Dynamic Resolution]
+[Dynamic Resolution Target FPS]
+[RRS]
+[Max Quality Override To Highest]
+[Perf Limits on Devices with Battery]
+[Image Sharpening]
+[Forward Shading] & [Deferred Shading]
+[New Film Tone Mapper]
+[Use TAAU] Not Included due to Graphical Glitches
+[Vignette]
+[Distortion Effects]
+[Foggy Scene]
+[Motion Blur]
+[Film Grain]
+[CHROM AB]
+[Lens Flare]
+[Sky Lighting Quality]
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[Anti-Aliasing (FXAA, TAA & MSAA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+[SSR]
+[SSS]
+[Refraction]
+[Light Function Quality]
+[MIN/MAX/Default Quality] Presets came from previous post: ⁠post-tested-cheats-here⁠
+
+Note;
+
+=====
+[Upscale Quality] Is also known as Graphics Texture Filtering and it's noticeable (more usable) when using lower RRS + AA OFF, + AA Very Low or + AA Low.
+
+Type-0: Nearest filtering
+
+Type-1: Simple Bilinear
+
+Type-2: Directional blur with unsharp mask upsample. (default)
+
+Type-3: 5-tap Catmull-Rom bicubic, approximating Lanczos 2.
+
+Type-4: 13-tap Lanczos 3.
+
+Type-5: 36-tap Gaussian-filtered unsharp mask (very expensive, but good for extreme upsampling)
+
+=====
+
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+[SSR] Is Screen Space Reflection.
+
+[SSS] Is Screenspace Subsurface Scattering.
+
+Some GFX Codes has no Function/Effect to the Game.
+https://youtu.be/ZAntV8wxtmo
+[60 FPS & VSYNC OFF]
+580F0000 06225460
+580F1000 00000018
+580F1000 000000A0
+780F0000 00000F14
+640F0000 00000000 00000001
+Expand
+331E3DFBDF650226.txt
+14 KB
+YouTube
+Hazerou
+[SWITCH] B.P.M. Bullets Per Minute || Trying out 60 FPS & Graphics ...
+
+
+1
+September 5, 2023
+
+ChanseyTurkey - Ping me for help — 09/05/2023 12:17 AM
+DBZ: Karakot Latest Update GFX cheats by DAVY'SGAMING
+[12:17 AM]
+https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/blob/main/titles/010051C0134F8000/cheats/74DF3AF3FBAC1564.txt
+
+DAVY'SGAMING — 09/05/2023 12:21 AM
+Made some changes to the old one thanks to something @Hazerou - Sephirothic Erista showed me so now the 60fps code contains vsync off and build in 60 fps cutscenes i tested on my stream today and no crash on the cutscenes well the changed i made where like few min ago but tested also and every works 100%
+
+1
+
+1
+September 9, 2023
+
+DAVY'SGAMING — 09/09/2023 1:41 AM
+Dead by daylight nintendo switch 60 fps cheats+res and some other settings lowest 380 res give me a solid 60 fps enjoy 
+[60 FPS]
+580F0000 12D76BA8
+580F1000 00000080
+780F0000 00000F14
+640F0000 00000000 00000001
+580F0000 125CA9C0
+Expand
+A452AC23054A5E87.txt
+4 KB
+September 13, 2023
+
+Hazerou - Sephirothic Erista — 09/13/2023 1:58 PM
+We won the battle
+
+Pikmin 2 v1.0.0
+TID: 0100D680194B2000
+BID: B23A43495191E7AD
+
+
+[60 FPS Gameplay + 30 FPS Cutscene v1]
+14060000 00C13080 00000049
+580F0000 00C0B4B0
+780F0000 00000028
+640F0000 00000000 00000001
+580F0000 00C07040
+780F0000 000000E0
+640F0000 00000000 3C888889
+780F0000 00000020
+640F0000 00000000 3F800000
+20000000
+14050000 00C13080 00000049
+580F0000 00C0B4B0
+780F0000 00000028
+640F0000 00000000 00000002
+580F0000 00C07040
+780F0000 000000E0
+640F0000 00000000 3D088889
+780F0000 00000020
+640F0000 00000000 40000000
+20000000
+
+[30 FPS]
+580F0000 00C0B4B0
+780F0000 00000028
+640F0000 00000000 00000002
+580F0000 00C07040
+780F0000 000000E0
+640F0000 00000000 3D088889
+780F0000 00000020
+640F0000 00000000 40000000
+
+
+https://youtu.be/iDJYjg8CE9Y?si=XqPH6jm7R_SHwpEQ (edited)
+YouTube
+Hazerou
+[SWITCH] Pikmin 2 60 FPS + Cutscenes Fix Cheat Showcase #pikmin #sw...
+
+
+4
+
+3
+
+1
+
+1
+
+ChanseyTurkey - Ping me for help — 09/13/2023 2:29 PM
+
+September 14, 2023
+
+OldManKain — 09/14/2023 1:44 AM
+Update
+Pokemon S/V v2.0.1 60FPS by theboy181/OldManKain
+Violet TID: 01008F6008C5E000 BID: B4CAFC49EF25A6D5
+Scarlet TID: 0100A3D008C5C000 BID: 5E6184BF537537E9
+
+[60FPS 2.0.1]
+04090000 02A92548 52800014
+ (edited)
+
+2
+
+2
+
+ChanseyTurkey - Ping me for help — 09/14/2023 3:10 AM
+I appreciate all of your efforts on your cheat making. These recent cheats hav ebeen added to the database 
+
+@ChanseyTurkey - Ping me for help
+I appreciate all of your efforts on your cheat making. These recent cheats hav ebeen added to the database 
+
+OldManKain — 09/14/2023 5:00 AM
+I had forgot to change it to the new address on this one, it's fixed now. (edited)
+
+ChanseyTurkey - Ping me for help — 09/14/2023 1:05 PM
+I need to fix this this is a reminder
+
+@ChanseyTurkey - Ping me for help
+I need to fix this this is a reminder
+
+OldManKain — 09/14/2023 2:22 PM
+Sorry about that, I was being bombarded with DM's and requests for mods/cheats updates for XB3/S/V I forgot to copy over the address from my notepad. (edited)
+September 15, 2023
+
+Hazerou - Sephirothic Erista
+We won the battle Pikmin 2 v1.0.0 TID: 0100D680194B2000 BID: B23A43495191E7AD [60 FPS Gameplay + 30 FPS Cutscene v1] 14060000 00C13080 00000049 580F0000 00C0B4B0 780F0000 00000028 640F0000 00000000 00000001 580F0000 00C07040 780F0000 000000E0 640F0000 00000000 3C888889 780F0000 00000020 640F0000 00000000 3F800000 20000000 14050000 00C13080 00000049 580F0000 00C0B4B0 780F0000 00000028 640F0000 00000000 00000002 580F0000 00C07040 780F0000 000000E0 640F0000 00000000 3D088889 780F0000 00000020 640F0000 00000000 40000000 20000000  [30 FPS] 580F0000 00C0B4B0 780F0000 00000028 640F0000 00000000 00000002 580F0000 00C07040 780F0000 000000E0 640F0000 00000000 3D088889 780F0000 00000020 640F0000 00000000 40000000 https://youtu.be/iDJYjg8CE9Y?si=XqPH6jm7R_SHwpEQ (edited)
+
+Hazerou - Sephirothic Erista — 09/15/2023 2:15 PM
+Update : 60 FPS now on v2. I thought there's only one Cutscenes check values (sorry I don't really go far playing/testing games). v2 should work more consistently.
+
+Pikmin 2 v1.0.0
+TID: 0100D680194B2000
+BID: B23A43495191E7AD
+
+[60 FPS Gameplay + 30 FPS Cutscene v2]
+14030000 00C13080 00000049
+580F0000 00C0B4B0
+780F0000 00000028
+640F0000 00000000 00000001
+580F0000 00C07040
+780F0000 000000E0
+640F0000 00000000 3C888889
+780F0000 00000020
+640F0000 00000000 3F800000
+20000000
+14020000 00C13080 00000049
+14040000 00C13080 0000004B
+580F0000 00C0B4B0
+780F0000 00000028
+640F0000 00000000 00000002
+580F0000 00C07040
+780F0000 000000E0
+640F0000 00000000 3D088889
+780F0000 00000020
+640F0000 00000000 40000000
+20000000
+20000000
+
+[30 FPS]
+580F0000 00C0B4B0
+780F0000 00000028
+640F0000 00000000 00000002
+580F0000 00C07040
+780F0000 000000E0
+640F0000 00000000 3D088889
+780F0000 00000020
+640F0000 00000000 40000000
+
+ChanseyTurkey - Ping me for help — 09/15/2023 2:50 PM
+OK I need to fix this reminder I will delete
+September 17, 2023
+
+ChanseyTurkey - Ping me for help — 09/17/2023 3:26 AM
+All added and fixed
+
+Hazerou - Sephirothic Erista — 09/17/2023 12:16 PM
+@ChanseyTurkey - Ping me for help 
+@Furanko-Kenji 
+@ugandisanguan 
+@Muffin 
+@inspectah 
+@Jessica 
+
+Pikmin 4 v1.0.1
+TID: 0100B7C00933A000
+BID: 3C8B5AEAA796F844
+
+
+Included in the text file;
+
+[30 FPS / 60 FPS Gameplay + 30 FPS Cutscene v1]
+[Upscale Quality]
+[Enable / Disable Dynamic Resolution]
+[Dynamic Resolution Target FPS]
+[RRS]
+[Max Quality Override To Highest]
+[Perf Limits on Devices with Battery]
+[Image Sharpening]
+[Forward Shading] & [Deferred Shading]
+[New Film Tone Mapper]
+[Use TAAU]
+[Vignette]
+[Distortion Effects]
+[Foggy Scene]
+[Motion Blur]
+[Film Grain]
+[CHROM AB]
+[Lens Flare]
+[Sky Lighting Quality]
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[Anti-Aliasing (FXAA, TAA & MSAA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+[SSR]
+[SSS]
+[SSS Scale] <= NEW!
+[SSGI] <= NEW!
+[Refraction]
+[Light Function Quality]
+
+Note;
+
+Game is using Double Buffering. If using 60 FPS, use it with [Enable DRS] + [Dynamic Resolution Target 60 FPS].
+
+=====
+[Upscale Quality] Is also known as Graphics Texture Filtering and it's noticeable (more usable) when using lower RRS + AA OFF, + AA Very Low or + AA Low.
+
+Type-0: Nearest filtering
+
+Type-1: Simple Bilinear
+
+Type-2: Directional blur with unsharp mask upsample. (default)
+
+Type-3: 5-tap Catmull-Rom bicubic, approximating Lanczos 2.
+
+Type-4: 13-tap Lanczos 3.
+
+Type-5: 36-tap Gaussian-filtered unsharp mask (very expensive, but good for extreme upsampling)
+
+=====
+
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+[SSR] Is Screen Space Reflection.
+
+[SSS] Is Subsurface Scattering.
+
+[SSGI] Is Screen Space Global Illumination.
+
+Some GFX Codes has no Function/Effect to the Game.
+[60 FPS Gameplay + 30 FPS Cutscene v1]
+14060000 09D7E838 00000001
+580F0000 095B9D10
+580F1000 00000018
+580F1000 000000A0
+780F0000 00000F14
+Expand
+3C8B5AEAA796F844.txt
+15 KB
+
+1
+
+2
+
+1
+[12:19 PM]
+ Text file includes 127 pieces of Cheats. The quantity limit for Switch
+
+@Hazerou - Sephirothic Erista
+@ChanseyTurkey - Ping me for help @Furanko-Kenji @ugandisanguan @Muffin @inspectah @Jessica Pikmin 4 v1.0.1 TID: 0100B7C00933A000 BID: 3C8B5AEAA796F844 Included in the text file; [30 FPS / 60 FPS Gameplay + 30 FPS Cutscene v1] [Upscale Quality] [Enable / Disable Dynamic Resolution] [Dynamic Resolution Target FPS] [RRS] [Max Quality Override To Highest] [Perf Limits on Devices with Battery] [Image Sharpening] [Forward Shading] & [Deferred Shading] [New Film Tone Mapper] [Use TAAU] [Vignette] [Distortion Effects] [Foggy Scene] [Motion Blur] [Film Grain] [CHROM AB] [Lens Flare] [Sky Lighting Quality] [Adaptive Exposure] [View Distance Scale] [DOF] [Anisotropic Filtering] [Anti-Aliasing (FXAA, TAA & MSAA] [Shadow] [Shadow Distance] [SSAO] [Bloom] [SSR] [SSS] [SSS Scale] <= NEW! [SSGI] <= NEW! [Refraction] [Light Function Quality] Note; Game is using Double Buffering. If using 60 FPS, use it with [Enable DRS] + [Dynamic Resolution Target 60 FPS]. ===== [Upscale Quality] Is also known as Graphics Texture Filtering and it's noticeable (more usable) when using lower RRS + AA OFF, + AA Very Low or + AA Low. Type-0: Nearest filtering  Type-1: Simple Bilinear  Type-2: Directional blur with unsharp mask upsample. (default)  Type-3: 5-tap Catmull-Rom bicubic, approximating Lanczos 2.  Type-4: 13-tap Lanczos 3.  Type-5: 36-tap Gaussian-filtered unsharp mask (very expensive, but good for extreme upsampling) ===== [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function. Please use; Handheld RRS for Handheld Mode. Docked RRS for Docked Mode. Don't activate them at the same time! [SSR] Is Screen Space Reflection. [SSS] Is Subsurface Scattering. [SSGI] Is Screen Space Global Illumination. Some GFX Codes has no Function/Effect to the Game.
+
+ChanseyTurkey - Ping me for help — 09/17/2023 12:58 PM
+Does the 60 have timing issues like double animation speed and double speed timers?
+
+@ChanseyTurkey - Ping me for help
+Does the 60 have timing issues like double animation speed and double speed timers?
+
+Hazerou - Sephirothic Erista — 09/17/2023 12:59 PM
+Didn't test for too long but it only occurs during cutscenes.
+
+ChanseyTurkey - Ping me for help — 09/17/2023 2:54 PM
+I was going to be like I was going to download this through aio to test but I have to put the cheat up lol...
+
+2
+September 18, 2023
+
+ChanseyTurkey - Ping me for help — 09/18/2023 12:25 PM
+Pikmin 4 is added now but with not the 30fps or 60fps cheat part because the 60fps part has bugs and issues
+September 19, 2023
+
+Hazerou - Sephirothic Erista — 09/19/2023 9:40 PM
+I did my best...
+
+
+Mortal Kombat 1 v1.3.0
+TID: 01006560184E6000
+BID: A446D1E967710943
+
+
+60 FPS by Masagrator here : ⁠fps-cheats-that-needs-fix⁠
+
+Included in the text file;
+
+[Upscale Quality]
+[Minimize Stutters Use With DRS] <= NEW!
+[Enable / Disable Dynamic Resolution]
+[Dynamic Resolution Target FPS]
+[RRS]
+[Max Quality Override To Highest]
+[Perf Limits on Devices with Battery]
+[Image Sharpening]
+[New Film Tone Mapper]
+[Use TAAU]
+[Vignette]
+[Distortion Effects]
+[Foggy Scene]
+[Motion Blur]
+[Film Grain]
+[CHROM AB]
+[Lens Flare]
+[Sky Lighting Quality]
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[Anti-Aliasing (FXAA, TAA & MSAA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+[SSR]
+[SSS]
+[SSS Scale]
+[SSGI]
+[Refraction]
+[Light Function Quality]
+[Material Quality] <= NEW!
+[Detail Mode] <= NEW!
+
+Note;
+
+Text file contains 133 Cheats. Switch only limits it to 127. So remove some Cheats you don't need.
+=====
+
+[Upscale Quality] Is also known as Graphics Texture Filtering and it's noticeable (more usable) when using lower RRS + AA OFF, + AA Very Low or + AA Low.
+
+Type-0: Nearest filtering
+
+Type-1: Simple Bilinear
+
+Type-2: Directional blur with unsharp mask upsample. (default)
+
+Type-3: 5-tap Catmull-Rom bicubic, approximating Lanczos 2.
+
+Type-4: 13-tap Lanczos 3.
+
+Type-5: 36-tap Gaussian-filtered unsharp mask (very expensive, but good for extreme upsampling)
+
+=====
+
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+[SSR] Is Screen Space Reflection.
+
+[SSS] Is Subsurface Scattering.
+
+[SSGI] Is Screen Space Global Illumination.
+
+Some GFX Codes has no Function/Effect to the Game. (edited)
+[Upscale Quality Type-0]
+580F0000 0B6EC8E8 
+780F0000 00000098
+680F0000 00000000 00000000 
+
+[Upscale Quality Type-1]
+Expand
+A446D1E967710943.txt
+15 KB
+
+7
+September 20, 2023
+
+Hazerou - Sephirothic Erista
+I did my best... Mortal Kombat 1 v1.3.0 TID: 01006560184E6000 BID: A446D1E967710943 60 FPS by Masagrator here : ⁠fps-cheats-that-needs-fix⁠ Included in the text file; [Upscale Quality] [Minimize Stutters Use With DRS] <= NEW! [Enable / Disable Dynamic Resolution] [Dynamic Resolution Target FPS] [RRS] [Max Quality Override To Highest] [Perf Limits on Devices with Battery] [Image Sharpening] [New Film Tone Mapper] [Use TAAU] [Vignette] [Distortion Effects] [Foggy Scene] [Motion Blur] [Film Grain] [CHROM AB] [Lens Flare] [Sky Lighting Quality] [Adaptive Exposure] [View Distance Scale] [DOF] [Anisotropic Filtering] [Anti-Aliasing (FXAA, TAA & MSAA] [Shadow] [Shadow Distance] [SSAO] [Bloom] [SSR] [SSS] [SSS Scale] [SSGI] [Refraction] [Light Function Quality] [Material Quality] <= NEW! [Detail Mode] <= NEW! Note; Text file contains 133 Cheats. Switch only limits it to 127. So remove some Cheats you don't need.===== [Upscale Quality] Is also known as Graphics Texture Filtering and it's noticeable (more usable) when using lower RRS + AA OFF, + AA Very Low or + AA Low. Type-0: Nearest filtering  Type-1: Simple Bilinear  Type-2: Directional blur with unsharp mask upsample. (default)  Type-3: 5-tap Catmull-Rom bicubic, approximating Lanczos 2.  Type-4: 13-tap Lanczos 3.  Type-5: 36-tap Gaussian-filtered unsharp mask (very expensive, but good for extreme upsampling) ===== [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function. Please use; Handheld RRS for Handheld Mode. Docked RRS for Docked Mode. Don't activate them at the same time! [SSR] Is Screen Space Reflection. [SSS] Is Subsurface Scattering. [SSGI] Is Screen Space Global Illumination. Some GFX Codes has no Function/Effect to the Game. (edited)
+
+Hazerou - Sephirothic Erista — 09/20/2023 7:26 PM
+@ChanseyTurkey - Ping me for help Did you add this to DB yet. Don't because I'm not done with it yet.
+
+Edit: Ah $hit you guys are fast But no worries. I'll let you know if I had enough of this game. Sorry for the trouble. (edited)
+
+@Hazerou - Sephirothic Erista
+@ChanseyTurkey - Ping me for help Did you add this to DB yet. Don't because I'm not done with it yet. Edit: Ah $hit you guys are fast But no worries. I'll let you know if I had enough of this game. Sorry for the trouble. (edited)
+
+ChanseyTurkey - Ping me for help — 09/20/2023 7:53 PM
+Yeah sorry. I try and be fast sometimes. I'll update it when you update it
+September 30, 2023
+
+Hazerou - Sephirothic Erista — 09/30/2023 11:00 PM
+How are you guys doin'? I hope you guys are fine and doing good.
+
+The Legend of Zelda: Tears of the Kingdom v1.2.1
+TID: 0100F2C0115B6000
+BID: 9B4E43650501A4D4
+
+Cheats in text file;
+[Disable RRS Lock for Handheld (Re-enable DRS)]
+[Disable RRS Lock for Docked (Re-enable DRS)]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 67% (480p)]
+[Handheld RRS 75% (540p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Handheld RRS 95% (684p)]
+[Handheld RRS 100% (720p)]
+[Docked RRS 67% (720p)]
+[Docked RRS 75% (810p)]
+[Docked RRS 83% (900p)]
+[Docked RRS 93% (1008p)]
+[Docked RRS 100% (1080p)]
+[Contrast 50%]
+[Contrast 75%]
+[Default Contrast 99%]
+[Contrast 100%]
+[Contrast 125%]
+[Contrast 150%]
+[Contrast 175%]
+[Contrast 200%]
+[Saturation 50%]
+[Saturation 75%]
+[Saturation 100%]
+[Default Saturation 117%]
+[Saturation 125%]
+[Saturation 150%]
+[Saturation 175%]
+[Saturation 200%]
+
+
+Note: [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+====================
+
+I'll continue MK1 and some requests tomorrow Sunday unless I also have work on that day.
+[Disable RRS Lock for Handheld (Re-enable DRS)]
+580F0000 04725488
+780F0000 00000594
+680F0000 44340000 44A00000
+780F0000 00000008
+640F0000 00000000 3F800000
+Expand
+9B4E43650501A4D4.txt
+5 KB
+
+2
+
+2
+October 1, 2023
+
+MasaGratoR — 10/01/2023 7:02 AM
+EA SPORTS FC 24
+TID: 0100BDB01A0E6000
+BID: 6B6D4D60E3187FFC (1.0.0)
+
+[60 FPS]
+580F0000 0CD17BE0
+780F0000 00000008
+680F0000 404E0000 00000000
+04000000 07B90F60 52802002
+
+[30 FPS (default)]
+580F0000 0CD17BE0
+780F0000 00000008
+680F0000 403E0000 00000000
+04000000 07B90F60 2A1603E2
+
+
+BID: A8D4FEE18023F15C (v1.53.dd6d)
+[60 FPS]
+580F0000 0B89BE98
+780F0000 00000008
+680F0000 404E0000 00000000
+04000000 064E3BB4 52802002
+
+[30 FPS (default)]
+580F0000 0B89BE98
+780F0000 00000008
+680F0000 403E0000 00000000
+04000000 064E3BB4 2A1503E2
+ (edited)
+
+4
+
+1
+
+Hazerou - Sephirothic Erista
+I did my best... Mortal Kombat 1 v1.3.0 TID: 01006560184E6000 BID: A446D1E967710943 60 FPS by Masagrator here : ⁠fps-cheats-that-needs-fix⁠ Included in the text file; [Upscale Quality] [Minimize Stutters Use With DRS] <= NEW! [Enable / Disable Dynamic Resolution] [Dynamic Resolution Target FPS] [RRS] [Max Quality Override To Highest] [Perf Limits on Devices with Battery] [Image Sharpening] [New Film Tone Mapper] [Use TAAU] [Vignette] [Distortion Effects] [Foggy Scene] [Motion Blur] [Film Grain] [CHROM AB] [Lens Flare] [Sky Lighting Quality] [Adaptive Exposure] [View Distance Scale] [DOF] [Anisotropic Filtering] [Anti-Aliasing (FXAA, TAA & MSAA] [Shadow] [Shadow Distance] [SSAO] [Bloom] [SSR] [SSS] [SSS Scale] [SSGI] [Refraction] [Light Function Quality] [Material Quality] <= NEW! [Detail Mode] <= NEW! Note; Text file contains 133 Cheats. Switch only limits it to 127. So remove some Cheats you don't need.===== [Upscale Quality] Is also known as Graphics Texture Filtering and it's noticeable (more usable) when using lower RRS + AA OFF, + AA Very Low or + AA Low. Type-0: Nearest filtering  Type-1: Simple Bilinear  Type-2: Directional blur with unsharp mask upsample. (default)  Type-3: 5-tap Catmull-Rom bicubic, approximating Lanczos 2.  Type-4: 13-tap Lanczos 3.  Type-5: 36-tap Gaussian-filtered unsharp mask (very expensive, but good for extreme upsampling) ===== [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function. Please use; Handheld RRS for Handheld Mode. Docked RRS for Docked Mode. Don't activate them at the same time! [SSR] Is Screen Space Reflection. [SSS] Is Subsurface Scattering. [SSGI] Is Screen Space Global Illumination. Some GFX Codes has no Function/Effect to the Game. (edited)
+
+Hazerou - Sephirothic Erista — 10/01/2023 3:27 PM
+Well... I found a lot of interesting things but they don't even work after changing their values... I even found some configs that are available only for Lockhart(Xbox Series S?).
+So yeah this Texture Load is the only one useful after all the search...
+
+Mortal Kombat 1 v1.3.0
+TID: 01006560184E6000
+BID: A446D1E967710943
+
+
+[Default Fully Load Textures ASAP OFF]
+580F0000 0B78E900
+780F0000 00000098
+680F0000 00000000 00000000
+
+[Fully Load Textures ASAP ON]
+580F0000 0B78E900
+780F0000 00000098
+680F0000 00000001 00000001
+ (edited)
+
+1
+
+2
+
+1
+October 5, 2023
+
+MasaGratoR — 10/05/2023 12:47 PM
+EA SPORTS FC 24
+TID: 0100BDB01A0E6000
+BID: E0A5A92EA4F37A3A (1.54.1d19)
+
+[60 FPS]
+580F0000 0CD40E00
+780F0000 00000008
+680F0000 404E0000 00000000
+04000000 07B9C1B0 52802002
+
+[30 FPS (default)]
+580F0000 0CD40E00
+780F0000 00000008
+680F0000 403E0000 00000000
+04000000 07B9C1B0 2A1603E2
+
+1
+
+1
+October 6, 2023
+
+MasaGratoR — 10/06/2023 6:04 AM
+Super Bomberman R 2
+TID: 0100B87017D94000
+BID: 579CE7DD110A448B (1.2.0)
+
+Resolution is not changing in real time. You will see changed resolution only when starting new match after applying cheat.
+
+[Battle Mode RRS 100%]
+04000000 018518F8 D280A009
+04000000 018518FC F2C05A09
+04000000 01851910 D280F009
+04000000 01851914 F2C08709
+580F0000 056C3B70
+580F1000 000000B8
+640F1000 00000000 00000500
+640F1000 00000000 000002D0
+640F1000 00000000 00000780
+640F1000 00000000 00000438
+
+[Battle Mode RRS 70% (default)]
+04000000 018518F8 D2807009
+04000000 018518FC F2C03F09
+04000000 01851910 D280A809
+04000000 01851914 F2C05E09
+580F0000 056C3B70
+580F1000 000000B8
+640F1000 00000000 00000380
+640F1000 00000000 000001F8
+640F1000 00000000 00000540
+640F1000 00000000 000002F4
+
+1
+
+Hazerou - Sephirothic Erista — 10/06/2023 12:43 PM
+@ZΣЯӨ 
+
+Just basics for now. Yeah it's tough to use a phone with low ram for multitasking. This took me over an hour which is not a good run from usual.
+
+
+Solar Ash v1.06.0
+TID: 010083501AB36000
+BID: 0959D87753F9FED4
+
+
+Included in the text file;
+
+
+[30 FPS / 60 FPS]
+[Enable / Disable Dynamic Resolution]
+[Dynamic Resolution Target FPS]
+[RRS]
+
+
+Notes;
+
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+[60 FPS]
+580F0000 05DD8E28
+580F1000 00000018
+580F1000 00000078
+780F0000 00000F14
+640F0000 00000000 00000001
+Expand
+0959D87753F9FED4.txt
+3 KB
+
+2
+
+1
+
+1
+
+DAVY'SGAMING — 10/06/2023 9:09 PM
+detective pickachu returns
+[Breeze beta81a Detective Pikachu Returns 1.0.0 TID: 010007500F27C000 BID: A2A5ABEF988ABAA2]
+
+[60 FPS]
+580F0000 038D63F0 
+780F0000 00000F14 
+640F0000 00000000 00000001 
+Expand
+a2a5abef988abaa2.txt
+1 KB
+
+1
+
+ChanseyTurkey - Ping me for help — 10/06/2023 9:11 PM
+Nice surprised game speed not tied to framerate
+
+DAVY'SGAMING — 10/06/2023 9:13 PM
+works well ofc not perf 60 but i feel @Hazerou - Sephirothic Erista might need to make a resolution cheat i would try but not that good at it haha
+October 7, 2023
+
+ChanseyTurkey - Ping me for help — 10/07/2023 2:43 AM
+https://github.com/ChanseyIsTheBest/FPSLocker-Warehouse/blob/main/SaltySD/plugins/FPSLocker/patches/010081E01A45C000/6B5E31BAA58DB229.yaml
+GitHub
+FPSLocker-Warehouse/SaltySD/plugins/FPSLocker/patches/010081E01A45C...
+FPSLocker patches and methodology how to update them - ChanseyIsTheBest/FPSLocker-Warehouse
+
+[2:43 AM]
+Bang on balls 60fps Chronicles. Dynamic resolution frame time set to 16.66ms and vsync disabled for better perf
+
+Hazerou - Sephirothic Erista — 10/07/2023 1:16 PM
+
+Pikmin 1 v1.1.0
+TID: 0100AA80194B0000
+BID: 3A8E744D8F65CDEA
+
+[60 FPS Gameplay + 30 FPS Cutscene v1]
+14050000 00749A3C 00000000
+04000000 007606A0 00000001
+20000000
+14010000 00749A3C 00000000
+04000000 007606A0 00000002
+20000000
+
+[30 FPS]
+04000000 007606A0 00000002
+
+
+Cutscenes running at 60 FPS doubles up the game speed. So the code will force FPS to 30 whenever cutscenes occur and will only go back to 60 FPS when it's over.
+
+==================== (edited)
+
+2
+[1:23 PM]
+
+Pikmin 2 v1.1.0
+TID: 0100D680194B2000
+BID: 9A257FAB83444214
+
+[60 FPS Gameplay + 30 FPS Cutscene v2]
+14030000 00C18080 00000049
+580F0000 00C104B0
+780F0000 00000028
+640F0000 00000000 00000001
+580F0000 00C0C040
+780F0000 000000E0
+640F0000 00000000 3C888889
+780F0000 00000020
+640F0000 00000000 3F800000
+20000000
+14020000 00C18080 00000049
+14040000 00C18080 0000004B
+580F0000 00C104B0
+780F0000 00000028
+640F0000 00000000 00000002
+580F0000 00C0C040
+780F0000 000000E0
+640F0000 00000000 3D088889
+780F0000 00000020
+640F0000 00000000 40000000
+20000000
+20000000
+
+[30 FPS]
+580F0000 00C104B0
+780F0000 00000028
+640F0000 00000000 00000002
+580F0000 00C0C040
+780F0000 000000E0
+640F0000 00000000 3D088889
+780F0000 00000020
+640F0000 00000000 40000000
+
+2
+
+ChanseyTurkey - Ping me for help — 10/07/2023 1:32 PM
+@SushiiZ @Jessica new pikmin codes
+
+3
+
+Hazerou - Sephirothic Erista — 10/07/2023 1:52 PM
+
+Xenoblades Chronicles 3 v2.1.1
+TID: 010074F013262000
+BID: 0AE74B263D8AC3CF
+
+
+[60 FPS Gameplay + 30 FPS Cutscene + UI Speed Fix v3]
+14060000 01BA1A98 00000001
+08000000 01B42DB0 00000001 00000001
+580F0000 01BA1A90
+780F0000 00000080
+640F0000 00000000 3C888889
+20000000
+14060000 01BA1A98 00000000
+08000000 01B42DB0 00000002 00000002
+580F0000 01BA1A90
+780F0000 00000080
+640F0000 00000000 3D088889
+20000000
+
+[Default 30 FPS]
+08000000 01B42DB0 00000002 00000002
+580F0000 01BA1A90
+780F0000 00000080
+640F0000 00000000 3D088889
+
+
+Included in the text file;
+
+
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Handheld RRS 75% (544p)]
+[Handheld RRS 85% (616p)]
+[Default Handheld RRS 100% (720p)]
+[Docked RRS 66.66% (712p)]
+[Docked RRS 75% (816p)]
+[Docked RRS 83.33% (896p)]
+[Docked RRS 90% (976p)]
+[Default Docked RRS 100% (1080p)]
+[Disable RRS Lock (Re-Enable D.R.S.)]
+
+
+Same notes can be found here ⁠post-tested-cheats-here⁠ (edited)
+[Handheld RRS 50% (360p)]
+580F0000 01BA3970
+580F1000 00000AA0
+780F0000 0000001C
+680F1000 3F000000 3F000000
+680F0000 3F000000 3F000000
+Expand
+0AE74B263D8AC3CF.txt
+2 KB
+
+1
+
+@Hazerou - Sephirothic Erista
+Xenoblades Chronicles 3 v2.1.1 TID: 010074F013262000 BID: 0AE74B263D8AC3CF [60 FPS Gameplay + 30 FPS Cutscene + UI Speed Fix v3] 14060000 01BA1A98 00000001 08000000 01B42DB0 00000001 00000001 580F0000 01BA1A90 780F0000 00000080 640F0000 00000000 3C888889 20000000 14060000 01BA1A98 00000000 08000000 01B42DB0 00000002 00000002 580F0000 01BA1A90 780F0000 00000080 640F0000 00000000 3D088889 20000000  [Default 30 FPS] 08000000 01B42DB0 00000002 00000002 580F0000 01BA1A90 780F0000 00000080 640F0000 00000000 3D088889 Included in the text file; [Handheld RRS 50% (360p)] [Handheld RRS 66.66% (480p)] [Handheld RRS 75% (544p)] [Handheld RRS 85% (616p)] [Default Handheld RRS 100% (720p)] [Docked RRS 66.66% (712p)] [Docked RRS 75% (816p)] [Docked RRS 83.33% (896p)] [Docked RRS 90% (976p)] [Default Docked RRS 100% (1080p)] [Disable RRS Lock (Re-Enable D.R.S.)] Same notes can be found here ⁠post-tested-cheats-here⁠ (edited)
+
+MasaGratoR — 10/07/2023 3:30 PM
+To be up to date, this is the same 60 FPS cheat, but with fix solving crashes when excavating rich ether deposits
+
+[60 FPS]
+580F0000 01BA1A90
+780F0000 00000080
+11050000 01BA1A98 00000000
+08000000 01B42DB0 00000001 00000001
+640F0000 00000000 3C888889
+20000000
+11050000 01BA1A98 00000001
+08000000 01B42DB0 00000002 00000002
+640F0000 00000000 3D088889
+20000000
+04000000 01295300 F9400015
+04000000 01295304 1E2E1001
+04000000 01295308 1E27D002
+04000000 0129530C 1E221821
+04000000 01295310 BD0216A1
+04000000 01295314 D65F03C0
+04000000 00067370 9448B7E4
+
+
+Fix by me.
+Game uses game speed target for ether stuff and changing it to anything lower than 1/30 causes segfault when it's too much ether to render. So I'm forcing game to read static 1/30 from code cave - because it's easier to update it for new small updates this way. You could make it more compact by redirecting to 1/30 in rodata (edited)
+
+1
+
+MasaGratoR
+To be up to date, this is the same 60 FPS cheat, but with fix solving crashes when excavating rich ether deposits [60 FPS] 580F0000 01BA1A90 780F0000 00000080 11050000 01BA1A98 00000000 08000000 01B42DB0 00000001 00000001 640F0000 00000000 3C888889 20000000 11050000 01BA1A98 00000001 08000000 01B42DB0 00000002 00000002 640F0000 00000000 3D088889 20000000 04000000 01295300 F9400015 04000000 01295304 1E2E1001 04000000 01295308 1E27D002 04000000 0129530C 1E221821 04000000 01295310 BD0216A1 04000000 01295314 D65F03C0 04000000 00067370 9448B7E4 Fix by me. Game uses game speed target for ether stuff and changing it to anything lower than 1/30 causes segfault when it's too much ether to render. So I'm forcing game to read static 1/30 from code cave - because it's easier to update it for new small updates this way. You could make it more compact by redirecting to 1/30 in rodata (edited)
+
+Hazerou - Sephirothic Erista — 10/07/2023 3:51 PM
+Yeah that is better. Use this instead.
+
+DAVY'SGAMING
+works well ofc not perf 60 but i feel @Hazerou - Sephirothic Erista might need to make a resolution cheat i would try but not that good at it haha
+
+DAVY'SGAMING — 10/07/2023 11:43 PM
+Forget what i said with oc the game runs fine at 60 fps lol
+October 8, 2023
+
+Hazerou - Sephirothic Erista — 10/08/2023 3:01 PM
+@ZΣЯӨ 
+
+
+Gungrave G.O.R.E Ultimate Enhanced Edition v1.0.1
+TID: 010088801B324000
+BID: A0E97BF4475FE385
+
+
+Included in the text file;
+
+[60 FPS]
+[Default 30 FPS]
+[Enable DRS for Handheld (360p<=>720p)]
+[Enable DRS for Docked (552p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Default Disable Dynamic Resolution Scaling]
+[Handheld RRS 64.74% (360p)]
+[Default Handheld RRS 77% (428p)]
+[Handheld RRS 86.33% (480p)]
+[Handheld RRS 100% (556p)]
+[Handheld RRS 110.07% (612p)]
+[Handheld RRS 129.50% (720p)]
+[Default Docked RRS 90% (552p)]
+[Docked RRS 100% (612p)]
+[Docked RRS 117.65% (720p)]
+[Docked RRS 123.53% (756p)]
+[Docked RRS 132.68% (812p)]
+[Docked RRS 147.06% (900p)]
+[Docked RRS 176.47% (1080p)]
+[Default Image Sharpening OFF]
+[Image Sharpening ON]
+[Default Don't Use TAAU]
+[Use TAAU]
+[AA OFF]
+[AA Very Low (Faster FXAA)]
+[Default AA Low (FXAA)]
+[AA Medium (Faster TAA)]
+[AA High (Default TAA)]
+[AA Very High]
+[AA Max]
+
+
+Notes;
+
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+Game will crash if the following are both activated;
+
+[Use TAAU] + [AA High (Default TAA)]
+or
+[Use TAAU] + [AA Very High]
+or
+[Use TAAU] + [AA Max] (edited)
+[60 FPS]
+580F0000 06D5E4B0
+580F1000 00000018
+580F1000 00000078
+780F0000 00000F14
+640F0000 00000000 00000001
+Expand
+A0E97BF4475FE385.txt
+5 KB
+
+1
+
+2
+
+1
+
+1
+
+Hazerou - Sephirothic Erista — 10/08/2023 8:10 PM
+
+Borderlands 3 v1.0.1
+TID: 01009970122E4000
+BID: 9955E96CC5CED88F
+
+
+Included in the text file;
+
+[60 FPS (Improved)]
+[30 FPS]
+[Enable DRS For Handheld (360p<=>720p)]
+[Enable DRS For Docked (540p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Disable Dynamic Resolution Scaling]
+[Handheld & Docked RRS 50% (360p)]
+[Handheld & Docked RRS 66.66% (480p)]
+[Handheld & Docked RRS 75% (540p)]
+[Handheld & Docked RRS 85% (612p)]
+[Handheld & Docked RRS 90% (648p)]
+[Default Handheld & Docked RRS 100% (720p)]
+[Handheld & Docked RRS 105% (756p)]
+[Handheld & Docked RRS 112.5% (810p)]
+[Handheld & Docked RRS 125% (900p)]
+[Handheld & Docked RRS 150% (1080p)]
+[Default Image Sharpening OFF]
+[Image Sharpening ON]
+[Default Don't Use TAAU]
+[Use TAAU]
+[AA OFF]
+[AA Very Low (Faster FXAA)]
+[Default AA Low (FXAA)]
+[AA Medium (Faster TAA)]
+[AA High (Default TAA)]
+[AA Very High]
+[AA Max]
+
+
+Notes;
+
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+
+1080p 30 FPS might be possible with GPU: 921mhz & MEM: 1600mhz
+[60 FPS (Improved)]
+580F0000 0D35D360
+580F1000 00000498
+580F1000 00000070
+780F0000 00000F14
+640F0000 00000000 00000001
+Expand
+9955E96CC5CED88F.txt
+4 KB
+
+6
+
+1
+October 10, 2023
+
+Hazerou - Sephirothic Erista — 10/10/2023 2:15 PM
+
+DNF Duel v1.5.0
+TID: 0100380017D3E000
+BIR: 03840C116AAD67BA
+
+
+Game is already capped at 60 FPS.
+Capping it to 30 FPS just slows down the game speed and yes I already did the trick Masagrator told me but it still didn't fixed it ⁠60-fps-cheats-discussion⁠
+
+Included in the text file;
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Disable Dynamic Resolution Scaling]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Default Handheld RRS 75% (540p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Handheld RRS 100% (720p)]
+[Docked RRS 66.66% (720p)]
+[Default Docked RRS 66.7% (724p)]
+[Docked RRS 70% (756p)]
+[Docked RRS 75% (812p)]
+[Docked RRS 83.33% (900p)]
+[Docked RRS 100% (1080p)]
+[Default Image Sharpening OFF]
+[Image Sharpening ON]
+[Default Don't Use TAAU]
+[Use TAAU]
+[AA OFF]
+[AA Very Low (Faster FXAA)]
+[Default AA Low (FXAA)]
+[AA Medium (Faster TAA)]
+[AA High (Default TAA)]
+[AA Very High]
+[AA Max]
+
+
+Notes;
+
+1.) By default, The game's DR Operator is not r.DynamicRes.OperationMode (0x087F95E0).
+It's r.EnableDynamicResolution (0x07B19450) and it ignores r.DynamicRes.MaxScreenPercentage (0x087D69C8). That's why we have to enable r.DynamicRes.OperationMode (0x087F95E0). too.
+
+2.) Reverse NX RT will not work properly if r.EnableDynamicResolution (0x07B19450) is OFF. That's why I have to add it to RRS turned ON.
+
+[RRS] is Render Resolution Scale.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)]
+580F0000 087F95E0
+780F0000 00000034
+680F0000 00000002 00000002
+580F0000 07B19450
+780F0000 00000034
+Expand
+03840C116AAD67BA.txt
+5 KB
+
+1
+October 11, 2023
+
+DAVY'SGAMING — Yesterday at 6:46 AM
+Dead by Daylight 7.3.0
+TID: 01004C400CF96000
+BID: 348F18A8850B1E15
+[Breeze beta81a Dead by Daylight 7.3.0 TID: 01004C400CF96000 BID: 348F18A8850B1E15]
+
+[60 FPS]
+580F0000 131B8E68 
+580F1000 00000080 
+780F0000 00000F14 
+Expand
+348f18a8850b1e15.txt
+3 KB
+
+1
+
+Hazerou - Sephirothic Erista — Yesterday at 11:28 AM
+
+Avatar: The Last Airbender - Quest for Balance v0.3.0.29423
+TID: 0100BDF015760000
+BID: E64099A8449C88F0
+
+Included in the text file;
+[60 FPS]
+[30 FPS]
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Disable Dynamic Resolution Scaling]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Handheld RRS 75% (540p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Default Handheld RRS 100% (720p)]
+[Docked RRS 66.66% (720p)]
+[Docked RRS 70% (756p)]
+[Docked RRS 75% (812p)]
+[Default Docked RRS 83.33% (900p)]
+[Docked RRS 100% (1080p)]
+[Image Sharpening OFF]
+[Default Image Sharpening x0.5]
+[Image Sharpening x1.0]
+[Don't Use TAAU]
+[Default Use TAAU]
+[AA OFF]
+[AA Very Low (Faster FXAA)]
+[AA Low (FXAA)]
+[AA Medium (Faster TAA)]
+[AA High (Default TAA)]
+[AA Very High]
+[Default AA Max]
+
+
+Notes;
+
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+[60 FPS]
+580F0000 08475C00
+580F1000 00000018
+580F1000 00000078
+780F0000 00000F14
+640F0000 00000000 00000001
+Expand
+E64099A8449C88F0.txt
+4 KB
+
+1
+
+Hazerou - Sephirothic Erista — Yesterday at 5:53 PM
+@Tetsuo9999 
+
+I couldn't find the proper resolution codes for this one.
+
+
+YS X -NORDICS- v1.0.2 (JP)
+TID: 0100CC401A16C000
+BID: 14026324C6864D20
+
+
+Included in the text file;
+[60 FPS + Speed Fix]
+[30 FPS]
+[DR Level 0]
+[DR Level 1]
+[DR Level 2]
+[DR Level 3]
+[DR Level 4]
+[DR Level 5]
+[DR Level 6]
+[DR Level 7]
+
+
+1.) Frame pacing is bad whenever FPS drops below 60.
+
+2.) There's a resolution flickering when using [DR Level #], but you will not notice it if you're not standing still.
+
+3.) The higher the DR Level, the lower the resolution. (edited)
+
+[60 FPS + Speed Fix]
+580F0000 00C7CDD8
+580F1000 00000168
+780F0000 00000F24
+640F0000 00000000 00000001
+580F0000 00D7F2B8
+Expand
+14026324C6864D20.txt
+1 KB
+
+2
+
+1
+
+Hazerou - Sephirothic Erista — Yesterday at 11:15 PM
+I'm glad the previous version v01.32 has the same Pointers with the new one. Saved me a lot of time.
+
+
+DRAGON BALL FighterZ v01.33
+TID: 0100A250097F0000
+BID: B8498ED0166A71C9
+
+
+Game is already at 60 FPS.
+
+Included in the text file;
+[Upscale Quality]
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)] <= Added
+[Disable DRS]
+[Dynamic Resolution Target FPS] <= Added
+[RRS]
+[Max Quality Override To Highest]
+[Image Sharpening]
+[New Film Tone Mapper]
+[Use TAAU]
+[Vignette]
+[Distortion Effects]
+[Foggy Scene]
+[Motion Blur]
+[Film Grain]
+[CHROM AB]
+[Lens Flare]
+[Sky Lighting Quality]
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[MSAA]
+[AA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+[MIN/MAX/Default GFX Quality]
+
+Notes;
+
+The [GFX Quality] presets are for;
+[Adaptive Exposure]
+[View Distance Scale]
+[DOF]
+[Anisotropic Filtering]
+[MSAA]
+[AA]
+[Shadow]
+[Shadow Distance]
+[SSAO]
+[Bloom]
+
+=====
+[Upscale Quality] Is also known as Graphics Texture Filtering and it's noticeable (more usable) when using lower RRS + AA OFF, + AA Very Low or + AA Low.
+
+Type-0: Nearest filtering
+
+Type-1: Simple Bilinear
+
+Type-2: Directional blur with unsharp mask upsample. (default)
+
+Type-3: 5-tap Catmull-Rom bicubic, approximating Lanczos 2.
+
+Type-4: 13-tap Lanczos 3.
+
+Type-5: 36-tap Gaussian-filtered unsharp mask (very expensive, but good for extreme upsampling)
+
+=====
+
+[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+Some GFX Codes has no Function/Effect to the Game.
+
+[Upscale Quality Type-0]
+580F0000 05B11838 
+780F0000 00000064
+680F0000 00000000 00000000 
+
+[Default Upscale Quality Type-1]
+Expand
+B8498ED0166A71C9.txt
+11 KB
+
+Message #post-tested-cheats-here
+﻿
+
+
+
+
+ to select
+[Upscale Quality Type-0]
+580F0000 05B11838 
+780F0000 00000064
+680F0000 00000000 00000000 
+
+[Default Upscale Quality Type-1]
+580F0000 05B11838 
+780F0000 00000064
+680F0000 00000001 00000001 
+
+[Upscale Quality Type-2]
+580F0000 05B11838 
+780F0000 00000064
+680F0000 00000002 00000002 
+
+[Upscale Quality Type-3]
+580F0000 05B11838 
+780F0000 00000064
+680F0000 00000003 00000003 
+
+[Upscale Quality Type-4]
+580F0000 05B11838 
+780F0000 00000064
+680F0000 00000004 00000004 
+
+[Upscale Quality Type-5]
+580F0000 05B11838 
+780F0000 00000064
+680F0000 00000005 00000005
+
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)]
+580F0000 052F70D8
+780F0000 00000064
+680F0000 00000001 00000001
+580F0000 05B86FD8
+780F0000 00000064
+680F0000 42480000 42480000
+580F0000 05B86FF0
+780F0000 00000064
+680F0000 42C80000 42C80000
+
+[Dynamic Resolution Target 60 FPS]
+580F0000 05B87008
+780F0000 00000064
+680F0000 41855555 41855555
+580F0000 05B87020
+780F0000 00000064
+680F0000 41200000 41200000
+
+[Default Dynamic Resolution Target 30 FPS]
+580F0000 05B87008
+780F0000 00000064
+680F0000 42053333 42053333
+580F0000 05B87020
+780F0000 00000064
+680F0000 41200000 41200000
+
+[Disable Dynamic Resolution Scaling]
+580F0000 052F70D8
+780F0000 00000064
+680F0000 00000000 00000000
+
+[Handheld RRS 50% (360p)]
+580F0000 052F70D8
+780F0000 00000064
+680F0000 00000000 00000000
+580F0000 05329970
+780F0000 00000064
+680F0000 42480000 42480000
+
+[Handheld RRS 66.66% (480p)]
+580F0000 052F70D8
+780F0000 00000064
+680F0000 00000000 00000000
+580F0000 05329970
+780F0000 00000064
+680F0000 42855555 42855555
+
+[Handheld RRS 75% (540p)]
+580F0000 052F70D8
+780F0000 00000064
+680F0000 00000000 00000000
+580F0000 05329970
+780F0000 00000064
+680F0000 42960000 42960000
+
+[Handheld RRS 85% (612p)]
+580F0000 052F70D8
+780F0000 00000064
+680F0000 00000000 00000000
+580F0000 05329970
+780F0000 00000064
+680F0000 42AA0000 42AA0000
+
+[Default Handheld RRS 100% (720p)]
+580F0000 052F70D8
+780F0000 00000064
+680F0000 00000000 00000000
+580F0000 05329970
+780F0000 00000064
+680F0000 42C80000 42C80000
+
+[Docked RRS 66.66% (720p)]
+580F0000 052F70D8
+780F0000 00000064
+680F0000 00000000 00000000
+580F0000 05329970
+780F0000 00000064
+680F0000 42855555 42855555
+
+[Docked RRS 75% (812p)]
+580F0000 052F70D8
+780F0000 00000064
+680F0000 00000000 00000000
+580F0000 05329970
+780F0000 00000064
+680F0000 42960000 42960000
+
+[Docked RRS 83.33% (900p)]
+580F0000 052F70D8
+780F0000 00000064
+680F0000 00000000 00000000
+580F0000 05329970
+780F0000 00000064
+680F0000 42A6AAAA 42A6AAAA
+
+[Default Docked RRS 100% (1080p)]
+580F0000 052F70D8
+780F0000 00000064
+680F0000 00000000 00000000
+580F0000 05329970
+780F0000 00000064
+680F0000 42C80000 42C80000
+
+[Default Max Q Override To Highest OFF]
+580F0000 05BA9F38
+780F0000 00000064
+680F0000 00000000 00000000
+
+[Max Q Override To Highest ON]
+580F0000 05BA9F38
+780F0000 00000064
+680F0000 00000001 00000001
+
+[Default Image Sharpening OFF]
+580F0000 05B3CA68
+780F0000 00000064
+680F0000 00000000 00000000
+
+[Image Sharpening ON]
+580F0000 05B3CA68
+780F0000 00000064
+680F0000 3F800000 3F800000
+
+[Default Don't Use New Film Tone Mapper]
+580F0000 05B082F8
+780F0000 00000064
+680F0000 00000000 00000000
+
+[Use New Film Tone Mapper]
+580F0000 05B082F8
+780F0000 00000064
+680F0000 00000001 00000001
+
+[Default Don't Use TAAU]
+580F0000 05B9CB58
+780F0000 00000064
+680F0000 00000000 00000000
+
+[Use TAAU]
+580F0000 05B9CB58
+780F0000 00000064
+680F0000 00000001 00000001
+
+[Vignette OFF]
+580F0000 05B9CAB0
+780F0000 00000064
+680F0000 00000000 00000000
+
+[Default Vignette ON]
+580F0000 05B9CAB0
+780F0000 00000064
+680F0000 00000002 00000002
+
+[Distortion Effects OFF]
+580F0000 05ADB6C8
+780F0000 00000064
+680F0000 00000001 00000001
+
+[Default Distortion Effects ON]
+580F0000 05ADB6C8
+780F0000 00000064
+680F0000 00000000 00000000
+
+[Foggy Scene OFF]
+580F0000 05ADB6E0
+780F0000 00000064
+680F0000 00000000 00000000
+
+[Default Foggy Scene ON]
+580F0000 05ADB6E0
+780F0000 00000064
+680F0000 00000001 00000001
+
+[Motion Blur OFF]
+580F0000 053298C8
+780F0000 00000064
+680F0000 00000000 00000000
+
+[Default Motion Blur ON]
+580F0000 053298C8
+780F0000 00000064
+680F0000 00000003 00000003
+
+[Default Film Grain OFF]
+580F0000 05329CE8
+780F0000 00000064
+680F0000 00000000 00000000
+
+[Film Grain ON]
+580F0000 05329CE8
+780F0000 00000064
+680F0000 00000001 00000001
+
+[Default CHROM AB OFF]
+580F0000 05329868
+780F0000 00000064
+680F0000 00000000 00000000
+
+[CHROM AB ON]
+580F0000 05329868
+780F0000 00000064
+680F0000 00000001 00000001
+
+[Default Lens Flare OFF]
+580F0000 05329838
+780F0000 00000064
+680F0000 00000000 00000000
+
+[Lens Flare ON]
+580F0000 05329838
+780F0000 00000064
+680F0000 00000002 00000002
+
+[Default Adaptive Exposure OFF]
+580F0000 05329CA0
+780F0000 00000064
+680F0000 00000000 00000000
+
+[Adaptive Exposure Low]
+580F0000 05329CA0
+780F0000 00000064
+680F0000 00000001 00000001
+
+[Adaptive Exposure Normal]
+580F0000 05329CA0
+780F0000 00000064
+680F0000 00000002 00000002
+
+[Adaptive Exposure High]
+580F0000 05329CA0
+780F0000 00000064
+680F0000 00000003 00000003
+
+[View Distance Scale x0.5]
+580F0000 05329C58
+780F0000 00000064
+680F0000 3F000000 3F000000
+
+[Default View Distance Scale x0.6]
+580F0000 05329C58
+780F0000 00000064
+680F0000 3F19999A 3F19999A
+
+[View Distance Scale x1]
+580F0000 05329C58
+780F0000 00000064
+680F0000 3F800000 3F800000
+
+[View Distance Scale x1.5]
+580F0000 05329C58
+780F0000 00000064
+680F0000 3FC00000 3FC00000
+
+[View Distance Scale x2]
+580F0000 05329C58
+780F0000 00000064
+680F0000 40000000 40000000
+
+[DOF OFF]
+580F0000 05329958
+780F0000 00000064
+680F0000 00000000 00000000
+
+[Default DOF low]
+580F0000 05329958
+780F0000 00000064
+680F0000 00000001 00000001
+
+[DOF High]
+580F0000 05329958
+780F0000 00000064
+680F0000 00000002 00000002
+
+[DOF Very High]
+580F0000 05329958
+780F0000 00000064
+680F0000 00000003 00000003
+
+[DOF Extreme]
+580F0000 05329958
+780F0000 00000064
+680F0000 00000004 00000004
+
+[Anisotropic Filtering x1]
+580F0000 05329B68
+780F0000 00000064
+680F0000 00000001 00000001
+
+[Anisotropic Filtering x2]
+580F0000 05329B68
+780F0000 00000064
+680F0000 00000002 00000002
+
+[Anisotropic Filtering x4]
+580F0000 05329B68
+780F0000 00000064
+680F0000 00000004 00000004
+
+[Default Anisotropic Filtering x8]
+580F0000 05329B68
+780F0000 00000064
+680F0000 00000008 00000008
+
+[Anisotropic Filtering x16]
+580F0000 05329B68
+780F0000 00000064
+680F0000 00000010 00000010
+
+[MSAA OFF]
+580F0000 05329A60
+780F0000 00000064
+680F0000 00000001 00000001
+
+[MSAA 2x]
+580F0000 05329A60
+780F0000 00000064
+680F0000 00000002 00000002
+
+[Default MSAA 4x]
+580F0000 05329A60
+780F0000 00000064
+680F0000 00000004 00000004
+
+[MSAA 8x]
+580F0000 05329A60
+780F0000 00000064
+680F0000 00000008 00000008
+
+[AA OFF]
+580F0000 053298E0
+780F0000 00000064
+680F0000 00000000 00000000
+
+[AA Very Low (Faster FXAA)]
+580F0000 053298E0
+780F0000 00000064
+680F0000 00000001 00000001
+
+[Default AA Low (FXAA)]
+580F0000 053298E0
+780F0000 00000064
+680F0000 00000002 00000002
+
+[AA Medium (Faster TAA)]
+580F0000 053298E0
+780F0000 00000064
+680F0000 00000003 00000003
+
+[AA High (Default TAA)]
+580F0000 053298E0
+780F0000 00000064
+680F0000 00000004 00000004
+
+[AA Very High]
+580F0000 053298E0
+780F0000 00000064
+680F0000 00000005 00000005
+
+[AA Max]
+580F0000 053298E0
+780F0000 00000064
+680F0000 00000006 00000006
+
+[Shadow OFF]
+580F0000 053298B0
+780F0000 00000064
+680F0000 00000000 00000000
+
+[Shadow Low (Unfiltered)]
+580F0000 053298B0
+780F0000 00000064
+680F0000 00000001 00000001
+
+[Shadow Low]
+580F0000 053298B0
+780F0000 00000064
+680F0000 00000002 00000002
+
+[Default Shadow Medium]
+580F0000 053298B0
+780F0000 00000064
+680F0000 00000003 00000003
+
+[Shadow High]
+580F0000 053298B0
+780F0000 00000064
+680F0000 00000004 00000004
+
+[Shadow Max]
+580F0000 053298B0
+780F0000 00000064
+680F0000 00000005 00000005
+
+[Shadow Distance x0.5]
+580F0000 05329CB8
+780F0000 00000064
+680F0000 3F000000 3F000000
+
+[Default Shadow Distance x0.7]
+580F0000 05329CB8
+780F0000 00000064
+680F0000 3F333333 3F333333
+
+[Shadow Distance x1]
+580F0000 05329CB8
+780F0000 00000064
+680F0000 3F800000 3F800000
+
+[Shadow Distance x1.5]
+580F0000 05329CB8
+780F0000 00000064
+680F0000 3FC00000 3FC00000
+
+[Shadow Distance x2]
+580F0000 05329CB8
+780F0000 00000064
+680F0000 40000000 40000000
+
+[SSA0 OFF]
+580F0000 05329880
+780F0000 00000064
+680F0000 00000000 00000000
+
+[SSA0 x0.5]
+580F0000 05329880
+780F0000 00000064
+680F0000 3F000000 3F000000
+
+[SSA0 x1]
+580F0000 05329880
+780F0000 00000064
+680F0000 3F800000 3F800000
+
+[Default SSA0 x1.5]
+580F0000 05329880
+780F0000 00000064
+680F0000 3FC00000 3FC00000
+
+[SSA0 x2]
+580F0000 05329880
+780F0000 00000064
+680F0000 40000000 40000000
+
+[Bloom OFF]
+580F0000 05329850
+780F0000 00000064
+680F0000 00000000 00000000
+
+[Bloom Very Low]
+580F0000 05329850
+780F0000 00000064
+680F0000 00000001 00000001
+
+[Bloom Low]
+580F0000 05329850
+780F0000 00000064
+680F0000 00000002 00000002
+
+[Bloom Medium]
+580F0000 05329850
+780F0000 00000064
+680F0000 00000003 00000003
+
+[Default Bloom High]
+580F0000 05329850
+780F0000 00000064
+680F0000 00000004 00000004
+
+[Bloom Very High]
+580F0000 05329850
+780F0000 00000064
+680F0000 00000005 00000005
+
+[MAX GFX QUALITY]
+580F0000 05329CA0
+780F0000 00000064
+680F0000 00000003 00000003
+580F0000 05329C58
+780F0000 00000064
+680F0000 40000000 40000000
+580F0000 05329958
+780F0000 00000064
+680F0000 00000004 00000004
+580F0000 05329B68
+780F0000 00000064
+680F0000 00000010 00000010
+580F0000 05329A60
+780F0000 00000064
+680F0000 00000008 00000008
+580F0000 053298E0
+780F0000 00000064
+680F0000 00000006 00000006
+580F0000 053298B0
+780F0000 00000064
+680F0000 00000005 00000005
+580F0000 05329CB8
+780F0000 00000064
+680F0000 40000000 40000000
+580F0000 05329880
+780F0000 00000064
+680F0000 40000000 40000000
+580F0000 05329850
+780F0000 00000064
+680F0000 00000005 00000005
+
+[MIN GFX QUALITY]
+580F0000 05329CA0
+780F0000 00000064
+680F0000 00000000 00000000
+580F0000 05329C58
+780F0000 00000064
+680F0000 3F000000 3F000000
+580F0000 05329958
+780F0000 00000064
+680F0000 00000000 00000000
+580F0000 05329B68
+780F0000 00000064
+680F0000 00000001 00000001
+580F0000 05329A60
+780F0000 00000064
+680F0000 00000001 00000001
+580F0000 053298E0
+780F0000 00000064
+680F0000 00000000 00000000
+580F0000 053298B0
+780F0000 00000064
+680F0000 00000000 00000000
+580F0000 05329CB8
+780F0000 00000064
+680F0000 3F000000 3F000000
+580F0000 05329880
+780F0000 00000064
+680F0000 00000000 00000000
+580F0000 05329850
+780F0000 00000064
+680F0000 00000000 00000000
+
+[DEFAULT GFX QUALITY]
+580F0000 05329CA0
+780F0000 00000064
+680F0000 00000000 00000000
+580F0000 05329C58
+780F0000 00000064
+680F0000 3F19999A 3F19999A
+580F0000 05329958
+780F0000 00000064
+680F0000 00000001 00000001
+580F0000 05329B68
+780F0000 00000064
+680F0000 00000008 00000008
+580F0000 05329A60
+780F0000 00000064
+680F0000 00000004 00000004
+580F0000 053298E0
+780F0000 00000064
+680F0000 00000002 00000002
+580F0000 053298B0
+780F0000 00000064
+680F0000 00000003 00000003
+580F0000 05329CB8
+780F0000 00000064
+680F0000 3F333333 3F333333
+580F0000 05329880
+780F0000 00000064
+680F0000 3FC00000 3FC00000
+580F0000 05329850
+780F0000 00000064
+680F0000 00000004 00000004
