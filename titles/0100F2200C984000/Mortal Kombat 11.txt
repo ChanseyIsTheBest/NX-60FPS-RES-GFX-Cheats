@@ -1,0 +1,6 @@
+By Hazerou
+1.) This cheat will force Fatal Blow, Krushing Blow, Fatalities etc that are 576p Docked by default to render at 720p Docked. We can't up the resolution above 720p because it just glitches the screen.
+
+2.) Use ⁠reverse-nx-rt if you want to get 720p for Handheld.
+
+3.) I did try to force 60 FPS on Fatal Blow, Krushing Blow, Fatalities etc, but it doubles the game speed and it glitches the screen... 
