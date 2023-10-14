@@ -1,1 +1,11 @@
 By Hazerou
+
+How to use;
+
+1.) RRS Cheats are for Docked Mode only and effects are not applied on the fly. So all you have to do is Undock => Dock for the cheats to apply. Or use ⁠reverse-nx-rt  Mode: Handheld => Mode: Docked which is much easier to do.
+
+2.) You can experience these in Handheld . Just use ⁠reverse-nx-rt and set mode to Mode: Docked.
+
+Notes;
+
+1.) The RRS 1440p and 4K 2160p are experimental for use with Emulator. It may crash the game if you use it on Switch Console.
