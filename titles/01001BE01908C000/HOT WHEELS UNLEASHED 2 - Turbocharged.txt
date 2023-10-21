@@ -1,0 +1,19 @@
+By Hazerou
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+
+2.) Game will crash if the following are both activated;
+
+[Use TAAU] + [AA High (Default TAA)]
+or
+[Use TAAU] + [AA Very High]
+or
+[Use TAAU] + [AA Max]
+
+3.) [Don't Use TAAU & FSR], [Use TAAU (FSR OFF)] & [Use FSR (TAAU OFF)] will override the in-game FSR option.
+
+4.) [Fully Load Textures ASAP] not included because it freezes the game.
