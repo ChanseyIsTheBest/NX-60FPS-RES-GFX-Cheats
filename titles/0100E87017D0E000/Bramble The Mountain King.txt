@@ -6,3 +6,11 @@ Docked RRS for Docked Mode.
 Don't activate them at the same time!
 
 Some GFX Codes has no Function/Effect to the Game.
+
+Game will crash if the following are both activated;
+
+[Use TAAU] + [AA High (Default TAA)]
+or
+[Use TAAU] + [AA Very High]
+or
+[Use TAAU] + [AA Max]
