@@ -1,0 +1,13 @@
+By Hazerou
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+
+2.) [Motion Blur] & [Bloom] for use with scaling option in the in-game settings.
+
+3.) [Fully Load Textures ASAP] not included because it freezes the game.
+
+4.) Some GFX Codes has no Function/Effect to the Game.
