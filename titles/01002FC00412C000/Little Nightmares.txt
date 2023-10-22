@@ -1,0 +1,10 @@
+By Hazerou
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+2.) Some GFX Codes such as TAAU, Skylight, DRS etc. are missing because they are not implemented in the game.
+
+3.) Some GFX Codes has no Function/Effect to the Game.
