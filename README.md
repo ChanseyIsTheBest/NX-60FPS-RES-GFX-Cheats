@@ -24,6 +24,8 @@ It is recommended to use [**FPSLocker**](https://github.com/masagrator/FPSLocker
 
 The latest versions of the following custom firmware and homebrew tools are recommended to get the most out of these cheats. Without overclocking most of the cheats will not work to their proper potential and in many cases handheld profiles should be forced to allow for more performance headroom.
 
+[**ChanseyIsTheBest's** video tutorial setup for recommended Switch tools](https://www.https://www.youtube.com/watch?v=0X5g6HF7LB4n)
+
 #### Custom firmware:
 
 [**Atmosphère**](https://github.com/Atmosphere-NX/Atmosphere)
