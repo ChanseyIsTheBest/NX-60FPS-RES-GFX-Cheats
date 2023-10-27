@@ -1,0 +1,4 @@
+By masagrator
+Game speed is tied to framerate, so if framerate drops the game will slow down.
+It's reccomended to use the .ips version of modification for 60FPS instead of the cheat because it forces triple buffering making framerate dips less severe
+https://gbatemp.net/threads/metal-gear-solid-2-3-60-fps-patches.642085/
