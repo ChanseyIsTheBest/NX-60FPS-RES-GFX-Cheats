@@ -1,17 +1,5 @@
-Included in the text file;
-
-[RRS]
-[MSAA]
-[AA]
-[Shadow]
-[SSAO]
-[Bloom]
-[Motion Blur]
-[MIN/MAX/Default GFX Quality]
-
-Note;
-
-The [GFX Quality] Are For;
+By Hazerou
+1.) The [GFX Quality] presets are for;
 
 [MSAA]
 [AA]
@@ -21,11 +9,12 @@ The [GFX Quality] Are For;
 
 =====
 
-[RRS] is Render Resolution Scale.
+2.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
 Please use;
 Handheld RRS for Handheld Mode.
 Docked RRS for Docked Mode.
+Don't activate them at the same time!
 
-Some GFX Codes has no Function/Effect to the Game.
+3.) Game doesn't use DR and some cvars are not in it.
 
-By @Hazerou
+4.) Some GFX Codes has no Function/Effect to the Game.
