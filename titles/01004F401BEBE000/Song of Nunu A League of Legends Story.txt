@@ -1,0 +1,13 @@
+By Hazerou
+Notes;
+
+1.) Some GFX are not added because they are missing like [New Film Tonemapper] & [AA (r.PostProcessAAQuality)] and etc...
+
+
+2.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+3.) Some GFX Codes has no Function/Effect to the Game.
