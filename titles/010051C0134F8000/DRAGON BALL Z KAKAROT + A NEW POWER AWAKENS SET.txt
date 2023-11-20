@@ -1,5 +1,5 @@
 By Hazerou
-74df3af3fbac1564 by DAVY'SGAMING
+74df3af3fbac1564 by DAVY'SGAMING + 60fps fix by masagrator
 
 Non Pre-Rendered Cutscenes now also runs at 60 FPS.
 
