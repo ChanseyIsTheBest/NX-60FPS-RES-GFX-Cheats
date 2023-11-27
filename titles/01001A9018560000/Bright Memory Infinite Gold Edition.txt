@@ -1,63 +1,68 @@
 By Hazerou
 v1.1 by sds
 v1.2 by sds
+v1.3 by Hazerou
 
 Included in the text file;
 
-[Enable / Disable Dynamic Resolution]
-[RRS]
-[Image Sharpening]
-[Vignette]
-[Motion Blur]
-[Film Grain]
-[CHROM AB]
-[Lens Flare]
-[Sky Lighting Quality]
-[Adaptive Exposure]
-[View Distance Scale]
-[DOF]
-[Anisotropic Filtering]
-[MSAA]
-[AA]
-[Shadow]
-[Shadow Distance]
-[SSAO]
-[Bloom]
+[60 FPS]
+[Default 30 FPS]
+[Filtering]
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Disable Dynamic Resolution Scaling]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Handheld RRS 75% (540p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Default Handheld RRS 100% (720p)]
+[Docked RRS 66.66% (720p)]
+[Docked RRS 70% (756p)]
+[Docked RRS 71.11% (768p)]
+[Docked RRS 75% (812p)]
+[Default Docked RRS 83.33% (900p)]
+[Docked RRS 100% (1080p)]
+[Film Grain ON/OFF]
+[Vignette ON/OFF]
+[Foggy Scene ON/OFF]
+[Motion Blur ON/OFF]
+[CHROM AB ON/OFF]
+[Lens Flare ON/OFF]
+[Sky Lighting Quality ON/OFF]
+[Use / Don't Use New Film Tone Mapper]
+[Image Sharpening ON/OFF]
+[Use / Don't Use TAAU]
+[AA OFF / FXAA / TAA]
+[DOF OFF <=> ON]
+[View Distance Scale x0.5 <=> x2]
+[Anisotropic Filtering x1 <=> x16]
+[Shadow OFF <=> Max]
+[Shadow Distance x0.5 <=> x2]
+[SSA0 OFF <=> x2]
+[Bloom OFF <=> Very High]
+[Material Quality Low <=> Epic]
+[Detail Mode Low <=> High]
+[Adaptive Exposure ON/OFF]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
 [MIN/MAX/Default GFX Quality]
+[Distortion Effects OFF <=> ON]
 
-Note;
 
-The [GFX Quality] Are For;
+Notes;
 
-[Adaptive Exposure]
-[View Distance Scale]
-[DOF]
-[Anisotropic Filtering]
-[MSAA]
-[AA]
-[Shadow]
-[Shadow Distance]
-[SSAO]
-[Bloom]
-
-=====
-
-[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
 Please use;
 Handheld RRS for Handheld Mode.
 Docked RRS for Docked Mode.
+Don't activate them at the same time!
 
-Some GFX Codes has no Function/Effect to the Game.
+2.) Game will crash if the following are both activated;
 
-I also removed;
-
-
-[AA High (Default TAA)]
-[AA Very High]
-[AA Max]
-
-Because the Game will crash if one of those is used.
-
-Now this is pretty much common with UE4 GFX Codes;
-Messing with the settings too fast/frequent may Crash the Game. The most unstable one is [AA]  Anti-Aliasing.
-Just activate the ones you like then get playing. 
+[Use TAAU] + [AA High (Default TAA)]
+or
+[Use TAAU] + [AA Very High]
+or
+[Use TAAU] + [AA Max]
