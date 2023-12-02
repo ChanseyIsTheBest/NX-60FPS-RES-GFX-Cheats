@@ -42,9 +42,9 @@ for title in os.listdir("titles"):
         text = open(os.path.join(cheatsPath, file), "r").read().lower()
         if "fps" in text:
             hasFpsCheats = "🏃"
-        if "res" in text or "rrs" in text:
+        if "res" in text or "rrs" in text or "drs" in text:
             hasResCheats = "🖥️"
-        if "gfx" in text:
+        if "gfx" in text or "shadow" in text:
             hasGfxCheats = "🌄"
 
     cheats = [file.removesuffix(".txt") for file in cheatFiles]
