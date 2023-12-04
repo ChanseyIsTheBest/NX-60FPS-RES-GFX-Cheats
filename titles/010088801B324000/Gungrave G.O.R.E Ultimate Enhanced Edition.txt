@@ -19,6 +19,7 @@ Included in the text file;
 [Docked RRS 84% (756p)]
 [Docked RRS 90% (812p)]
 [Default Docked RRS 100% (900p)]
+[Docked RRS 120% (1080p)]
 [Film Grain ON/OFF]
 [Vignette ON/OFF]
 [Foggy Scene ON/OFF]
@@ -54,9 +55,7 @@ Handheld RRS for Handheld Mode.
 Docked RRS for Docked Mode.
 Don't activate them at the same time!
 
-2.) [Docked RRS 1080p] is not included because it just glitches the screen.
-
-3.) Game will crash if the following are both activated;
+2.) Game will crash if the following are both activated;
 
 [Use TAAU] + [AA High (Default TAA)]
 or
