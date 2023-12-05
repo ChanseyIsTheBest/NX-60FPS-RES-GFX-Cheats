@@ -5,3 +5,5 @@ Included in the text file;
 RRS Cheats from [360p] up to [900p]. Only works for Handheld Mode.
 
 No 1080p because it glitches out the screen.
+
+Quest RRS setting will adjust the dyanmic resolution in quests as they are usually 95% of the regular RRS.
