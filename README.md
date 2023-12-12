@@ -74,13 +74,11 @@ See any other cheats in this repository for examples.
 
 Please see the following resources for some guidance and tutorials on creating cheats and patches yourself and setting up an environment for using cheats.
 
-[**ChanseyIsTheBest's** video tutorial setup for recommended Switch tools](https://www.youtube.com/watch?v=0X5g6HF7LB4n)
+[**ChanseyIsTheBest's** text guide setup for recommended Switch tools](https://rentry.co/NSwitch60FPSLockerGuide)
 
 [**Hazerou's** video tutorials](https://www.youtube.com/playlist?list=PL7F3HUhpLGiS7TzPM9V1hIh42GbcidN0n)
 
 [**Hazerou's** text guide](https://gbatemp.net/threads/how-to-search-the-fps-codes-using-edizon-se.586786/)
-
-[**ChanseyIsTheBest's** video tutorial](https://www.youtube.com/watch?v=h_XuSugIAsk)
 
 [**ChanseyIsTheBest's** text guide on how to make 60FPS patches](https://gbatemp.net/threads/how-to-make-60fps-ips-patch-for-nintendo-switch-game-ghidra-tutorial.625675/)
 
