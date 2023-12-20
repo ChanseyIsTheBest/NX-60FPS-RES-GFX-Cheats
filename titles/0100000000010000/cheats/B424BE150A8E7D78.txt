@@ -1,4 +1,4 @@
-[Screenshot Mode Graphics]
+[Screenshot Mode GFX]
 580F0000 0149D940
 580F1000 00000090
 580F1000 00000040
