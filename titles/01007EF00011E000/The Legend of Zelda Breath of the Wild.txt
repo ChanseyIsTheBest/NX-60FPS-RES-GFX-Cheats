@@ -15,3 +15,7 @@ Docked RRS v2 cheats may crash the gaem if used in handheld mode
 
 FPS Codes by @theboy181 based from his YUZU Mod which can be found here;
 https://yuzu-emu.org/wiki/switch-mods/
+
+FOV Codes by masagrator
+Main FOV won't be visible immediately, you must trigger change by f.e. aiming with bow and hiding bow or turn on Current FOV matching your FOV and immediately turn off. It is not advised to have Current FOV constantly turned on.
+
