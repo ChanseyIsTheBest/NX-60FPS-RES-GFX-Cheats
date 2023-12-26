@@ -40,6 +40,21 @@ The [GFX Quality] Are For;
 =====
 
 [RSS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+
+Added new Cheats;
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Use / Don't Use New Film Tone Mapper]
+[Material Quality Low <=> Epic]
+[Detail Mode Low <=> High]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
+[Max Quality Override To Highest ON/OFF]
+[Distortion Effects OFF/ON]
+[Foggy Scene ON/OFF]
+[Filtering]
+[VSync ON/OFF]
+
 Please use;
 Handheld RRS for Handheld Mode.
 Docked RRS for Docked Mode.
