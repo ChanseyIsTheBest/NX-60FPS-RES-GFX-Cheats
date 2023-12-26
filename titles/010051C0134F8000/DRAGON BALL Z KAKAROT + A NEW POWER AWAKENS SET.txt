@@ -51,4 +51,7 @@ Docked RRS for Docked Mode.
 Some GFX Codes has no Function/Effect to the Game.
 
 
+2.) [Fix Low FPS Frameskipping ON/OFF] is [r.GTSyncType]. It was set to 2 by default. Setting it to 1 helps eliminate large Frameskipping which are noticable when FPS drops or at below 30.
+
+
 https://www.youtube.com/shorts/OHTQ81vHY-c
