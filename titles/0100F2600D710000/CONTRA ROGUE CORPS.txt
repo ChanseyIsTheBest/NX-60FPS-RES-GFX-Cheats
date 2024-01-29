@@ -1,0 +1,6 @@
+By masagrator
+
+First line - highest resolution in handheld (0.9 = 648p)
+Second line - lowest resolution in handheld (0.5 = 360p)
+Third line - lowest resolution in docked (0.7 = 504p)
+fyi Docked highest res is 1.0 = 720p
