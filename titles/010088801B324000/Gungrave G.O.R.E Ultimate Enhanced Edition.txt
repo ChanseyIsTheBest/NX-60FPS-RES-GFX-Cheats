@@ -6,6 +6,7 @@ Included in the text file;
 [Default 30 FPS]
 [Filtering]
 [Enable DRS (Handheld 360p<=>720p) (Docked 452p<=>900p)]
+[Fix Low FPS Frameskipping ON/OFF]
 [Dynamic Resolution Target 60 FPS]
 [Default Dynamic Resolution Target 30 FPS]
 [Disable Dynamic Resolution Scaling]
