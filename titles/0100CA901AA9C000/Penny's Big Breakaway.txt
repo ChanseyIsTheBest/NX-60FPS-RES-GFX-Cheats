@@ -1,0 +1,2 @@
+By Hazerou
+Game uses double buffering. So FPS will drop to 30 and game speed will slow down whenever it can't handle 60 FPS
