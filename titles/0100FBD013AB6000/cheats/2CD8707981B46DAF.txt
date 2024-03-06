@@ -1,0 +1,2478 @@
+ChanseyIsTheBest
+chanseyisthebest
+Online
+
+
+
+Text Channel
+NSwitch 60 FPS Cheats & Mods:post-tested-cheats-here
+Search
+
+post-tested-cheats-here chat
+December 4, 2023
+
+Hazerou - Sephirothic Erista — 12/04/2023 11:44 AM
+
+
+2
+December 15, 2023
+
+OldManKain — 12/15/2023 3:39 AM
+Pokemon S/V v3.0.0 60FPS by theboy181/OldManKain (You won't get 60 on hardware)
+Violet TID: 01008F6008C5E000 BID: E335DE2BF4DCD951
+Scarlet TID: 0100A3D008C5C000 BID: C01884F294C053C4
+
+[60FPS v3.0.0]
+04090000 02B7A738 52800014
+
+2
+December 22, 2023
+
+DAVY'SGAMING — 12/22/2023 10:12 AM
+Choo-Choo Charles 1.0.1 TID: 01006F901C7F2000 BID: 406F004D76F961F3]
+SSAO AND ANTI ALIASING were both 0 by default and when switching them resolve into a crash so i took them out Fully Load Textures made the game freeze! feel free to test! (edited)
+[Breeze beta84  Choo-Choo Charles 1.0.1 TID: 01006F901C7F2000 BID: 406F004D76F961F3]
+
+
+[60 FPS]
+580F0000 0754A550
+580F1000 00000080
+Expand
+406F004D76F961F3.txt
+7 KB
+
+1
+December 23, 2023
+
+MasaGratoR — 12/23/2023 1:07 AM
+Batman: Arkham Asylum
+TID: 0100E870163CA000
+BID: 621EE66A6743D750 (1.0.1)
+
+[Enable DRS]
+580F0000 01C9C860
+580F1000 000004E8
+640F0000 00000000 00000001
+
+[Disable DRS (default)]
+580F0000 01C9C860
+580F1000 000004E8
+640F0000 00000000 00000000
+
+[DRS Target 60 FPS]
+580F0000 01C9C860
+580F1000 000004E8
+780F0000 0000000C
+640F0000 00000000 4184CCCD
+
+[DRS Target 30 FPS (default)]
+580F0000 01C9C860
+580F1000 000004E8
+780F0000 0000000C
+640F0000 00000000 42053333
+
+[DRS Range 75%-100% (H 540p->720p), (D 810p->1080p)]
+580F0000 01C9C860
+580F1000 000004E8
+780F0000 00000004
+680F0000 42C80000 42960000
+
+[DRS Default Range 85%-100% (H 612p->720p), (D 918p->1080p)]
+580F0000 01C9C860
+580F1000 000004E8
+780F0000 00000004
+680F0000 42C80000 42AA0000
+
+1
+
+@MasaGratoR
+Batman: Arkham Asylum TID: 0100E870163CA000 BID: 621EE66A6743D750 (1.0.1) [Enable DRS] 580F0000 01C9C860 580F1000 000004E8 640F0000 00000000 00000001  [Disable DRS (default)] 580F0000 01C9C860 580F1000 000004E8 640F0000 00000000 00000000  [DRS Target 60 FPS] 580F0000 01C9C860 580F1000 000004E8 780F0000 0000000C 640F0000 00000000 4184CCCD  [DRS Target 30 FPS (default)] 580F0000 01C9C860 580F1000 000004E8 780F0000 0000000C 640F0000 00000000 42053333  [DRS Range 75%-100% (H 540p->720p), (D 810p->1080p)] 580F0000 01C9C860 580F1000 000004E8 780F0000 00000004 680F0000 42C80000 42960000  [DRS Default Range 85%-100% (H 612p->720p), (D 918p->1080p)] 580F0000 01C9C860 580F1000 000004E8 780F0000 00000004 680F0000 42C80000 42AA0000
+
+DAVY'SGAMING — 12/23/2023 9:27 AM
+oooh a update cool
+December 25, 2023
+
+Hazerou - Sephirothic Erista — 12/25/2023 2:25 PM
+
+Mortal Kombat 1 v1.9.0
+TID: 01006560184E6000
+BID: 6E9861BBCD939962
+
+
+Included in the text file;
+[VSync OFF / ON]
+[Filtering]
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Disable Dynamic Resolution Scaling]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Handheld RRS 75% (540p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Default Handheld RRS 100% (720p)]
+[Docked RRS 66.66% (720p)]
+[Default Docked RRS 70% (756p)]
+[Docked RRS 71.11% (768p)]
+[Docked RRS 75% (812p)]
+[Docked RRS 83.33% (900p)]
+[Docked RRS 100% (1080p)]
+[Film Grain ON/OFF]
+[Vignette ON/OFF]
+[Foggy Scene ON/OFF]
+[Motion Blur ON/OFF]
+[CHROM AB ON/OFF]
+[Lens Flare ON/OFF]
+[Sky Lighting Quality ON/OFF]
+[Use / Don't Use New Film Tone Mapper]
+[Image Sharpening ON/OFF]
+[DOF OFF <=> ON]
+[Use / Don't Use TAAU]
+[AA OFF / FXAA / TAA]
+[View Distance Scale x0.5 <=> x2]
+[Anisotropic Filtering x1 <=> x16]
+[Shadow OFF <=> Max]
+[Shadow Distance x0.5 <=> x2]
+[SSA0 OFF <=> x2]
+[Bloom OFF <=> Very High]
+[Material Quality Low <=> Epic]
+[Detail Mode Low <=> High]
+[Adaptive Exposure ON/OFF]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
+[Distortion Effects OFF <=> ON]
+
+
+Notes;
+
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+
+2.) Some GFX Codes has no Function/Effect to the Game.
+
+[VSync OFF]
+580F0000 0AF10FA0
+680F0000 00000000 00000000
+
+[Default VSync ON]
+580F0000 0AF10FA0
+Expand
+6E9861BBCD939962.txt
+9 KB
+
+1
+December 26, 2023
+
+Hazerou - Sephirothic Erista — 12/26/2023 10:44 AM
+
+Hogwarts Legacy v1.0.2
+TID: 0100F7E00C70E000
+BID: F1AE192C465BD920
+
+
+Included in the text file;
+
+[60 FPS]
+[Default 30 FPS]
+[Fix Low FPS Frameskipping ON/OFF] <= NEW!
+[Filtering]
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Disable Dynamic Resolution Scaling]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Handheld RRS 75% (540p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Default Handheld RRS 100% (720p)]
+[Default Docked RRS 66.66% (720p)]
+[Docked RRS 70% (756p)]
+[Docked RRS 71.11% (768p)]
+[Docked RRS 75% (812p)]
+[Docked RRS 83.33% (900p)]
+[Docked RRS 100% (1080p)]
+[Film Grain ON/OFF]
+[Vignette ON/OFF]
+[Foggy Scene ON/OFF]
+[Motion Blur ON/OFF]
+[CHROM AB ON/OFF]
+[Lens Flare ON/OFF]
+[Sky Lighting Quality ON/OFF]
+[Use / Don't Use New Film Tone Mapper]
+[Image Sharpening ON/OFF]
+[Use / Don't Use TAAU]
+[AA OFF / FXAA / TAA]
+[DOF OFF <=> ON]
+[View Distance Scale x0.5 <=> x2]
+[Anisotropic Filtering x1 <=> x16]
+[Shadow OFF <=> Max]
+[Shadow Distance x0.5 <=> x2]
+[SSA0 OFF <=> x2]
+[Bloom OFF <=> Very High]
+[Material Quality Low <=> Epic]
+[Detail Mode Low <=> High]
+[Adaptive Exposure ON/OFF]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
+[Max Quality Override To Highest ON/OFF]
+[Distortion Effects OFF <=> ON]
+
+
+Notes;
+
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+2.) [Fix Low FPS Frameskipping ON/OFF] is [r.GTSyncType]. It was set to 2 by default. Setting it to 1 helps eliminate large Frameskipping which are noticable when FPS drops or at below 30.
+
+3.) Some GFX Codes has no Function/Effect to the Game.
+
+Edit: Changed the wrong BID. (edited)
+
+[60 FPS]
+580F0000 0A39E258
+680F0000 00000001 00000001
+580F0000 09D0BDC0
+680F0000 00000000 00000000
+580F0000 0A55D310
+Expand
+F1AE192C465BD920.txt
+9 KB
+
+1
+
+MasaGratoR — 12/26/2023 11:57 AM
+The Legend of Zelda: Breath of the Wild
+TID: 01007EF00011E000
+BID: 8E9978D50BDD20B4 (1.6.0)
+[Main FOV Default (50 deg)]
+580F0000 02C9C450
+580F1000 00000080
+580F1000 000006A0
+580F1000 000001A0
+580F1000 00000338
+640F0000 00000000 3F5F66F4
+
+[Main FOV 1 radian]
+580F0000 02C9C450
+580F1000 00000080
+580F1000 000006A0
+580F1000 000001A0
+580F1000 00000338
+640F0000 00000000 3F800000
+
+[Current FOV Main (50 deg)]
+580F0000 02C9C450
+580F1000 00000080
+580F1000 000006A0
+580F1000 00000050
+580F1000 00000010
+780F0000 00000220
+640F0000 00000000 3F5F66F4
+
+[Current FOV Bow (30 deg)]
+580F0000 02C9C450
+580F1000 00000080
+580F1000 000006A0
+580F1000 00000050
+580F1000 00000010
+780F0000 00000220
+640F0000 00000000 3F060A92
+
+[Current FOV 1 radian]
+580F0000 02C9C450
+580F1000 00000080
+580F1000 000006A0
+580F1000 00000050
+580F1000 00000010
+780F0000 00000220
+640F0000 00000000 3F800000
+
+
+Main FOV won't be visible immediately, you must trigger change by f.e. aiming with bow and hiding bow or turn on Current FOV matching your FOV and immediately turn off. It is not advised to have Current FOV constantly turned on.
+
+I was searching for camera tilt angle, and according to decompilation project it should have been stored next to fov. After finding root source of FOV it turns out life is not that nice. (edited)
+
+1
+
+Hazerou - Sephirothic Erista — 12/26/2023 1:15 PM
+
+DRAGON QUEST XI S: Echoes Of An Elusive Age - Definitive Edition v1.0.3
+TID: 01006C300E9F0000
+BID: 1719AABFA5EAE42B
+
+
+Cheats included from old post here ⁠post-tested-cheats-here⁠
+
+Added new Cheats;
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Use / Don't Use New Film Tone Mapper]
+[Material Quality Low <=> Epic]
+[Detail Mode Low <=> High]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
+[Max Quality Override To Highest ON/OFF]
+[Distortion Effects OFF/ON]
+[Foggy Scene ON/OFF]
+[Filtering]
+[VSync ON/OFF]
+
+[60 FPS]
+580F0000 08501D88
+780F0000 00002F04
+640F0000 00000000 00000001
+
+[Default 30 FPS]
+Expand
+1719AABFA5EAE42B.txt
+11 KB
+
+2
+
+1
+
+1
+
+1
+
+Hazerou - Sephirothic Erista — 12/26/2023 6:01 PM
+
+DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS v1.42
+TID: 010051C0134F8000
+BID: FFD9B653EAE305F7
+
+
+Included in the text file;
+
+[60 FPS]
+[Default 30 FPS]
+[Fix Low FPS Frameskipping ON/OFF]
+[Filtering]
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Disable Dynamic Resolution Scaling]
+[Handheld RRS 56.96% (360p)]
+[Handheld RRS 75.95% (480p)]
+[Handheld RRS 85.44% (540p)]
+[Handheld RRS 96.97% (612p)]
+[Default Handheld RRS 100% (632p)]
+[Handheld RRS 102.53% (648p)]
+[Handheld RRS 113.95% (720p)]
+[Docked RRS 80% (720p)]
+[Docked RRS 84% (756p)]
+[Docked RRS 90% (812p)]
+[Default Docked RRS 100% (900p)]
+[Docked RRS 120% (1080p)]
+[Film Grain ON/OFF]
+[Vignette ON/OFF]
+[Foggy Scene ON/OFF]
+[Motion Blur ON/OFF]
+[CHROM AB ON/OFF]
+[Lens Flare ON/OFF]
+[Sky Lighting Quality ON/OFF]
+[Use / Don't Use New Film Tone Mapper]
+[Image Sharpening ON/OFF]
+[Use / Don't Use TAAU]
+[AA OFF / FXAA / TAA]
+[DOF OFF <=> ON]
+[View Distance Scale x0.5 <=> x2]
+[Anisotropic Filtering x1 <=> x16]
+[Shadow OFF <=> Max]
+[Shadow Distance x0.5 <=> x2]
+[SSA0 OFF <=> x2]
+[Bloom OFF <=> Very High]
+[Material Quality Low <=> Epic]
+[Detail Mode Low <=> High]
+[Adaptive Exposure ON/OFF]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
+[Max Quality Override To Highest ON/OFF]
+[Distortion Effects OFF <=> ON]
+
+
+Notes;
+
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+2.) [Fix Low FPS Frameskipping ON/OFF] is [r.GTSyncType]. It was set to 2 by default. Setting it to 1 helps eliminate large Frameskipping which are noticable when FPS drops or at below 30.
+
+3.) Some GFX Codes has no Function/Effect to the Game.
+
+[60 FPS]
+580F0000 091C7090
+680F0000 00000001 00000001
+580F0000 0872BF28
+680F0000 00000000 00000000
+580F0000 092BFDE8
+Expand
+FFD9B653EAE305F7.txt
+9 KB
+
+1
+
+@Hazerou - Sephirothic Erista
+Hogwarts Legacy v1.0.2 TID: 0100F7E00C70E000 BID: F1AE192C465BD920 Included in the text file; [60 FPS] [Default 30 FPS] [Fix Low FPS Frameskipping ON/OFF] <= NEW! [Filtering] [Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)] [Dynamic Resolution Target 60 FPS] [Default Dynamic Resolution Target 30 FPS] [Disable Dynamic Resolution Scaling] [Handheld RRS 50% (360p)] [Handheld RRS 66.66% (480p)] [Handheld RRS 75% (540p)] [Handheld RRS 85% (612p)] [Handheld RRS 90% (648p)] [Default Handheld RRS 100% (720p)] [Default Docked RRS 66.66% (720p)] [Docked RRS 70% (756p)] [Docked RRS 71.11% (768p)] [Docked RRS 75% (812p)] [Docked RRS 83.33% (900p)] [Docked RRS 100% (1080p)] [Film Grain ON/OFF] [Vignette ON/OFF] [Foggy Scene ON/OFF] [Motion Blur ON/OFF] [CHROM AB ON/OFF] [Lens Flare ON/OFF] [Sky Lighting Quality ON/OFF] [Use / Don't Use New Film Tone Mapper] [Image Sharpening ON/OFF] [Use / Don't Use TAAU] [AA OFF / FXAA / TAA] [DOF OFF <=> ON] [View Distance Scale x0.5 <=> x2] [Anisotropic Filtering x1 <=> x16] [Shadow OFF <=> Max] [Shadow Distance x0.5 <=> x2] [SSA0 OFF <=> x2] [Bloom OFF <=> Very High] [Material Quality Low <=> Epic] [Detail Mode Low <=> High] [Adaptive Exposure ON/OFF] [Foliage ON/OFF (Experimental)] [Disable / Enable Fully Load Textures ASAP (Experimental)] [Max Quality Override To Highest ON/OFF] [Distortion Effects OFF <=> ON] Notes; 1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function. Please use; Handheld RRS for Handheld Mode. Docked RRS for Docked Mode. Don't activate them at the same time! 2.) [Fix Low FPS Frameskipping ON/OFF] is [r.GTSyncType]. It was set to 2 by default. Setting it to 1 helps eliminate large Frameskipping which are noticable when FPS drops or at below 30. 3.) Some GFX Codes has no Function/Effect to the Game. Edit: Changed the wrong BID. (edited)
+
+ChanseyTurkey - MGCJ 1175 Life — 12/26/2023 11:56 PM
+I don't think that's the right BID for that game version could someone send me the right BID cause tinfoil.io doesn't have the listing for it (edited)
+December 27, 2023
+
+@ChanseyTurkey - MGCJ 1175 Life
+I don't think that's the right BID for that game version could someone send me the right BID cause tinfoil.io doesn't have the listing for it (edited)
+
+Stevens — 12/27/2023 12:17 AM
+I've this
+
+
+1
+[12:17 AM]
+BuildID8: F1AE192C465BD920
+BuildID:   F1AE192C465BD920C7D2EA8F65CA95EE
+
+ChanseyTurkey - MGCJ 1175 Life — 12/27/2023 12:20 AM
+thanks ill add now (edited)
+
+Stevens — 12/27/2023 12:31 AM
+550F2E8B387B4520 seems to be for the old update
+
+
+Hazerou - Sephirothic Erista — 12/27/2023 6:49 AM
+Sorry I forgot to change it's BID.
+January 2, 2024
+
+Hazerou - Sephirothic Erista — 01/02/2024 12:51 PM
+
+Sonic Superstars v1.1.0
+TID: 01008F701C074000
+BID: 5A63C557FF5C5646
+
+⁠fpslocker  should also work to change FPS.
+[60 FPS]
+580F0000 0DD32090
+780F0000 00000F14
+640F0000 00000000 00000001
+
+[30 FPS]
+580F0000 0DD32090
+780F0000 00000F14
+640F0000 00000000 00000002
+
+[360p Overall Resolution]
+580F0000 0DCD3DC0
+780F0000 000000C0
+680F0000 00000168 00000280
+780F0000 00000008
+610F0000 00000000 00000001
+
+[480p Overall Resolution]
+580F0000 0DCD3DC0
+780F0000 000000C0
+680F0000 000001E0 00000356
+780F0000 00000008
+610F0000 00000000 00000001
+
+[540p Overall Resolution]
+580F0000 0DCD3DC0
+780F0000 000000C0
+680F0000 0000021C 000003C0
+780F0000 00000008
+610F0000 00000000 00000001
+
+[612p Overall Resolution]
+580F0000 0DCD3DC0
+780F0000 000000C0
+680F0000 00000264 00000440
+780F0000 00000008
+610F0000 00000000 00000001
+
+[720p Overall Resolution (Handheld's & Docked's Default)]
+580F0000 0DCD3DC0
+780F0000 000000C0
+680F0000 000002D0 00000500
+780F0000 00000008
+610F0000 00000000 00000001
+
+[810p Overall Resolution]
+580F0000 0DCD3DC0
+780F0000 000000C0
+680F0000 0000032A 000005A0
+780F0000 00000008
+610F0000 00000000 00000001
+
+[900p Overall Resolution]
+580F0000 0DCD3DC0
+780F0000 000000C0
+680F0000 00000384 00000640
+780F0000 00000008
+610F0000 00000000 00000001
+
+[1080p Overall Resolution]
+580F0000 0DCD3DC0
+780F0000 000000C0
+680F0000 00000438 00000780
+780F0000 00000008
+610F0000 00000000 00000001
+
+
+1
+January 3, 2024
+
+MasaGratoR — 01/03/2024 7:33 AM
+SONIC FRONTIERS v1.4.1
+TID: 01004AD014BF0000
+BID: D7A05D106FF46FC0 (1.4.1)
+
+Cheats made by Hazerou, updated by me
+
+[Default Re-Enable DRS 360p <-> 720p]
+580F0000 04CA3EE8
+580F1000 00000288
+780F0000 00000018
+640F1000 00000000 00000001
+680F0000 3F000000 3F800000
+
+[RRS 50% (360p)]
+580F0000 04CA3EE8
+580F1000 00000288
+780F0000 00000018
+640F1000 00000000 00000002
+680F0000 3F000000 3F000000
+
+[RRS 60% (432p)]
+580F0000 04CA3EE8
+580F1000 00000288
+780F0000 00000018
+640F1000 00000000 00000002
+680F0000 3F19999A 3F19999A
+
+[RRS 66.66% (480p)]
+580F0000 04CA3EE8
+580F1000 00000288
+780F0000 00000018
+640F1000 00000000 00000002
+680F0000 3F2AAAAB 3F2AAAAB
+
+[RRS 70% (504p)]
+580F0000 04CA3EE8
+580F1000 00000288
+780F0000 00000018
+640F1000 00000000 00000002
+680F0000 3F333333 3F333333
+
+[RRS 75% (540p)]
+580F0000 04CA3EE8
+580F1000 00000288
+780F0000 00000018
+640F1000 00000000 00000002
+680F0000 3F400000 3F400000
+
+[RRS 80% (576p)]
+580F0000 04CA3EE8
+580F1000 00000288
+780F0000 00000018
+640F1000 00000000 00000002
+680F0000 3F4CCCCD 3F4CCCCD
+
+[RRS 85% (612p)]
+580F0000 04CA3EE8
+580F1000 00000288
+780F0000 00000018
+640F1000 00000000 00000002
+680F0000 3F59999A 3F59999A
+
+[RRS 90% (648p)]
+580F0000 04CA3EE8
+580F1000 00000288
+780F0000 00000018
+640F1000 00000000 00000002
+680F0000 3F666666 3F666666
+
+[RRS 95% (684p)]
+580F0000 04CA3EE8
+580F1000 00000288
+780F0000 00000018
+640F1000 00000000 00000002
+680F0000 3F733333 3F733333
+
+[RRS 100% (720p)]
+580F0000 04CA3EE8
+580F1000 00000288
+780F0000 00000018
+640F1000 00000000 00000002
+680F0000 3F800000 3F800000
+ (edited)
+
+1
+
+Hazerou - Sephirothic Erista — 01/03/2024 12:16 PM
+
+STAR OCEAN THE SECOND STORY R v1.0.2
+TID: 010065301A2E0000
+BID: 7266AEB08847B0FA
+
+⁠fpslocker  should also work to change FPS.
+[60 FPS]
+580F0000 04C6D0F8
+780F0000 00000F14
+640F0000 00000000 00000001
+
+[Default 30 FPS]
+580F0000 04C6D0F8
+780F0000 00000F14
+640F0000 00000000 00000002
+
+[360p Overall Resolution]
+580F0000 04C06AC0
+780F0000 000000C0
+680F0000 00000168 00000280
+780F0000 00000008
+610F0000 00000000 00000001
+
+[480p Overall Resolution]
+580F0000 04C06AC0
+780F0000 000000C0
+680F0000 000001E0 00000356
+780F0000 00000008
+610F0000 00000000 00000001
+
+[540p Overall Resolution]
+580F0000 04C06AC0
+780F0000 000000C0
+680F0000 0000021C 000003C0
+780F0000 00000008
+610F0000 00000000 00000001
+
+[612p Overall Resolution]
+580F0000 04C06AC0
+780F0000 000000C0
+680F0000 00000264 00000440
+780F0000 00000008
+610F0000 00000000 00000001
+
+[720p Overall Resolution (Handheld's Default)]
+580F0000 04C06AC0
+780F0000 000000C0
+680F0000 000002D0 00000500
+780F0000 00000008
+610F0000 00000000 00000001
+
+[810p Overall Resolution]
+580F0000 04C06AC0
+780F0000 000000C0
+680F0000 0000032A 000005A0
+780F0000 00000008
+610F0000 00000000 00000001
+
+[900p Overall Resolution]
+580F0000 04C06AC0
+780F0000 000000C0
+680F0000 00000384 00000640
+780F0000 00000008
+610F0000 00000000 00000001
+
+[1080p Overall Resolution (Docked's Default)]
+580F0000 04C06AC0
+780F0000 000000C0
+680F0000 00000438 00000780
+780F0000 00000008
+610F0000 00000000 00000001
+
+
+1
+
+1
+
+Hazerou - Sephirothic Erista — 01/03/2024 3:24 PM
+
+Borderlands 3 v1.0.3
+TID: 01009970122E4000
+BID: AE2768797E3337EE
+
+
+Included in the text file;
+
+[60 FPS (Improved)]
+[30 FPS]
+[Filtering]
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Disable Dynamic Resolution Scaling]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Handheld RRS 75% (540p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Default Handheld RRS 100% (720p)]
+[Docked RRS 66.66% (720p)]
+[Docked RRS 70% (756p)]
+[Docked RRS 71.11% (768p)]
+[Docked RRS 75% (812p)]
+[Docked RRS 83.33% (900p)]
+[Default Docked RRS 100% (1080p)]
+[Film Grain ON/OFF]
+[Vignette ON/OFF]
+[Foggy Scene ON/OFF]
+[Motion Blur ON/OFF]
+[CHROM AB ON/OFF]
+[Lens Flare ON/OFF]
+[Sky Lighting Quality ON/OFF]
+[Use / Don't Use New Film Tone Mapper]
+[Image Sharpening ON/OFF]
+[Use / Don't Use TAAU]
+[AA OFF / FXAA / TAA]
+[DOF OFF <=> ON]
+[View Distance Scale x0.5 <=> x2]
+[Anisotropic Filtering x1 <=> x16]
+[Shadow OFF <=> Max]
+[Shadow Distance x0.5 <=> x2]
+[SSA0 OFF <=> x2]
+[Bloom OFF <=> Very High]
+[Material Quality Low <=> Epic]
+[Detail Mode Low <=> High]
+[Adaptive Exposure ON/OFF]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
+[Max Quality Override To Highest ON/OFF]
+[Distortion Effects OFF <=> ON]
+
+
+Notes;
+
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+2.) Some GFX Codes has no Function/Effect to the Game.
+
+[60 FPS (Improved)]
+580F0000 0DC49DB0
+680F0000 00000001 00000001
+580F0000 0D0C52B8
+680F0000 00000000 00000000
+580F0000 0DD857C0
+Expand
+AE2768797E3337EE.txt
+9 KB
+
+3
+
+1
+January 18, 2024
+
+MasaGratoR — 01/18/2024 11:26 PM
+EA SPORTS FC 24
+TID: 0100BDB01A0E6000 
+BID: 355CD175B2498C22 (1.55.6363)
+
+[60 FPS]
+580F0000 0CD65E20
+780F0000 00000008
+680F0000 404E0000 00000000
+04000000 07BBFEA0 52802002
+
+[30 FPS (default)]
+580F0000 0CD65E20
+780F0000 00000008
+680F0000 403E0000 00000000
+04000000 07BBFEA0 2A1603E2
+
+3
+
+1
+January 25, 2024
+
+ディ・チオーラ — 01/25/2024 2:51 PM
+MONSTER HUNTER RISE: SUNBREAK v16.0.2
+  /   TID: 0100B04011742000 BID: C9A3DD7702075ECD
+  /   TID: 0100559011740000 BID: D2FD97779381FB9A
+--------------------------------------------------------------------
+[60 FPS]
+580F0000 VVVVVVVV
+580F1000 000000A0
+780F0000 00012BC4
+610F0000 00000000 00000001
+580F0000 VVVVVVVV
+780F0000 00000434
+640F0000 00000000 42700000
+
+[30 FPS]
+580F0000 VVVVVVVV
+580F1000 000000A0
+780F0000 00012BC4
+610F0000 00000000 00000002
+580F0000 VVVVVVVV
+780F0000 00000434
+640F0000 00000000 41F00000
+
+[Game Speed Modification]
+580F0000 VVVVVVVV
+780F0000 00000418
+640F0000 00000000 SSSSSSSS
+-------------------------------
+Replace the VVVVVVVV to change the Game Region
+
+EU-US = 12A865C8
+JP-CN = 12B2E5C8
+-------------------------------
+Replace the SSSSSSSS to change the Speed
+
+Normal Speed = 3F800000
+SlowMo = 3F000000
+x1.5 = 3FC00000
+x2.0 = 40000000
+x2.5 = 40200000
+x3.0 = 40400000
+x3.5 = 40600000
+x4.0 = 40800000
+x4.5 = 40900000
+x5.0 = 40A00000
+
+========================
+Created by ディ・チオーラ
+++++++++++++++++++++++++ (edited)
+
+
+2
+
+1
+January 28, 2024
+
+Hazerou - Sephirothic Erista — 01/28/2024 1:19 PM
+
+DRAGON QUEST MONSTERS: The Dark Prince v1.0.4
+TID: 0100A77018EA0000
+BID: 67C973772FDBDEB1
+
+⁠fpslocker  should also work to change FPS.
+
+Included in the text file;
+[60 FPS]
+[Default 30 FPS]
+[360p Overall Resolution]
+[480p Overall Resolution]
+[540p Overall Resolution]
+[612p Overall Resolution]
+[720p Overall Resolution (Handheld's Default)]
+[810p Overall Resolution]
+[900p Overall Resolution]
+[1080p Overall Resolution (Docked's Default)]
+
+[60 FPS]
+580F0000 09F568F0
+780F0000 00000F14
+640F0000 00000000 00000001
+
+[Default 30 FPS]
+Expand
+67C973772FDBDEB1.txt
+2 KB
+
+1
+
+Hazerou - Sephirothic Erista — 01/28/2024 5:15 PM
+
+Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island v.1.0.2 (JP)
+TID: 01003E001A67A000
+BID: 30A396AC73D6F381
+
+⁠fpslocker  should also work to change FPS.
+
+Included in the text file;
+[Default 60 FPS]
+[30 FPS]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Default Handheld RRS 75% (540p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Handheld RRS 100% (720p)]
+[Docked RRS 66.66% (720p)]
+[Default Docked RRS 70% (756p)]
+[Docked RRS 71.11% (768p)]
+[Docked RRS 75% (810p)]
+[Docked RRS 83.33% (900p)]
+[Docked RRS 100% (1080p)]
+
+[Default 60 FPS]
+580F0000 08F7C300
+780F0000 00000F14
+640F0000 00000000 00000001
+
+[30 FPS]
+Expand
+30A396AC73D6F381.txt
+3 KB
+
+1
+January 29, 2024
+
+MasaGratoR — 01/29/2024 7:18 AM
+CONTRA: ROGUE CORPS
+TID: 0100F2600D710000
+BID: 4CCD2F6D331DD104 (1.3.0)
+
+First line - highest resolution in handheld (0.9 = 648p)
+Second line - lowest resolution in handheld (0.5 = 360p)
+Third line - lowest resolution in docked (0.7 = 504p)
+fyi Docked highest res is 1.0 = 720p (edited)
+[Disable Dynamic Resolution]
+04000000 015651BC 3F800000
+04000000 015651C8 3F800000
+04000000 015651CC 3F800000
+
+[Enable Dynamic Resolution]
+Expand
+4CCD2F6D331DD104.txt
+1 KB
+
+1
+January 31, 2024
+
+MasaGratoR — 01/31/2024 9:09 AM
+EA SPORTS FC 24
+TID: 0100BDB01A0E6000
+BID: 538BB4DE29BF89F3 (1.55.7eb0)
+[60 FPS]
+580F0000 0CD68E20
+780F0000 00000008
+680F0000 404E0000 00000000
+04000000 07BC2FA0 52802002
+
+Expand
+538BB4DE29BF89F3.txt
+1 KB
+
+1
+February 2, 2024
+
+MasaGratoR — 02/02/2024 5:57 AM
+Batman: Arkham City
+TID: 01003F00163CE000
+BID: 8983C5A34B178E5C (1.0.2)
+[Enable DRS]
+580F0000 020F0B80
+580F1000 000006F0
+640F0000 00000000 00000001
+
+[Disable DRS (default)]
+580F0000 020F0B80
+580F1000 000006F0
+640F0000 00000000 00000000
+
+[DRS Target 60 FPS]
+580F0000 020F0B80
+580F1000 000006F0
+780F0000 0000000C
+640F0000 00000000 4184CCCD
+
+[DRS Target 30 FPS (default)]
+580F0000 020F0B80
+580F1000 000006F0
+780F0000 0000000C
+640F0000 00000000 42053333
+
+[DRS Range 85%-100% (H 612p->720p), (D 918p->1080p)]
+580F0000 020F0B80
+580F1000 000006F0
+780F0000 00000004
+680F0000 42C80000 42AA0000
+
+[DRS Default Range 70%-100% (H 504p->720p), (D 756p->1080p)]
+580F0000 020F0B80
+580F1000 000006F0
+780F0000 00000004
+680F0000 42C80000 428C0000
+
+DRS Default Range was changed in comparison to 1.0.1. (edited)
+
+1
+February 3, 2024
+
+Hazerou - Sephirothic Erista — 02/03/2024 1:52 PM
+
+DC's Justice League: Cosmic Chaos v1.0.4
+TID: 0100157015DD8000
+BID: D587B85E8E6B2DAC
+
+⁠fpslocker  should also work to change FPS.
+
+Included in the text file;
+[60 FPS]
+[Default 30 FPS]
+[360p Overall Resolution]
+[480p Overall Resolution]
+[540p Overall Resolution]
+[600p Overall Resolution (Handheld's Default)]
+[612p Overall Resolution]
+[720p Overall Resolution]
+[810p Overall Resolution]
+[900p Overall Resolution (Docked's Default)]
+[1080p Overall Resolution]
+
+[60 FPS]
+580F0000 05EC5190
+780F0000 00000F14
+640F0000 00000000 00000001
+
+[Default 30 FPS]
+Expand
+D587B85E8E6B2DAC.txt
+2 KB
+
+1
+
+Hazerou - Sephirothic Erista — 02/03/2024 3:46 PM
+Now using RRS Cheats but for some reason it still affects UI.
+
+
+Sonic Superstars v1.1.5
+TID: 01008F701C074000
+BID: 961499295D4FF91A
+
+⁠fpslocker  should also work to change FPS.
+
+Included in the text file;
+[Default 60 FPS]
+[30 FPS]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Handheld RRS 75% (540p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Default Handheld RRS 100% (720p)]
+[Default Docked RRS 66.66% (720p)]
+[Docked RRS 70% (756p)]
+[Docked RRS 71.11% (768p)]
+[Docked RRS 75% (810p)]
+[Docked RRS 83.33% (900p)]
+[Docked RRS 100% (1080p)]
+
+[Default 60 FPS]
+580F0000 0DD35510
+780F0000 00000F14
+640F0000 00000000 00000001
+
+[30 FPS]
+Expand
+961499295D4FF91A.txt
+3 KB
+
+1
+
+Hazerou - Sephirothic Erista — 02/03/2024 5:00 PM
+
+Gungrave G.O.R.E Ultimate Enhanced Edition v1.0.3
+TID: 010088801B324000
+BID: 919A5D41DCD21F9E
+
+
+Included in the text file;
+
+[60 FPS]
+[Default 30 FPS]
+[Fix Low FPS Frameskipping ON/OFF] <= ADDED
+[Filtering]
+[Enable DRS For Handheld (360p<=>720p)]
+[Enable DRS For Docked (540p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Disable Dynamic Resolution Scaling]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Handheld RRS 75% (540p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Default Handheld RRS 100% (720p)]
+[Docked RRS 80% (720p)]
+[Docked RRS 84% (756p)]
+[Docked RRS 90% (812p)]
+[Default Docked RRS 100% (900p)]
+[Docked RRS 120% (1080p)]
+[Film Grain ON/OFF]
+[Vignette ON/OFF]
+[Foggy Scene ON/OFF]
+[Motion Blur ON/OFF]
+[CHROM AB ON/OFF]
+[Lens Flare ON/OFF]
+[Sky Lighting Quality ON/OFF]
+[Use / Don't Use New Film Tone Mapper]
+[Image Sharpening ON/OFF]
+[Use / Don't Use TAAU]
+[AA OFF / FXAA / TAA]
+[DOF OFF <=> ON]
+[View Distance Scale x0.5 <=> x2]
+[Anisotropic Filtering x1 <=> x16]
+[Shadow OFF <=> Max]
+[Shadow Distance x0.5 <=> x2]
+[SSA0 OFF <=> x2]
+[Bloom OFF <=> Very High]
+[Material Quality Low <=> Epic]
+[Detail Mode Low <=> High]
+[Adaptive Exposure ON/OFF]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
+[Max Quality Override To Highest ON/OFF]
+[Distortion Effects OFF <=> ON]
+
+
+Notes;
+
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+2.) Game will crash if the following are both activated;
+
+[Use TAAU] + [AA High (Default TAA)]
+or
+[Use TAAU] + [AA Very High]
+or
+[Use TAAU] + [AA Max]
+
+3.) Some GFX Codes has no Function/Effect to the Game. (edited)
+
+[60 FPS]
+580F0000 0744E0B8
+680F0000 00000001 00000001
+580F0000 06DA1A88
+680F0000 00000000 00000000
+580F0000 0759DB18
+Expand
+919A5D41DCD21F9E.txt
+9 KB
+
+1
+
+1
+
+Hazerou - Sephirothic Erista — 02/03/2024 8:27 PM
+
+HOT WHEELS UNLEASHED 2 - Turbocharged v1.0.5
+TID: 01001BE01908C000
+BID: 3973FB8AC2750BE4
+
+
+Included in the text file;
+
+[60 FPS]
+[Default 30 FPS]
+[Filtering]
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Disable Dynamic Resolution Scaling]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Handheld RRS 75% (540p)]
+[Default Handheld RRS 80% (576p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Handheld RRS 100% (720p)]
+[Default Docked RRS 66.66% (720p)]
+[Docked RRS 70% (756p)]
+[Docked RRS 71.11% (768p)]
+[Docked RRS 75% (812p)]
+[Docked RRS 83.33% (900p)]
+[Docked RRS 100% (1080p)]
+[Film Grain ON/OFF]
+[Vignette ON/OFF]
+[Foggy Scene ON/OFF]
+[Motion Blur ON/OFF]
+[CHROM AB ON/OFF]
+[Lens Flare ON/OFF]
+[Sky Lighting Quality ON/OFF]
+[Use / Don't Use New Film Tone Mapper]
+[Image Sharpening ON/OFF]
+[Use / Don't Use TAAU or FSR]
+[AA OFF / FXAA / TAA]
+[DOF OFF <=> ON]
+[View Distance Scale x0.5 <=> x2]
+[Anisotropic Filtering x1 <=> x16]
+[Shadow OFF <=> Max]
+[Shadow Distance x0.5 <=> x2]
+[SSA0 OFF <=> x2]
+[Bloom OFF <=> Very High]
+[Material Quality Low <=> Epic]
+[Detail Mode Low <=> High]
+[Adaptive Exposure ON/OFF]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
+[Max Quality Override To Highest ON/OFF]
+[Distortion Effects OFF <=> ON]
+
+
+Notes;
+
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+2.) Game will crash if the following are both activated;
+
+[Use TAAU] + [AA High (Default TAA)]
+or
+[Use TAAU] + [AA Very High]
+or
+[Use TAAU] + [AA Max]
+
+3.) Some GFX Codes has no Function/Effect to the Game.
+
+[60 FPS]
+580F0000 0AD48CB8
+680F0000 00000001 00000001
+580F0000 0ACA1CA8
+680F0000 00000000 00000000
+580F0000 0B560E08
+Expand
+3973FB8AC2750BE4.txt
+10 KB
+
+1
+
+1
+February 8, 2024
+
+ChanseyTurkey - MGCJ 1175 Life — 02/08/2024 2:38 PM
+Recent cheats added next time it will be faster then 3 to 10 business days
+
+3
+February 11, 2024
+
+Hazerou - Sephirothic Erista — 02/11/2024 1:07 PM
+
+Ghostbusters: Spirits Unleashed Ecto Edition v1.7.3
+TID: 01005D2016934000
+BID: 0515F2089A2FC744
+
+
+Included in the text file;
+
+[60 FPS]
+[Default 30 FPS]
+[Fix Low FPS Frameskipping ON/OFF]
+[Filtering]
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Disable Dynamic Resolution Scaling]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Handheld RRS 75% (540p)]
+[Handheld RRS 80% (576p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Default Handheld RRS 100% (720p)]
+[Docked RRS 66.66% (720p)]
+[Docked RRS 70% (756p)]
+[Docked RRS 71.11% (768p)]
+[Docked RRS 75% (812p)]
+[Default Docked RRS 83.33% (900p)]
+[Docked RRS 100% (1080p)]
+[Film Grain ON/OFF]
+[Vignette ON/OFF]
+[Foggy Scene ON/OFF]
+[Motion Blur ON/OFF]
+[CHROM AB ON/OFF]
+[Lens Flare ON/OFF]
+[Sky Lighting Quality ON/OFF]
+[Use / Don't Use New Film Tone Mapper]
+[Image Sharpening ON/OFF]
+[Use / Don't Use TAAU]
+[AA OFF / FXAA / TAA]
+[DOF OFF <=> ON]
+[View Distance Scale x0.5 <=> x2]
+[Anisotropic Filtering x1 <=> x16]
+[Shadow OFF <=> Max]
+[Shadow Distance x0.5 <=> x2]
+[SSA0 OFF <=> x2]
+[Bloom OFF <=> Very High]
+[Material Quality Low <=> Epic (Experimental)]
+[Detail Mode Low <=> High]
+[Adaptive Exposure ON/OFF]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
+[Max Quality Override To Highest ON/OFF]
+[Distortion Effects OFF <=> ON]
+
+
+Notes;
+
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+2.) Game will crash if the following are both activated;
+
+[Use TAAU] + [AA High (Default TAA)]
+or
+[Use TAAU] + [AA Very High]
+or
+[Use TAAU] + [AA Max]
+
+3.) Some GFX Codes has no Function/Effect to the Game.
+
+[60 FPS]
+580F0000 0BA846D8
+680F0000 00000001 00000001
+580F0000 0B3D79B8
+680F0000 00000000 00000000
+580F0000 0BBCDB48
+Expand
+0515F2089A2FC744.txt
+9 KB
+
+1
+February 12, 2024
+
+Hazerou - Sephirothic Erista — 02/12/2024 12:12 PM
+
+Mortal Kombat 1 v1.11.0
+TID: 01006560184E6000
+BID: FF973E629B89AF8B
+
+
+Included in the text file;
+[VSync OFF / ON]
+[Filtering]
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Disable Dynamic Resolution Scaling]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Handheld RRS 75% (540p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Default Handheld RRS 100% (720p)]
+[Docked RRS 66.66% (720p)]
+[Default Docked RRS 70% (756p)]
+[Docked RRS 71.11% (768p)]
+[Docked RRS 75% (812p)]
+[Docked RRS 83.33% (900p)]
+[Docked RRS 100% (1080p)]
+[Film Grain ON/OFF]
+[Vignette ON/OFF]
+[Foggy Scene ON/OFF]
+[Motion Blur ON/OFF]
+[CHROM AB ON/OFF]
+[Lens Flare ON/OFF]
+[Sky Lighting Quality ON/OFF]
+[Use / Don't Use New Film Tone Mapper]
+[Image Sharpening ON/OFF]
+[DOF OFF/ON]
+[Use / Don't Use TAAU]
+[AA OFF / FXAA / TAA]
+[View Distance Scale x0.5 <=> x2]
+[Anisotropic Filtering x1 <=> x16]
+[Shadow OFF <=> Max]
+[Shadow Distance x0.5 <=> x2]
+[SSA0 OFF <=> x2]
+[Bloom OFF <=> Very High]
+[Material Quality Low <=> Epic]
+[Detail Mode Low <=> High]
+[Adaptive Exposure ON/OFF]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
+[Max Quality Override To Highest ON/OFF]
+[Distortion Effects OFF/ON]
+
+
+Notes;
+
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+
+2.) Some GFX Codes has no Function/Effect to the Game. (edited)
+
+[VSync OFF]
+580F0000 0AF12FA0
+680F0000 00000000 00000000
+
+[Default VSync ON]
+580F0000 0AF12FA0
+Expand
+FF973E629B89AF8B.txt
+9 KB
+
+1
+
+1
+February 15, 2024
+
+MasaGratoR — 02/15/2024 1:41 AM
+EA SPORTS FC 24
+TID: 0100BDB01A0E6000
+BID: 51D25A22EBBBAB37 (1.55.bc14) (edited)
+[60 FPS]
+580F0000 0CD69E20
+780F0000 00000008
+680F0000 404E0000 00000000
+04000000 07BC3510 52802002
+
+Expand
+51D25A22EBBBAB37.txt
+1 KB
+
+4
+February 21, 2024
+
+MasaGratoR — 02/21/2024 6:33 PM
+EA SPORTS FC 24
+TID: 0100BDB01A0E6000
+BID: 1CE25F1C48FE03E0 (1.56.39f6)
+[60 FPS]
+580F0000 0CD69E20
+780F0000 00000008
+680F0000 404E0000 00000000
+04000000 07BC3520 52802002
+
+Expand
+1CE25F1C48FE03E0.txt
+1 KB
+
+1
+
+1
+February 24, 2024
+
+Hazerou - Sephirothic Erista — 02/24/2024 12:04 PM
+Penny's Big Breakaway v1.1.0
+TID: 0100CA901AA9C000
+BID: 70BD4BC32C10BFFE
+
+Game uses double buffering. So FPS will drop to 30 and game speed will slow down whenever it can't handle 60 FPS. So overclock the Switch's GPU if you don't want that to happen.
+
+Included in the text file;
+
+[60 FPS]
+[Default 30 FPS]
+
+[60 FPS]
+04000000 0112731C 0001003C
+580F0000 02681288
+780F0000 00000F14
+640F0000 00000000 00000001
+Expand
+70BD4BC32C10BFFE.txt
+1 KB
+
+8
+
+3
+
+4
+
+3
+
+2
+February 25, 2024
+
+Hazerou - Sephirothic Erista — 02/25/2024 4:39 PM
+UI are still affected by the resolution.
+
+
+Sonic Superstars v1.1.8
+TID: 01008F701C074000
+BID: F1BB173FC40702F6
+
+⁠fpslocker  should also work to change FPS.
+
+Included in the text file;
+[Default 60 FPS]
+[30 FPS]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Handheld RRS 75% (540p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Default Handheld RRS 100% (720p)]
+[Default Docked RRS 66.66% (720p)]
+[Docked RRS 70% (756p)]
+[Docked RRS 71.11% (768p)]
+[Docked RRS 75% (810p)]
+[Docked RRS 83.33% (900p)]
+[Docked RRS 100% (1080p)]
+
+[Default 60 FPS]
+580F0000 0DAF1050
+780F0000 00000F14
+640F0000 00000000 00000001
+
+[30 FPS]
+Expand
+F1BB173FC40702F6.txt
+3 KB
+
+3
+
+1
+
+Hazerou - Sephirothic Erista — 02/25/2024 11:57 PM
+
+DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS v1.50
+TID: 010051C0134F8000
+BID: 20503FA77FA416B7
+
+
+Included in the text file;
+
+[60 FPS]
+[Default 30 FPS]
+[Fix Low FPS Frameskipping ON/OFF]
+[Filtering]
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Disable Dynamic Resolution Scaling]
+[Handheld RRS 56.96% (360p)]
+[Handheld RRS 75.95% (480p)]
+[Handheld RRS 85.44% (540p)]
+[Handheld RRS 96.97% (612p)]
+[Default Handheld RRS 100% (632p)]
+[Handheld RRS 102.53% (648p)]
+[Handheld RRS 113.95% (720p)]
+[Docked RRS 80% (720p)]
+[Docked RRS 84% (756p)]
+[Docked RRS 90% (812p)]
+[Default Docked RRS 100% (900p)]
+[Docked RRS 120% (1080p)]
+[Film Grain ON/OFF]
+[Vignette ON/OFF]
+[Foggy Scene ON/OFF]
+[Motion Blur ON/OFF]
+[CHROM AB ON/OFF]
+[Lens Flare ON/OFF]
+[Sky Lighting Quality ON/OFF]
+[Use / Don't Use New Film Tone Mapper]
+[Image Sharpening ON/OFF]
+[Use / Don't Use TAAU]
+[AA OFF / FXAA / TAA]
+[DOF OFF <=> ON]
+[View Distance Scale x0.5 <=> x2]
+[Anisotropic Filtering x1 <=> x16]
+[Shadow OFF <=> Max]
+[Shadow Distance x0.5 <=> x2]
+[SSA0 OFF <=> x2]
+[Bloom OFF <=> Very High]
+[Material Quality Low <=> Epic]
+[Detail Mode Low <=> High]
+[Adaptive Exposure ON/OFF]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
+[Max Quality Override To Highest ON/OFF]
+[Distortion Effects OFF <=> ON]
+
+
+Notes;
+
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+2.) [Fix Low FPS Frameskipping ON/OFF] is [r.GTSyncType]. It was set to 2 by default. Setting it to 1 helps eliminate large Frameskipping which are noticable when FPS drops or at below 30.
+
+3.) Some GFX Codes has no Function/Effect to the Game.
+
+[60 FPS]
+580F0000 0935E090
+680F0000 00000001 00000001
+580F0000 088C2C08
+680F0000 00000000 00000000
+580F0000 09456DE8
+Expand
+20503FA77FA416B7.txt
+10 KB
+
+4
+
+1
+February 26, 2024
+
+Hazerou - Sephirothic Erista — 02/26/2024 4:09 PM
+I'm glad offsets are the same as v1.0.3
+
+Gungrave G.O.R.E Ultimate Enhanced Edition v1.0.4
+TID: 010088801B324000
+BID: 9B743181AB8A26F9
+
+
+Included in the text file;
+
+[60 FPS]
+[Default 30 FPS]
+[Fix Low FPS Frameskipping ON/OFF] <= ADDED
+[Filtering]
+[Enable DRS For Handheld (360p<=>720p)]
+[Enable DRS For Docked (540p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Disable Dynamic Resolution Scaling]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Handheld RRS 75% (540p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Default Handheld RRS 100% (720p)]
+[Docked RRS 80% (720p)]
+[Docked RRS 84% (756p)]
+[Docked RRS 90% (812p)]
+[Default Docked RRS 100% (900p)]
+[Docked RRS 120% (1080p)]
+[Film Grain ON/OFF]
+[Vignette ON/OFF]
+[Foggy Scene ON/OFF]
+[Motion Blur ON/OFF]
+[CHROM AB ON/OFF]
+[Lens Flare ON/OFF]
+[Sky Lighting Quality ON/OFF]
+[Use / Don't Use New Film Tone Mapper]
+[Image Sharpening ON/OFF]
+[Use / Don't Use TAAU]
+[AA OFF / FXAA / TAA]
+[DOF OFF <=> ON]
+[View Distance Scale x0.5 <=> x2]
+[Anisotropic Filtering x1 <=> x16]
+[Shadow OFF <=> Max]
+[Shadow Distance x0.5 <=> x2]
+[SSA0 OFF <=> x2]
+[Bloom OFF <=> Very High]
+[Material Quality Low <=> Epic]
+[Detail Mode Low <=> High]
+[Adaptive Exposure ON/OFF]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
+[Max Quality Override To Highest ON/OFF]
+[Distortion Effects OFF <=> ON]
+
+
+Notes;
+
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+2.) Game will crash if the following are both activated;
+
+[Use TAAU] + [AA High (Default TAA)]
+or
+[Use TAAU] + [AA Very High]
+or
+[Use TAAU] + [AA Max]
+
+3.) Some GFX Codes has no Function/Effect to the Game. (edited)
+
+[60 FPS]
+580F0000 0744E0B8
+680F0000 00000001 00000001
+580F0000 06DA1A88
+680F0000 00000000 00000000
+580F0000 0759DB18
+Expand
+9B743181AB8A26F9.txt
+9 KB
+
+1
+
+Hazerou - Sephirothic Erista — 02/26/2024 6:05 PM
+
+HOT WHEELS UNLEASHED 2 - Turbocharged v1.0.6
+TID: 01001BE01908C000
+BID: 53E622E32DB8780F
+
+
+Included in the text file;
+
+[60 FPS]
+[Default 30 FPS]
+[Filtering]
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Disable Dynamic Resolution Scaling]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Handheld RRS 75% (540p)]
+[Default Handheld RRS 80% (576p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Handheld RRS 100% (720p)]
+[Default Docked RRS 66.66% (720p)]
+[Docked RRS 70% (756p)]
+[Docked RRS 71.11% (768p)]
+[Docked RRS 75% (812p)]
+[Docked RRS 83.33% (900p)]
+[Docked RRS 100% (1080p)]
+[Film Grain ON/OFF]
+[Vignette ON/OFF]
+[Foggy Scene ON/OFF]
+[Motion Blur ON/OFF]
+[CHROM AB ON/OFF]
+[Lens Flare ON/OFF]
+[Sky Lighting Quality ON/OFF]
+[Use / Don't Use New Film Tone Mapper]
+[Image Sharpening ON/OFF]
+[Use / Don't Use TAAU or FSR]
+[AA OFF / FXAA / TAA]
+[DOF OFF <=> ON]
+[View Distance Scale x0.5 <=> x2]
+[Anisotropic Filtering x1 <=> x16]
+[Shadow OFF <=> Max]
+[Shadow Distance x0.5 <=> x2]
+[SSA0 OFF <=> x2]
+[Bloom OFF <=> Very High]
+[Material Quality Low <=> Epic]
+[Detail Mode Low <=> High]
+[Adaptive Exposure ON/OFF]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
+[Max Quality Override To Highest ON/OFF]
+[Distortion Effects OFF <=> ON]
+
+
+Notes;
+
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+2.) Game will crash if the following are both activated;
+
+[Use TAAU] + [AA High (Default TAA)]
+or
+[Use TAAU] + [AA Very High]
+or
+[Use TAAU] + [AA Max]
+
+3.) Some GFX Codes has no Function/Effect to the Game.
+
+[60 FPS]
+580F0000 0ADF0CF8
+680F0000 00000001 00000001
+580F0000 0AD49CF8
+680F0000 00000000 00000000
+580F0000 0B54B740
+Expand
+53E622E32DB8780F.txt
+10 KB
+
+1
+February 29, 2024
+
+Hazerou - Sephirothic Erista — 02/29/2024 12:10 AM
+
+Dragon Ball Xenoverse 2 v1.21.01
+TID: 010078D000F88000
+BID: 93D7DE7F4CABC22C
+
+
+Game uses double buffering. Can't handle 60 FPS = It will drop to 30. Oh, and The speed will slow down when that happens.
+
+[60 FPS (All Area)]
+04000000 0246D010 3C888889
+580F0000 02AAD028
+580F1000 0000A440
+780F0000 00000F14
+640F0000 00000000 00000001
+580F0000 04A41D78
+780F0000 00000698
+640F0000 00000000 3C888889
+780F0000 0000000C
+640F0000 00000000 3C888889
+780F0000 0000000C
+610F0000 00000000 00000001
+780F0000 00000004
+610F0000 00000000 00000001
+20000000
+
+[AUTO (60 FPS Battles) , (30 FPS Lobby)]
+14010000 02477200 00000000
+04000000 0246D010 3C888889
+580F0000 02AAD028
+580F1000 0000A440
+780F0000 00000F14
+640F0000 00000000 00000001
+580F0000 04A41D78
+780F0000 00000698
+640F0000 00000000 3C888889
+780F0000 0000000C
+640F0000 00000000 3C888889
+780F0000 0000000C
+610F0000 00000000 00000001
+780F0000 00000004
+610F0000 00000000 00000001
+20000000
+14050000 02477200 00000000
+04000000 0246D010 3D088889
+580F0000 02AAD028
+580F1000 0000A440
+780F0000 00000F14
+640F0000 00000000 00000002
+580F0000 04A41D78
+780F0000 00000698
+640F0000 00000000 3D088889
+780F0000 0000000C
+640F0000 00000000 3D088889
+780F0000 0000000C
+610F0000 00000000 00000002
+780F0000 00000004
+610F0000 00000000 00000001
+20000000
+
+
+1
+
+1
+
+Hazerou - Sephirothic Erista — 02/29/2024 8:00 AM
+
+Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island v.1.0.3
+TID: 01006BF01C4C8000
+BID: 05F4E2661B7618B9
+&
+TID: 01002BF01D35E000
+BID: A6236ED5ACD4F2A6
+
+⁠fpslocker  should also work to change FPS.
+
+Included in the text file;
+[Default 60 FPS]
+[30 FPS]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Default Handheld RRS 75% (540p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Handheld RRS 100% (720p)]
+[Docked RRS 66.66% (720p)]
+[Default Docked RRS 70% (756p)]
+[Docked RRS 71.11% (768p)]
+[Docked RRS 75% (810p)]
+[Docked RRS 83.33% (900p)]
+[Docked RRS 100% (1080p)]
+
+[Default 60 FPS]
+580F0000 08F7B300
+780F0000 00000F14
+640F0000 00000000 00000001
+
+[30 FPS]
+Expand
+05F4E2661B7618B9.txt
+3 KB
+[Default 60 FPS]
+580F0000 08F7B300
+780F0000 00000F14
+640F0000 00000000 00000001
+
+[30 FPS]
+Expand
+A6236ED5ACD4F2A6.txt
+3 KB
+
+3
+
+2
+
+1
+
+1
+
+ChanseyTurkey - MGCJ 1175 Life — 02/29/2024 8:14 AM
+all added hazerou is the goat 
+March 2, 2024
+
+Hazerou - Sephirothic Erista — 03/02/2024 12:33 AM
+Re adjusted some float values to avoid getting that weird screen glitch at left edge of screen.
+
+
+Batman: Arkham Knight v1.0.3
+TID: 0100ACD0163D0000
+BID: 7DC6FDFAD9368F08
+
+
+⁠fpslocker  should also work to change FPS.
+
+Included in the text file;
+[60 FPS]
+[Default 30 FPS]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.6% (480p)]
+[Default Handheld RRS 75% (540p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Handheld RRS 100% (720p)]
+[Docked RRS 66.6% (720p)]
+[Docked RRS 70% (756p)]
+[Docked RRS 71.1% (768p)]
+[Default Docked RRS 75% (812p)]
+[Docked RRS 83.33% (900p)]
+[Docked RRS 100% (1080p)]
+
+[60 FPS]
+04000000 05F1AB84 00000001
+
+[Default 30 FPS]
+04000000 05F1AB84 00000002
+Expand
+7DC6FDFAD9368F08.txt
+1 KB
+
+6
+
+1
+March 3, 2024
+
+Hazerou - Sephirothic Erista — 03/03/2024 2:10 PM
+
+Spyro Reignited Trilogy v1.01
+TID: 010077B00E046000
+BID: D2775FAFCF4835CB
+
+
+Included in the text file;
+
+[60 FPS v2]
+[Default 30 FPS v2]
+[Filtering]
+[Enable DRS For Handheld (360p<=>720p)]
+[Enable DRS For Docked (540p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Disable Dynamic Resolution Scaling]
+[Handheld & Docked RRS 50% (360p)]
+[Handheld & Docked RRS 66.66% (480p)]
+[Handheld & Docked RRS 75% (540p)]
+[Handheld & Docked RRS 85% (612p)]
+[Handheld & Docked RRS 90% (648p)]
+[Default Handheld & Docked RRS 100% (720p)]
+[Handheld & Docked RRS 105% (756p)]
+[Handheld & Docked RRS 112.5% (810p)]
+[Handheld & Docked RRS 125% (900p)]
+[Handheld & Docked RRS 150% (1080p)]
+[Film Grain ON/OFF]
+[Vignette ON/OFF]
+[Foggy Scene ON/OFF]
+[Motion Blur ON/OFF]
+[CHROM AB ON/OFF]
+[Lens Flare ON/OFF]
+[Sky Lighting Quality ON/OFF]
+[Use / Don't Use New Film Tone Mapper]
+[Image Sharpening ON/OFF]
+[Use / Don't Use TAAU]
+[AA OFF / FXAA / TAA]
+[DOF OFF/ON]
+[View Distance Scale x0.5 <=> x2]
+[Anisotropic Filtering x1 <=> x16]
+[Shadow OFF <=> Max]
+[Shadow Distance x0.5 <=> x2]
+[SSA0 OFF <=> x2]
+[Bloom OFF <=> Very High]
+[Material Quality Low <=> Epic]
+[Detail Mode Low <=> High]
+[Adaptive Exposure ON/OFF]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
+[Max Quality Override To Highest ON/OFF]
+[Distortion Effects OFF/ON]
+
+
+Notes;
+
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+2.) Game will crash if the following are both activated;
+
+[Use TAAU] + [AA High (Default TAA)]
+or
+[Use TAAU] + [AA Very High]
+or
+[Use TAAU] + [AA Max]
+
+3.) Some GFX Codes has no Function/Effect to the Game.
+
+[60 FPS v2]
+580F0000 068ECC68
+680F0000 00000001 00000001
+580F0000 06189368
+680F0000 00000000 00000000
+580F0000 069DAC78
+Expand
+D2775FAFCF4835CB.txt
+9 KB
+
+1
+[2:13 PM]
+What's new?
+1.) Added new cheats, some old cheats are left behind but you can find them here;
+⁠post-tested-cheats-here⁠
+
+2.) 60 FPS now on v2. Should work properly and untying the speed to framerate.
+
+3.) Motion Blur should also work with Handheld Mode.
+
+Update
+1.) Fixed the wrong address for [CHROM AB]. I fell asleep last night in the middle of working on it and It's the thing I forgot to do so I'm sorry for that. (edited)
+
+Hazerou - Sephirothic Erista — 03/03/2024 2:40 PM
+
+Mortal Kombat 1 v1.12.0
+TID: 01006560184E6000
+BID: 862C61D5950CD9F5
+
+
+Included in the text file;
+[VSync OFF / ON]
+[Filtering]
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)]
+[Dynamic Resolution Target 60 FPS]
+[Default Dynamic Resolution Target 30 FPS]
+[Disable Dynamic Resolution Scaling]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Handheld RRS 75% (540p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Default Handheld RRS 100% (720p)]
+[Docked RRS 66.66% (720p)]
+[Default Docked RRS 70% (756p)]
+[Docked RRS 71.11% (768p)]
+[Docked RRS 75% (812p)]
+[Docked RRS 83.33% (900p)]
+[Docked RRS 100% (1080p)]
+[Film Grain ON/OFF]
+[Vignette ON/OFF]
+[Foggy Scene ON/OFF]
+[Motion Blur ON/OFF]
+[CHROM AB ON/OFF]
+[Lens Flare ON/OFF]
+[Sky Lighting Quality ON/OFF]
+[Use / Don't Use New Film Tone Mapper]
+[Image Sharpening ON/OFF]
+[DOF OFF/ON]
+[Use / Don't Use TAAU]
+[AA OFF / FXAA / TAA]
+[View Distance Scale x0.5 <=> x2]
+[Anisotropic Filtering x1 <=> x16]
+[Shadow OFF <=> Max]
+[Shadow Distance x0.5 <=> x2]
+[SSA0 OFF <=> x2]
+[Bloom OFF <=> Very High]
+[Material Quality Low <=> Epic]
+[Detail Mode Low <=> High]
+[Adaptive Exposure ON/OFF]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
+[Max Quality Override To Highest ON/OFF]
+[Distortion Effects OFF/ON]
+
+
+Notes;
+
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+
+2.) Some GFX Codes has no Function/Effect to the Game.
+
+[VSync OFF]
+580F0000 0B0B5640
+680F0000 00000000 00000000
+
+[Default VSync ON]
+580F0000 0B0B5640
+Expand
+862C61D5950CD9F5.txt
+9 KB
+
+2
+
+2
+March 6, 2024
+
+Hazerou - Sephirothic Erista — Yesterday at 12:25 AM
+TAA and Lightshaft are not included because they are unstable. And please don't set your expectations too high when setting GFX above it's default 
+
+
+SnowRunner v1.0.28
+TID: 0100FBD013AB6000
+BID: 2CD8707981B46DAF
+
+⁠fpslocker  should also work to change FPS.
+
+Included in the text file;
+[60 FPS]
+[Default 30 FPS]
+[VSync OFF/ON]
+[H. & D. RRS 50% (360p DR Inactive)]
+[H. & D. RRS 66.66% (480p DR Inactive)]
+[H. & D. RRS 75% (540p DR Inactive)]
+[H. & D. RRS 85% (612p DR Inactive)]
+[H. & D. RRS 90% (648p DR Inactive)]
+[Default H. & D. RRS 100% (464p<=>720p DR Active)]
+[H. & D. RRS 105% (756p DR Inactive)]
+[H. & D. RRS 112.5% (810p DR Inactive)]
+[H. & D. RRS 125% (900p DR Inactive)]
+[H. & D. RRS 150% (1080p DR Inactive)]
+[FXAA OFF/ON]
+[Motion Blur OFF/ON]
+[Fidelity FX OFF/ON]
+[Film Grain OFF/ON]
+[Terrain Draw Distance Low/Medium/High/Ultra]
+[Grass Density Low/Medium/High/Ultra]
+[Object Quality Low/Medium/High/Ultra]
+[Simulation Quality Low/Medium/High/Ultra]
+[Shadow Quality Low/Medium/High/Ultra]
+[Texture Quality Low/Medium/High/Ultra]
+[Texture Filtering OFF/x2/x4/x8/x16]
+[Ambient Occlusion OFF/ON]
+[Water Quality Low/High]
+[Volumetric Fog OFF/ON]
+[Mirrors OFF/ON]
+[Outlines OFF/ON]
+
+
+How to apply changes properly;
+1.) Activate the cheats you want and then go to the in game settings (not the settings from the title screen).
+
+2.) Navigate to the VIDEO settings tab and slide the brightness bar at least 1 step.
+
+3.) Go back and RETURN TO MAIN MENU.
+
+4.) Wait until the title screen appears and close the game.
+
+5.) Launch the game again and profit. (edited)
+
+[60 FPS]
+580F0000 034BED40
+580F1000 000004B8
+780F0000 00000F14
+640F0000 00000000 00000001
+Expand
+2CD8707981B46DAF.txt
+4 KB
+
+1
+
+MasaGratoR — Yesterday at 8:10 AM
+EA SPORTS FC 24
+TID: 0100BDB01A0E6000
+BID: 211F141951057FBA (1.56.46a8)
+[60 FPS]
+580F0000 0CD69E20
+780F0000 00000008
+680F0000 404E0000 00000000
+04000000 07BC3FC0 52802002
+
+[30 FPS (default)]
+580F0000 0CD69E20
+780F0000 00000008
+680F0000 403E0000 00000000
+04000000 07BC3FC0 2A1603E2
+Collapse
+211F141951057FBA.txt
+1 KB
+
+2
+
+1
+
+Message #post-tested-cheats-here
+﻿
+
+
+
+
+Members list for post-tested-cheats-here (channel)
+MODERATOR, 1 MEMBERMODERATOR — 1
+
+Reshiban
+Playing foobar2000
+DEVELOPER, 2 MEMBERSDEVELOPER — 2
+
+Catcher in the grain field
+
+MasaGratoR
+CHEAT/MODS MAKER, 9 MEMBERSCHEAT/MODS MAKER — 9
+
+ChanseyTurkey - MGCJ 1175 Life
+
+ChromiusMixin [Check out my YT!]
+
+DAVY'SGAMING
+Streaming early evening viewer levels! !tts !series !youtube !tiktok !rewards !cards !greenscreen
+
+Eiffel2018
+
+gwog :3
+but not here; we fear none; we playin' with fate
+
+Jason
+
+
+Last Breath
+
+Nikoru
+
+OldManKain
+Playing Ryujinx
+TESTER, 8 MEMBERSTESTER — 8
+
+DogeThis
+
+Ganondood
+
+m1s3ry
+I will miss you forever, Ori.
+
+
+muha
+
+ٱللَّٰهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ
+
+Pouya
+
+SK91
+Playing Street Fighter™ 6
+
+SYLOK
+
+yo yo yo chill
+
+Tetsuo9999
+SHIT TIER MODULE, 1 MEMBERSHIT TIER MODULE — 1
+
+Alvise
+ONLINE, 494 MEMBERSONLINE — 494
+
+!Cheechess
+
+$amir
+[60 FPS]
+580F0000 034BED40
+580F1000 000004B8
+780F0000 00000F14
+640F0000 00000000 00000001
+
+[Default 30 FPS]
+580F0000 034BED40
+580F1000 000004B8
+780F0000 00000F14
+640F0000 00000000 00000002
+
+[VSync OFF]
+04000000 034BC4A4 00000000
+
+[Default VSync ON]
+04000000 034BC4A4 00000101
+
+[H. & D. RRS 50% (360p DR Inactive)]
+08000000 034BC7A4 3F000000 3F000000
+
+[H. & D. RRS 66.66% (480p DR Inactive)]
+08000000 034BC7A4 3F2AAAAB 3F2AAAAB
+
+[H. & D. RRS 75% (540p DR Inactive)]
+08000000 034BC7A4 3F400000 3F400000
+
+[H. & D. RRS 85% (612p DR Inactive)]
+08000000 034BC7A4 3F59999A 3F59999A
+
+[H. & D. RRS 90% (648p DR Inactive)]
+08000000 034BC7A4 3F666666 3F666666
+
+[Default H. & D. RRS 100% (464p<=>720p DR Active)]
+08000000 034BC7A4 3F800000 3F800000
+
+[H. & D. RRS 105% (756p DR Inactive)]
+08000000 034BC7A4 3F866666 3F866666
+
+[H. & D. RRS 112.5% (810p DR Inactive)]
+08000000 034BC7A4 3F900000 3F900000
+
+[H. & D. RRS 125% (900p DR Inactive)]
+08000000 034BC7A4 3FA00000 3FA00000
+
+[H. & D. RRS 150% (1080p DR Inactive)]
+08000000 034BC7A4 3FC00000 3FC00000
+
+[Default FXAA OFF]
+04000000 034BCA34 00000000
+
+[FXAA ON]
+04000000 034BCA34 00000001
+
+[Motion Blur OFF]
+04000000 034BCBBC 00000000
+
+[Default Motion Blur ON]
+04000000 034BCBBC 00000001
+
+[Fidelity FX OFF]
+04000000 034BC91C 00000000
+
+[Default Fidelity FX ON]
+04000000 034BC91C 00000001
+
+[Film Grain OFF]
+04000000 034BC954 00000000
+
+[Default Film Grain ON]
+04000000 034BC954 00000001
+
+[Default Terrain Draw Distance Low]
+04000000 034BCAA4 00000000
+
+[Terrain Draw Distance Medium]
+04000000 034BCAA4 00000001
+
+[Terrain Draw Distance High]
+04000000 034BCAA4 00000002
+
+[Terrain Draw Distance Ultra]
+04000000 034BCAA4 00000003
+
+[Default Grass Density Low]
+04000000 034BCA6C 00000000
+
+[Grass Density Medium]
+04000000 034BCA6C 00000001
+
+[Grass Density High]
+04000000 034BCA6C 00000002
+
+[Grass Density Ultra]
+04000000 034BCA6C 00000003
+
+[Default Object Quality Low]
+04000000 034BCADC 00000000
+
+[Object Quality Medium]
+04000000 034BCADC 00000001
+
+[Object Quality High]
+04000000 034BCADC 00000002
+
+[Object Quality Ultra]
+04000000 034BCADC 00000003
+
+[Simulation Quality Low]
+04000000 034BC8AC 00000000
+
+[Simulation Quality Medium]
+04000000 034BC8AC 00000001
+
+[Default Simulation Quality High]
+04000000 034BC8AC 00000002
+
+[Simulation Quality Ultra]
+04000000 034BC8AC 00000003
+
+[Default Shadow Quality Low]
+04000000 034BC9C4 00000000
+
+[Shadow Quality Medium]
+04000000 034BC9C4 00000001
+
+[Shadow Quality High]
+04000000 034BC9C4 00000002
+
+[Shadow Quality Ultra]
+04000000 034BC9C4 00000003
+
+[Default Texture Quality Low]
+04000000 034BC804 00000000
+
+[Texture Quality Medium]
+04000000 034BC804 00000001
+
+[Texture Quality High]
+04000000 034BC804 00000002
+
+[Texture Quality Ultra]
+04000000 034BC804 00000003
+
+[Default Texture Filtering OFF]
+04000000 034BC83C 00000000
+
+[Texture Filtering x2]
+04000000 034BC83C 00000001
+
+[Texture Filtering x4]
+04000000 034BC83C 00000002
+
+[Texture Filtering x8]
+04000000 034BC83C 00000003
+
+[Texture Filtering x16]
+04000000 034BC83C 00000004
+
+[Ambient Occlusion OFF]
+04000000 034BC98C 00000000
+
+[Default Ambient Occlusion ON]
+04000000 034BC98C 00000001
+
+[Default Water Quality Low]
+04000000 034BCB4C 00000000
+
+[Water Quality High]
+04000000 034BCB4C 00000001
+
+[Default Volumetric Fog OFF]
+04000000 034BC874 00000000
+
+[Volumetric Fog ON]
+04000000 034BC874 00000001
+
+[Default Mirrors OFF]
+04000000 034BCB14 00000000
+
+[Mirrors ON]
+04000000 034BCB14 00000001
+
+[Outlines OFF]
+04000000 034BC66C 00000000
+
+[Default Outlines ON]
+04000000 034BC66C 00000001
