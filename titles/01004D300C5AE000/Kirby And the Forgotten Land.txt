@@ -1,9 +1,14 @@
 By @Hazerou
+Updated By t a s h i
 
 Note;
 
-When using 60 FPS, Game Speed will slow down whenever FPS Drops.
+When using 60 FPS, Game Speed will slow down whenever FPS Drops. (You can fix this by using FPSLocker patch which disables double buffer)
 
-Resolution Hacks will not work straight away after activating it. You need to move around a little to change effect. And unfortunately it only works in Handheld Mode because it's not working properly in Docked Mode.
+Handheld mode - Resolution Hacks will not work straight away after activating it. You need to go home and back to the game or trigger dynamic res by reducing GPU clock then going back to your preferred one for the effect
+
+Docked mode - Resolution hacks will trigger straight away after activating when in a place where DRS is disabled like Waddle Dee town. 1080p60 is not possible even at max GPU clocks so I recommend using it while targetting 30fps
+
+Also handheld mode and docked mode are set seperately so feel free to have different resolutions for both 
 
 Thanks to @lucky for providing a guide to find the FPS Code.
