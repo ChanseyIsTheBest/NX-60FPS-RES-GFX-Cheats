@@ -1,0 +1,9 @@
+By t a s h I
+
+Resolution Cheats from 576p up to 1080p
+
+Notes: 
+Resolution is applied to both handheld mode and docked mode so you will have to change them whenever you switch modes if you want to use seperate resolutions for handheld and docked
+I couldn't find how to set them seperately 
+
+Game runs at 720p60 well while in handheld mode with the default clocks
