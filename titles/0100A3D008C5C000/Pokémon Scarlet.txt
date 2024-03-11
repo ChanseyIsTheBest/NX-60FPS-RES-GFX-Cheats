@@ -2,9 +2,6 @@ By Hazerou, retole, lucky
 
 Game is still GPU Heavy even at lowest possible Resolution= 467p
 
-Couldn't find the precise Resolution Code. All I can find is the DRS Levels.
-And also Docked Resolutions might not be accurate.
-
 To balance Game Speed at 60 FPS, I used a Game Speed Code from here;
 https://gbatemp.net/threads/60-fps-cheats-for-nswitch.592464/post-9994889
 
