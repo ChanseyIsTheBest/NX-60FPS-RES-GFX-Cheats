@@ -2,12 +2,48 @@ By Hazerou, retole, lucky
 
 Game is still GPU Heavy even at lowest possible Resolution= 467p
 
-Couldn't find the precise Resolution Code. All I can find is the DRS Levels.
-And also Docked Resolutions might not be accurate.
-
 To balance Game Speed at 60 FPS, I used a Game Speed Code from here;
 https://gbatemp.net/threads/60-fps-cheats-for-nswitch.592464/post-9994889
 
 1.3.2 60FPS by theboy181/OldManKain
 2.0.1 60fps by theboy181/OldManKain
 3.0.0 60fps by theboy181/OldManKain
+3.0.1 by Hazerou
+
+Known Issues;
+1.) Game uses Double Buffering. Which means FPS will drop to 30 and Game speed will slow down if Switch can't handle 60 FPS.
+
+2.) When using 60 FPS, your character's model will vibrate when moving around inside a House/Building.
+
+3.) Since this is a Pokémon Game, bugs from Previous Titles at 60 FPS might also introduce in this game.
+
+
+Notes;
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+2.) Same goes to all cheats I posted that have DRS MIN & DRS MAX, you can cofigure the DRS MIN & MAX to your liking. Just grab the codes from [Default No RRS Lock / Re enable DRS (65%<=>100%)] and edit it's values;
+
+04000000 03C5F130 <= DRS MIN #1
+04000000 03C5F144 <= DRS MIN #2
+04000000 03C5F148 <= DRS MIN #3
+04000000 03C5F120 <= DRS MAX #1
+04000000 03C5F124 <= DRS MAX #2
+04000000 03C5F138 <= DRS MAX #3
+
+Values are [Float32] (1.0 = 100%)
+
+Example;
+[Custom DRS (Handheld 360p<=>480p) (Docked 540p<=>720p)]
+04000000 03C5F130 3F000000
+04000000 03C5F144 3F000000
+04000000 03C5F148 3F000000
+04000000 03C5F120 3F2AAAAB
+04000000 03C5F124 3F2AAAAB
+04000000 03C5F138 3F2AAAAB
+
+
+Though DRS is targeting 30 FPS so they are not fully reliable for use with 60 FPS.
