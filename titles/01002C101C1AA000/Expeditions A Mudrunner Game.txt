@@ -1,0 +1,14 @@
+By Hazerou
+How to apply changes properly;
+1.) Activate the cheats you want and then go to the in game settings (not the settings from the title screen).
+
+2.) Navigate to the VIDEO settings tab and slide the brightness bar at least 1 step.
+
+3.) Go back and RETURN TO MAIN MENU.
+
+4.) Wait until the title screen appears and close the game.
+
+5.) Launch the game again and profit.
+
+Known Issues;
+After making changes and it's saved, Black screen may occur when sliding the brightness bar. Can be resolved by rebooting the game.
