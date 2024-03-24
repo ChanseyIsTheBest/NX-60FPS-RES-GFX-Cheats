@@ -1,0 +1,2 @@
+By Hazerou
+Going 60 FPS won't work right away. You have to enter pause menu first for it to fully apply.
