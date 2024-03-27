@@ -1,0 +1,1 @@
+RRS and TAA are for Handheld Mode only. Docked Mode breaks viewport
