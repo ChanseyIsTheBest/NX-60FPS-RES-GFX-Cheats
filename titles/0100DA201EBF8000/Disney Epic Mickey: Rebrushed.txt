@@ -1,0 +1,63 @@
+By Hazerou
+Included in the text file;
+
+[30 FPS / 60 FPS]
+[Fix Low FPS Frameskipping OFF/ON]
+[Filtering]
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)]
+[Dynamic Resolution Target 30 or 60 FPS]
+[Disable Dynamic Resolution Scaling]
+[Handheld RRS 50% (360p)]
+[Default Handheld RRS 66.66% (480p)]
+[Handheld RRS 75% (540p)]
+[Handheld RRS 80% (576p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Handheld RRS 100% (720p)]
+[Handheld RRS 150% (1080p)]
+[Handheld RRS 200% (1440p)]
+[Default Docked RRS 66.66% (720p)]
+[Docked RRS 70% (756p)]
+[Docked RRS 71.11% (768p)]
+[Docked RRS 75% (812p)]
+[Docked RRS 83.33% (900p)]
+[Docked RRS 100% (1080p)]
+[Docked RRS 133.33% (1440p)]
+[Docked RRS 200% (2160p)]
+[Film Grain ON/OFF]
+[Vignette ON/OFF]
+[Foggy Scene ON/OFF]
+[Motion Blur ON/OFF]
+[CHROM AB ON/OFF]
+[Lens Flare ON/OFF]
+[Sky Lighting Quality ON/OFF]
+[Use / Don't Use New Film Tone Mapper]
+[Image Sharpening ON/OFF]
+[Use / Don't Use TAAU]
+[AA OFF / FXAA / TAA]
+[DOF OFF <=> ON]
+[View Distance Scale x0.5 <=> x2]
+[Anisotropic Filtering x1 <=> x16]
+[Shadow OFF <=> Max]
+[Shadow Distance x0.5 <=> x2]
+[SSA0 OFF <=> x2]
+[Bloom OFF <=> Very High]
+[Detail Mode Low <=> High]
+[Adaptive Exposure ON/OFF]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
+[Max Quality Override To Highest ON/OFF]
+[Distortion Effects OFF <=> ON]
+
+
+Notes;
+
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
+Please use;
+Handheld RRS for Handheld Mode.
+Docked RRS for Docked Mode.
+Don't activate them at the same time!
+
+2.) [Use TAAU] only for use with [AA Mode = TAA] & [AA Medium], else will crash the game if used on other AA Quality. If you wish to switch AA, Deactivate [Use TAAU] and turn ON [Don't Use TAAU] first.
+
+3.) Some GFX Codes has no Function/Effect to the Game.
