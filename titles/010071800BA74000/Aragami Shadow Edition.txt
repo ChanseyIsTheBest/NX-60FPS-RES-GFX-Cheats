@@ -1,0 +1,13 @@
+By Hazerou
+Included in the text file;
+[Default 60 FPS]
+[30 FPS]
+[360p Overall Resolution]
+[480p Overall Resolution]
+[540p Overall Resolution]
+[612p Overall Resolution]
+[630p Overall Resolution (Handheld's Default)]
+[720p Overall Resolution]
+[810p Overall Resolution]
+[900p Overall Resolution]
+[1080p Overall Resolution]
