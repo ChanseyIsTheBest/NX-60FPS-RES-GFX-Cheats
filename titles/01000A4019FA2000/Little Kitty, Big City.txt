@@ -1,0 +1,15 @@
+By Hazerou⁠
+Fpslocker should also work to change FPS.
+And set buffering to triple, save it and reboot the game to fix unstable FPS.
+
+Included in the text file;
+[Default 60 FPS]
+[30 FPS]
+[360p Overall Resolution]
+[480p Overall Resolution]
+[540p Overall Resolution]
+[612p Overall Resolution]
+[720p Overall Resolution (Handheld's Default)]
+[810p Overall Resolution]
+[900p Overall Resolution (Docked's Default)]
+[1080p Overall Resolution]
