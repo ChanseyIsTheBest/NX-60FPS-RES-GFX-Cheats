@@ -1,0 +1,18 @@
+By Hazerou
+Included in the text file;
+[120 FPS (Recommended for Emu)]
+[60 FPS]
+[45 FPS]
+[Default 30 FPS]
+[RRS 50% (360p)]
+[RRS 66.66% (480p)]
+[RRS 75% (540p)]
+[RRS 80% (576p)]
+[RRS 85% (612p)]
+[RRS 90% (648p)]
+[Default RRS 100% (720p)]
+
+
+Note;
+Unfortunately we can't go above 720p using RRS alone.
+Just in case a cheat/mod that sets resolution to 1080p has been made, RRS may produce a different res this time. For example RRS 100% should become 1080p instead of 720p
