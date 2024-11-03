@@ -1,0 +1,7 @@
+By Hazerou
+Notes;
+1.) Game is also CPU heavy because of the crowds in the background. And it's using double buffering which is why reaching 60 FPS is not easy for the Switch. Maybe Emu can? And yeah game speed slows down when the FPS is below the target.
+
+2.) Resolution flickering may occur when switching between RRS. And unfortunately we can't go above 720p because it breaks viewport.
+
+3.) Use ⁠fpslocker and set FPS target 45 for the [45 FPS] 
