@@ -60,3 +60,6 @@ Handheld RRS for Handheld Mode.
 Docked RRS for Docked Mode.
 
 Some GFX Codes has no Function/Effect to the Game.
+
+[Perks From TAAU Stock / Plus] Not fully working because of TAAU missing
+[AA Mode & Quality]
