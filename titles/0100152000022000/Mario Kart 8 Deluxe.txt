@@ -5,6 +5,7 @@
 2.4 60fps updated by B3711
 3.0 updated by B3711 & b0rd2dEAth based on public pchtxt
 3.1 updated by BE711 based on public pchtxt
+3.0.3 updated by Craftyawesome based on public pchtxt
 
 Original author of all pchtxt theboy181
 https://linktr.ee/theboy181
