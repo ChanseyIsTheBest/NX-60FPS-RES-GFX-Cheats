@@ -1,0 +1,3 @@
+By Craftyawesome
+The final code "Always Update Resolution" is needed for the resolution to actually change without (un)docking. 
+This includes booting the game (though if you convert to ips then likely not)
