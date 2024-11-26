@@ -4,6 +4,7 @@ Enable/Disable Checkerboard Rendering/Temporal Upsampling
 This reverts the game to behave like 1DE and 2. You can choose TAA, FXAA, or no AA via lib_nx.bin, max res is 720p instead of upscaled 540p
 
 By Hazerou, theboy181, MasaGratoR, OldManKain
+Resolution cheats relabeled by retnuh730
 
 60 FPS known Issues;
 
