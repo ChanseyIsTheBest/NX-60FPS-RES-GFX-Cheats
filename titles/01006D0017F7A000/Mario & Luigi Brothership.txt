@@ -1,6 +1,22 @@
 By Hazerou
 TAA in this game causes some flickering to the character's shading.
 
+And it's dubbed as SetRes because I don't know what to name it really.
+Native 1080p @ RRS 100% looks so much better than
+Native 900p @ RRS 120% = 1080p.
+Much cleaner and no blurry edges.
+
+How to use;
+
+1.) Only activate one SetRes to your liking.
+
+2.) It will not work right away so you have to (un)dock or use Reverse NX RT => Change Mode.
+
+Just in case the UI/HUD of the game are not fully scaled to the screen, just do step 2 again.
+
+ Changes have been made to all Docked RRS/DRS to reflect with the 1080p native res. 
+
+
 Included in the text file;
 
 [30 / 45 / 60 FPS] 30 FPS is the default
