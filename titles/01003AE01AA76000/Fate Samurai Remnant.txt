@@ -1,3 +1,4 @@
+By Hazerou
 For the framerate, use ⁠fpslocker => Advanced settings => Download & Convert config to patch file then reboot the game.
 
 Included in the text file;
