@@ -1,0 +1,35 @@
+By Hazerou
+UE4 Fighting Game so nope for manipulating FPS.
+
+Included in the text file;
+
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)]
+[Default Enable DRS (Handheld 432p<=>720p) (Docked 648p<=>1080p)]
+[Disable Dynamic Resolution Scaling]
+[Handheld RRS 360p up to 1440p] (Default is 720p peak)
+[Docked RRS 720p up to 2160p] (Default is 1080p peak)
+[Image Sharpening ON/OFF]
+[TAAU OFF / Stock / Plus]
+[AA OFF / FXAA / TAA]
+[Filtering]
+[Film Grain ON/OFF]
+[Vignette ON/OFF]
+[Foggy Scene ON/OFF]
+[Motion Blur ON/OFF]
+[CHROM AB ON/OFF]
+[Lens Flare ON/OFF]
+[Sky Lighting Quality ON/OFF]
+[Use / Don't Use New Film Tone Mapper]
+[DOF OFF <=> ON]
+[View Distance Scale x0.5 <=> x2]
+[Anisotropic Filtering x1 <=> x16]
+[Shadow OFF <=> Max]
+[Shadow Distance x0.5 <=> x2]
+[SSA0 OFF <=> x2]
+[Bloom OFF <=> Very High]
+[Detail Mode Low <=> High]
+[Adaptive Exposure ON/OFF]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
+[Max Quality Override To Highest ON/OFF]
+[Distortion Effects OFF <=> ON]
