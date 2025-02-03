@@ -1,6 +1,8 @@
 By masagrator
 https://gbatemp.net/threads/dark-souls-60-fps-mod.557760/
 
+Ladder glitch is fixed in fpslocker patch
+
 Potential crashing issues include:
 During Ornstein and Smough's mid-fight cutscene (Ornstein defeated first, idk about the other version)
 When Super Smough's AOE lightning attack lands
