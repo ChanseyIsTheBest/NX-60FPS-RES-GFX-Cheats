@@ -1,0 +1,11 @@
+For the framerate, use ⁠fpslocker => Advanced settings => Download & Convert config to patch file then reboot the game.
+
+Included in the text file;
+[Handheld RRS 40% (360p)]
+[Handheld RRS 53.33% (480p)]
+[Handheld RRS 60% (540p)]
+[Default Handheld RRS 70% (630p)]
+[Handheld RRS 80% (720p)]
+[Docked RRS 80% (720p)]
+[Docked RRS 90% (810p)]
+[Default Docked RRS 100% (900p)]
