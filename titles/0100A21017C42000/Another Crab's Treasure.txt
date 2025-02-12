@@ -1,0 +1,24 @@
+By Hazerou
+For the Framerate + DRS FPS Target, use ⁠fpslocker => Advanced settings => set buffering to triple, Download & Convert config to patch file then save settings and reboot the game. 
+
+Included in the text file;
+[Enable DRS 360p<=>540p)]
+[Enable DRS 360p<=>720p (Docked's Default)]
+[Enable DRS 540p<=>1080p]
+[Default Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Handheld RRS 75% (540p)]
+[Handheld RRS 80% (576p)]
+[Handheld RRS 85% (612p)]
+[Handheld RRS 90% (648p)]
+[Default Handheld RRS 100% (720p)]
+[Docked RRS 66.66% (720p)]
+[Docked RRS 70% (756p)]
+[Docked RRS 71.11% (768p)]
+[Docked RRS 75% (810p)]
+[Docked RRS 80% (864p)]
+[Docked RRS 83.33% (900p)]
+[Docked RRS 100% (1080p)]
+
+
+Note : [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
