@@ -1,11 +1,1 @@
-Known Issues;
-
-1.) Menu Speedups,and some effects are double speed.
-
-2.) Crash may occur if 60 FPS is Active after you Press A in the Main Title of the Game.
-
-3.) FPS will drop straight to 30 and the Game will slow down whenever Switch can't handle 60 FPS.
-
-Now I don't know if it works good on Emulators too.
-And unfortunately 45 & 50 FPS only changes the Game Speed. Not the FPS Cap.
 By @Hazerou
