@@ -1,0 +1,26 @@
+For the framerate, use ⁠fpslocker => Advanced settings => Download & Convert config to patch file then reboot the game.
+
+Included in the text file;
+[Re Enable DRS]
+[Docked RRS 360p up to 810p]
+[Intel XeSS]
+[FXAA / TAA]
+[Shadow Quality]
+[Local Reflections Quality]
+[Effect Quality]
+[DOF]
+[Ambient Occlusion]
+[Bloom]
+[Light Shafts]
+[Motion Blur]
+[Volumetric Fog]
+[Terrain Quality]
+
+
+Notes;
+
+1.) RRS are for Docked Mode only(use Reverse NX RT) and changes only apply when entering pause menu.
+
+2.) XeSS and AAs can conflict with RRS. Just ON then OFF them for now.
+
+3.) GFX are based on PC Settings toggles in the memory and unfortunately most of them seems to not work. I'll just put these here for experimental. (edited)
