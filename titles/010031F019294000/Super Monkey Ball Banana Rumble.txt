@@ -1,0 +1,28 @@
+By Hazerou⁠
+fpslocker  should also work to change FPS.
+
+Included in the text file;
+[Default 60 FPS]
+[30 FPS]
+[Handheld RRS 50% (360p)]
+[Handheld RRS 66.66% (480p)]
+[Handheld RRS 75% (540p)]
+[Handheld RRS 80% (576p)]
+[Handheld RRS 85% (612p)]
+[Default Handheld RRS (540p x 1.2 = 648p)]
+[Handheld RRS 90% (648p)]
+[Handheld RRS 100% (720p)]
+[Handheld RRS 150% (1080p)]
+[Handheld RRS 200% (1440p)]
+[Docked RRS 66.66% (720p)]
+[Docked RRS 70% (756p)]
+[Docked RRS 71.11% (768p)]
+[Docked RRS 75% (810p)]
+[Default Docked RRS (720p x 1.2 = 864p)]
+[Docked RRS 80% (864p)]
+[Docked RRS 83.33% (900p)]
+[Docked RRS 100% (1080p)]
+[Docked RRS 133.33% (1440p)]
+[Docked RRS 200% (2160p)]
+[Shadow Quality]
+[Shadow Res]
