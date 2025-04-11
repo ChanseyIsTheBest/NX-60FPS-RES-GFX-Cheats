@@ -1,0 +1,21 @@
+By Hazerou
+⁠fpslocker should also work to change FPS.
+
+Included in the text file;
+[Default 60 FPS]
+[30 FPS]
+[360p]
+[479p (Handheld's Default)]
+[480p]
+[540p]
+[576p]
+[612p]
+[648p]
+[719p (Docked's Default)]
+[720p]
+[756p]
+[810p]
+[864p]
+[900p]
+[1008p]
+[1080p]
