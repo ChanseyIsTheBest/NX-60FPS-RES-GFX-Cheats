@@ -1,0 +1,17 @@
+By Hazerou
+For the Framerate + DRS FPS Target, use ⁠fpslocker => Advanced settings => Download & Convert config to patch file then save settings and reboot the game. 
+
+Included in the text file;
+[DR Level 0]
+[DR Level 1]
+[DR Level 2]
+[DR Level 3]
+[DR Level 4]
+[DR Level 5]
+[DR Level 6]
+[DR Level 7]
+
+
+1.) There's a resolution flickering when using [DR Level #].
+
+2.) The higher the DR Level, the lower the resolution. 
