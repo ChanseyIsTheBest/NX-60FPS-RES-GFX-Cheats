@@ -1,60 +1,43 @@
 By Hazerou
-
-[FPS Toggle] Button Combos;
-L + L STICK = 30 FPS
-L + R STICK = 60 FPS
-
 Included in the text file;
 
-[Enable / Disable Dynamic Resolution]
-[RRS]
-[Image Sharpening] <= NEW!
-[Vignette] <= NEW!
-[Motion Blur]
-[Film Grain]
-[CHROM AB]
-[Lens Flare]
-[Sky Lighting Quality]
-[Adaptive Exposure]
-[View Distance Scale]
-[DOF]
-[Anisotropic Filtering]
-[MSAA]
-[AA]
-[Shadow]
-[Shadow Distance]
-[SSAO]
-[Bloom]
-[MIN/MAX/Default GFX Quality]
+[30 / 45 / 60 FPS] with DRS FPS target (Default 30 FPS)
+Fix Low FPS Frameskipping ON/OFF]
+[Default Enable DRS (360p<=>720p)]
+[Enable DRS (540p<=>1080p)]
+[Disable Dynamic Resolution Scaling]
+[ RRS 360p up to 2160p] (Default RRS is 720p according to DRS MAX, SetRes is 720p for both H. & D.)
+[Image Sharpening ON/OFF]
+[TAAU OFF / Stock / Plus]
+[AA OFF / FXAA / TAA]
+[Filtering]
+[Film Grain ON/OFF]
+[Vignette ON/OFF]
+[Foggy Scene ON/OFF]
+[Motion Blur ON/OFF]
+[CHROM AB ON/OFF]
+[Lens Flare ON/OFF]
+[Sky Lighting Quality ON/OFF]
+[Use / Don't Use New Film Tone Mapper]
+[DOF OFF <=> ON]
+[View Distance Scale x0.5 <=> x2]
+[Anisotropic Filtering x1 <=> x16]
+[Shadow OFF <=> Max]
+[Shadow Distance x0.5 <=> x2]
+[SSA0 OFF <=> x2]
+[Bloom OFF <=> Very High]
+[Detail Mode Low <=> High]
+[Adaptive Exposure ON/OFF]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
+[Max Quality Override To Highest ON/OFF]
+[Distortion Effects OFF <=> ON]
 
-Note;
 
-The [GFX Quality] Are For;
+Notes;
 
-[Adaptive Exposure]
-[View Distance Scale]
-[DOF]
-[Anisotropic Filtering]
-[MSAA]
-[AA]
-[Shadow]
-[Shadow Distance]
-[SSAO]
-[Bloom]
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
 
-=====
+2.) [Use TAAU] only for use with [AA Mode = TAA] & [AA Medium], else will crash the game if used on other AA Quality. If you wish to switch AA, Deactivate [Use TAAU] and turn ON [Don't Use TAAU] first.
 
-[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.
-Please use;
-Handheld RRS for Handheld Mode.
-Docked RRS for Docked Mode.
-
-Some GFX Codes has no Function/Effect to the Game.
-
-I also removed;
-
-[AA High (Default TAA)]
-[AA Very High]
-[AA Max]
-
-Because the Game will crash if one of those is used.
+3.) Some GFX Codes has no Function/Effect to the Game. 
