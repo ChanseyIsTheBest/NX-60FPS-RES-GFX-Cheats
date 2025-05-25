@@ -1,0 +1,42 @@
+By Hazerou
+Included in the text file;
+
+[30 /45 / 60 FPS] with DRS FPS target (Default is 30 FPS)
+[Enable DRS (Handheld 180p<=>720p) (Docked 270p<=>1080p)]
+[Enable DRS (Handheld 360p<=>720p) (Docked 540p<=>1080p)]
+[Default Disable Dynamic Resolution Scaling]
+[Handheld RRS 360p up to 1440p] (Default RRS is 504p, SetRes is 720p)
+[Docked RRS 720p up to 2160p] (Default RRS is 720p, SetRes is 1080p)
+[Image Sharpening ON/OFF]
+[Use / Don't Use TAAU]
+[AA OFF / FXAA / TAA / FXAA +TSR / TAA +TSR]
+[Filtering]
+[Rough Refractions (BG Blurring) ON/OFF]
+[Vignette ON/OFF]
+[Foggy Scene ON/OFF]
+[Motion Blur ON/OFF] => Now auto targets current FPS
+[CHROM AB ON/OFF]
+[Lens Flare ON/OFF]
+[Sky Lighting Quality ON/OFF]
+[DOF ON/OFF]
+[View Distance Scale x0.5 <=> x2]
+[Anisotropic Filtering x1 <=> x16]
+[Shadow Low <=> Max]
+[Shadow Distance x0.3 <=> x2]
+[SSA0 OFF <=> x2]
+[Bloom OFF <=> Very High]
+[Detail Mode Low <=> High]
+[Adaptive Exposure ON/OFF]
+[Foliage ON/OFF (Experimental)]
+[Disable / Enable Fully Load Textures ASAP (Experimental)]
+[Max Quality Override To Highest ON/OFF]
+[Distortion Effects ON/OFF]
+
+
+Notes;
+
+1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function. Safe to activate both H. & D. at the same time.
+
+2.) [Use TAAU] only for use with [AA Mode = TAA] or [AA Mode = TAA + TSR], else will crash the game if used on other AA Quality. If you wish to switch AA, Deactivate [Use TAAU] and turn ON [Don't Use TAAU] first. Also there's a display bug when used at RRS not equal to 100%.
+
+3.) Some GFX Codes has no Function/Effect to the Game. 
