@@ -1,0 +1,6 @@
+By masagrator
+How to update:
+Find nnMain()
+Search where 0x300000002LL is written, you will find this way a main pointer used by cheat
+
+Cheat adjusts max available nvn interval, game will adjust itself nvn interval based on available power
